@@ -10,7 +10,7 @@ https://colab.research.google.com/drive/1DPyq0UBxQ99w-EZyYNIX5F-akbUSMGCs?usp=sh
 
 ### Required packages
 
-For this example i am using OpenMichroM 1.0.7
+For this example I am using OpenMichroM 1.0.7
 
 ```
 conda install -c conda-forge OpenMiChroM==1.0.7
