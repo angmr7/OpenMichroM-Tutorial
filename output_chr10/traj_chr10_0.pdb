@@ -1,0 +1,2713 @@
+ATOM      1  CA  GLY A   1       8.642  -4.874  -0.500
+ATOM      2  CA  GLY A   2       9.078  -4.025  -0.341
+ATOM      3  CA  LYS A   3       9.459  -4.320   0.487
+ATOM      4  CA  LYS A   4       9.969  -4.531   1.214
+ATOM      5  CA  LYS A   5       9.178  -4.339   1.733
+ATOM      6  CA  LYS A   6       9.362  -3.566   2.327
+ATOM      7  CA  LYS A   7       9.626  -3.028   1.606
+ATOM      8  CA  LYS A   8       9.855  -2.247   1.044
+ATOM      9  CA  LYS A   9       9.650  -2.120   0.092
+ATOM     10  CA  LYS A  10       9.913  -2.655  -0.594
+ATOM     11  CA  LYS A  11      10.699  -2.184  -0.762
+ATOM     12  CA  LYS A  12      10.843  -1.295  -0.380
+ATOM     13  CA  LYS A  13      10.345  -0.974   0.333
+ATOM     14  CA  LYS A  14      10.251  -0.924   1.334
+ATOM     15  CA  LYS A  15       9.365  -0.683   1.658
+ATOM     16  CA  LYS A  16       8.635  -1.084   2.149
+ATOM     17  CA  LYS A  17       8.459  -1.314   3.069
+ATOM     18  CA  LYS A  18       8.103  -0.962   3.943
+ATOM     19  CA  ASP A  19       8.924  -0.575   3.673
+ATOM     20  CA  ASP A  20       8.979  -0.083   2.881
+ATOM     21  CA  ASP A  21       9.559   0.522   2.391
+ATOM     22  CA  ASP A  22       9.801   0.572   1.459
+ATOM     23  CA  LYS A  23       9.790   0.824   0.571
+ATOM     24  CA  LYS A  24       9.507   0.260  -0.136
+ATOM     25  CA  LYS A  25       9.523   0.774  -0.962
+ATOM     26  CA  LYS A  26       9.610   0.183  -1.643
+ATOM     27  CA  LYS A  27       9.794  -0.556  -1.123
+ATOM     28  CA  LYS A  28       9.398  -1.042  -0.382
+ATOM     29  CA  LYS A  29       8.855  -0.553   0.247
+ATOM     30  CA  LYS A  30       8.591  -0.223   1.128
+ATOM     31  CA  LYS A  31       8.373   0.629   1.543
+ATOM     32  CA  LYS A  32       7.871   0.700   2.345
+ATOM     33  CA  LYS A  33       8.040  -0.232   2.437
+ATOM     34  CA  LYS A  34       7.662  -0.819   1.820
+ATOM     35  CA  LYS A  35       7.595  -1.693   1.467
+ATOM     36  CA  LYS A  36       8.516  -1.933   1.545
+ATOM     37  CA  ARG A  37       8.925  -1.745   0.692
+ATOM     38  CA  ARG A  38       8.415  -1.930  -0.145
+ATOM     39  CA  ARG A  39       7.963  -1.136  -0.349
+ATOM     40  CA  ARG A  40       7.543  -0.607   0.343
+ATOM     41  CA  ARG A  41       8.095   0.092   0.031
+ATOM     42  CA  ARG A  42       8.178   0.669  -0.685
+ATOM     43  CA  ARG A  43       8.416   1.268   0.016
+ATOM     44  CA  ARG A  44       8.946   1.265   0.819
+ATOM     45  CA  ARG A  45       8.347   1.808   1.232
+ATOM     46  CA  ARG A  46       8.204   2.072   2.180
+ATOM     47  CA  ARG A  47       7.293   2.162   2.511
+ATOM     48  CA  ARG A  48       6.776   1.394   2.078
+ATOM     49  CA  ARG A  49       7.168   1.594   1.220
+ATOM     50  CA  ARG A  50       7.254   1.481   0.233
+ATOM     51  CA  ARG A  51       7.659   0.826   0.794
+ATOM     52  CA  ARG A  52       7.282   0.268   1.455
+ATOM     53  CA  ARG A  53       6.352   0.345   1.640
+ATOM     54  CA  ARG A  54       5.993   0.586   0.746
+ATOM     55  CA  ARG A  55       6.341   0.241  -0.029
+ATOM     56  CA  ARG A  56       6.982   0.423  -0.707
+ATOM     57  CA  ARG A  57       7.055   1.284  -1.124
+ATOM     58  CA  ARG A  58       6.311   1.314  -0.436
+ATOM     59  CA  ARG A  59       5.466   1.773  -0.594
+ATOM     60  CA  ARG A  60       4.711   1.487  -1.116
+ATOM     61  CA  LYS A  61       3.867   1.618  -1.473
+ATOM     62  CA  LYS A  62       2.968   1.342  -1.187
+ATOM     63  CA  GLU A  63       3.596   1.350  -0.501
+ATOM     64  CA  GLU A  64       4.263   1.153   0.133
+ATOM     65  CA  LYS A  65       4.333   0.455  -0.592
+ATOM     66  CA  LYS A  66       4.901   0.396  -1.336
+ATOM     67  CA  ARG A  67       4.712   0.443  -2.256
+ATOM     68  CA  ARG A  68       4.156   0.727  -3.032
+ATOM     69  CA  ARG A  69       4.139   1.098  -3.959
+ATOM     70  CA  ARG A  70       3.786   1.904  -4.294
+ATOM     71  CA  LYS A  71       3.447   1.968  -3.403
+ATOM     72  CA  LYS A  72       3.869   1.820  -2.509
+ATOM     73  CA  ARG A  73       4.762   1.544  -2.295
+ATOM     74  CA  ARG A  74       5.356   2.175  -1.808
+ATOM     75  CA  LYS A  75       5.796   2.708  -2.555
+ATOM     76  CA  LYS A  76       5.915   2.472  -3.491
+ATOM     77  CA  GLU A  77       5.774   3.222  -4.025
+ATOM     78  CA  GLU A  78       5.222   3.243  -3.220
+ATOM     79  CA  GLU A  79       5.249   3.598  -2.332
+ATOM     80  CA  GLU A  80       5.546   3.846  -1.450
+ATOM     81  CA  GLU A  81       6.081   3.399  -0.812
+ATOM     82  CA  GLU A  82       6.836   2.855  -0.782
+ATOM     83  CA  LYS A  83       6.186   2.425  -1.246
+ATOM     84  CA  LYS A  84       6.188   1.497  -1.554
+ATOM     85  CA  ARG A  85       5.920   0.745  -2.179
+ATOM     86  CA  ARG A  86       5.538   1.030  -3.004
+ATOM     87  CA  ARG A  87       5.067   1.471  -3.728
+ATOM     88  CA  ARG A  88       4.735   2.366  -3.814
+ATOM     89  CA  ARG A  89       4.758   3.206  -4.269
+ATOM     90  CA  ARG A  90       5.155   4.043  -4.002
+ATOM     91  CA  ARG A  91       5.599   4.861  -3.813
+ATOM     92  CA  ARG A  92       5.049   4.671  -3.040
+ATOM     93  CA  ARG A  93       4.790   4.533  -2.189
+ATOM     94  CA  ARG A  94       3.987   4.328  -1.791
+ATOM     95  CA  ARG A  95       3.623   3.459  -2.219
+ATOM     96  CA  ARG A  96       4.326   3.062  -2.680
+ATOM     97  CA  ARG A  97       4.643   2.878  -1.689
+ATOM     98  CA  ARG A  98       3.807   3.377  -1.449
+ATOM     99  CA  ARG A  99       3.077   3.845  -1.006
+ATOM    100  CA  ARG A 100       2.997   4.746  -0.893
+ATOM    101  CA  ARG A 101       3.505   5.482  -1.279
+ATOM    102  CA  ARG A 102       4.009   6.265  -1.530
+ATOM    103  CA  ARG A 103       4.088   7.016  -2.180
+ATOM    104  CA  ARG A 104       4.971   6.641  -2.065
+ATOM    105  CA  ARG A 105       4.825   5.816  -2.564
+ATOM    106  CA  ARG A 106       4.068   5.468  -2.215
+ATOM    107  CA  ARG A 107       3.198   5.799  -2.032
+ATOM    108  CA  ARG A 108       2.776   6.651  -1.909
+ATOM    109  CA  LYS A 109       3.473   7.020  -2.497
+ATOM    110  CA  LYS A 110       4.148   6.711  -3.100
+ATOM    111  CA  LYS A 111       4.922   6.233  -3.133
+ATOM    112  CA  LYS A 112       4.656   6.347  -4.056
+ATOM    113  CA  GLU A 113       4.757   6.851  -4.839
+ATOM    114  CA  GLU A 114       4.291   6.755  -5.707
+ATOM    115  CA  GLU A 115       3.319   6.549  -6.109
+ATOM    116  CA  GLU A 116       2.392   6.362  -6.339
+ATOM    117  CA  ASP A 117       1.463   6.166  -6.687
+ATOM    118  CA  ASP A 118       0.632   6.460  -7.075
+ATOM    119  CA  ASP A 119      -0.127   6.750  -6.493
+ATOM    120  CA  ASP A 120       0.091   5.793  -6.474
+ATOM    121  CA  GLU A 121      -0.157   4.962  -6.199
+ATOM    122  CA  GLU A 122      -0.177   4.124  -5.733
+ATOM    123  CA  GLU A 123      -0.254   3.267  -5.310
+ATOM    124  CA  GLU A 124      -0.880   3.248  -4.515
+ATOM    125  CA  GLU A 125      -0.994   3.077  -3.500
+ATOM    126  CA  GLU A 126      -0.952   3.387  -2.660
+ATOM    127  CA  GLU A 127      -0.530   3.360  -1.815
+ATOM    128  CA  GLU A 128       0.080   2.866  -1.246
+ATOM    129  CA  GLU A 129       0.964   3.050  -0.958
+ATOM    130  CA  GLU A 130       1.492   2.486  -0.476
+ATOM    131  CA  LYS A 131       2.180   1.786  -0.633
+ATOM    132  CA  LYS A 132       1.749   1.913  -1.426
+ATOM    133  CA  LYS A 133       0.783   1.963  -1.193
+ATOM    134  CA  LYS A 134      -0.016   1.933  -1.672
+ATOM    135  CA  LYS A 135       0.567   2.460  -2.156
+ATOM    136  CA  LYS A 136       1.469   3.012  -2.107
+ATOM    137  CA  ARG A 137       2.134   2.936  -1.476
+ATOM    138  CA  ARG A 138       2.230   3.289  -0.576
+ATOM    139  CA  LYS A 139       2.218   2.972   0.304
+ATOM    140  CA  LYS A 140       2.566   3.900   0.235
+ATOM    141  CA  ARG A 141       1.788   4.014   0.695
+ATOM    142  CA  ARG A 142       1.426   4.028  -0.191
+ATOM    143  CA  ARG A 143       1.687   4.142  -1.113
+ATOM    144  CA  ARG A 144       2.290   4.069  -1.899
+ATOM    145  CA  GLU A 145       2.713   4.105  -2.797
+ATOM    146  CA  GLU A 146       2.753   3.610  -3.612
+ATOM    147  CA  GLU A 147       2.637   2.956  -4.231
+ATOM    148  CA  GLU A 148       3.486   2.516  -4.352
+ATOM    149  CA  GLU A 149       3.912   2.986  -3.644
+ATOM    150  CA  GLU A 150       3.863   3.783  -4.057
+ATOM    151  CA  GLU A 151       3.225   4.300  -4.537
+ATOM    152  CA  GLU A 152       2.790   4.505  -5.290
+ATOM    153  CA  ARG A 153       2.620   3.571  -5.109
+ATOM    154  CA  ARG A 154       3.299   3.137  -5.519
+ATOM    155  CA  ARG A 155       2.917   2.606  -6.174
+ATOM    156  CA  ARG A 156       2.830   1.899  -6.925
+ATOM    157  CA  GLU A 157       2.836   1.448  -7.728
+ATOM    158  CA  GLU A 158       2.653   0.700  -7.171
+ATOM    159  CA  ARG A 159       3.152   0.781  -6.344
+ATOM    160  CA  ARG A 160       3.502   0.150  -6.955
+ATOM    161  CA  ARG A 161       2.841  -0.544  -7.204
+ATOM    162  CA  ARG A 162       1.962  -0.595  -6.867
+ATOM    163  CA  ARG A 163       1.407   0.046  -7.365
+ATOM    164  CA  ARG A 164       0.570  -0.389  -7.600
+ATOM    165  CA  ARG A 165       0.054  -1.011  -8.202
+ATOM    166  CA  ARG A 166      -0.389  -1.783  -7.834
+ATOM    167  CA  ARG A 167      -0.070  -1.216  -7.152
+ATOM    168  CA  ARG A 168       0.756  -1.351  -6.639
+ATOM    169  CA  ARG A 169       0.071  -0.935  -6.016
+ATOM    170  CA  ARG A 170      -0.145  -0.041  -6.077
+ATOM    171  CA  ARG A 171       0.604   0.201  -6.607
+ATOM    172  CA  ARG A 172       0.957   0.608  -5.774
+ATOM    173  CA  ARG A 173       1.601  -0.176  -5.679
+ATOM    174  CA  ARG A 174       1.421   0.184  -4.793
+ATOM    175  CA  ARG A 175       1.471  -0.581  -4.177
+ATOM    176  CA  ARG A 176       1.960  -1.224  -4.702
+ATOM    177  CA  ARG A 177       2.774  -1.468  -4.348
+ATOM    178  CA  ARG A 178       2.743  -1.540  -5.277
+ATOM    179  CA  ARG A 179       2.190  -1.298  -6.035
+ATOM    180  CA  ARG A 180       2.227  -1.606  -7.015
+ATOM    181  CA  ARG A 181       3.109  -1.446  -6.690
+ATOM    182  CA  ARG A 182       3.514  -0.887  -6.018
+ATOM    183  CA  ARG A 183       2.952  -0.101  -5.743
+ATOM    184  CA  ARG A 184       2.500   0.489  -5.219
+ATOM    185  CA  ARG A 185       2.850   1.286  -4.842
+ATOM    186  CA  ARG A 186       3.638   1.510  -5.437
+ATOM    187  CA  ARG A 187       3.748   1.690  -6.368
+ATOM    188  CA  ARG A 188       4.179   1.259  -7.179
+ATOM    189  CA  ARG A 189       4.964   0.674  -7.319
+ATOM    190  CA  ARG A 190       5.873   0.752  -7.706
+ATOM    191  CA  ARG A 191       5.734   1.399  -8.383
+ATOM    192  CA  ARG A 192       5.505   1.364  -9.304
+ATOM    193  CA  ARG A 193       5.772   1.637 -10.181
+ATOM    194  CA  ARG A 194       5.792   1.688 -11.094
+ATOM    195  CA  ARG A 195       5.345   2.383 -11.559
+ATOM    196  CA  ARG A 196       4.567   2.211 -11.117
+ATOM    197  CA  ARG A 197       3.920   1.702 -10.578
+ATOM    198  CA  ARG A 198       2.926   1.722 -10.620
+ATOM    199  CA  ARG A 199       2.658   0.865 -10.815
+ATOM    200  CA  ARG A 200       3.296   0.126 -10.696
+ATOM    201  CA  ARG A 201       4.181   0.023 -10.336
+ATOM    202  CA  ARG A 202       4.997   0.067 -10.808
+ATOM    203  CA  ARG A 203       5.467   0.253  -9.929
+ATOM    204  CA  ARG A 204       4.622   0.750  -9.739
+ATOM    205  CA  ARG A 205       3.684   0.886  -9.787
+ATOM    206  CA  ARG A 206       2.777   1.120  -9.497
+ATOM    207  CA  ARG A 207       1.985   0.623  -9.640
+ATOM    208  CA  ARG A 208       1.092   0.653  -9.320
+ATOM    209  CA  ARG A 209       0.767   1.259  -8.594
+ATOM    210  CA  ARG A 210       1.667   0.881  -8.481
+ATOM    211  CA  ARG A 211       2.485   0.516  -8.775
+ATOM    212  CA  ARG A 212       3.293   0.027  -9.064
+ATOM    213  CA  ARG A 213       4.000  -0.507  -9.427
+ATOM    214  CA  ARG A 214       4.824  -0.886  -9.679
+ATOM    215  CA  ARG A 215       5.681  -1.322  -9.543
+ATOM    216  CA  ARG A 216       5.532  -0.747  -8.752
+ATOM    217  CA  ARG A 217       5.819   0.147  -8.741
+ATOM    218  CA  ARG A 218       5.002   0.642  -8.485
+ATOM    219  CA  ARG A 219       4.166   0.718  -8.892
+ATOM    220  CA  ARG A 220       3.677   1.365  -8.336
+ATOM    221  CA  ARG A 221       3.480   2.171  -8.766
+ATOM    222  CA  ARG A 222       2.858   2.874  -9.047
+ATOM    223  CA  ARG A 223       2.308   3.625  -9.397
+ATOM    224  CA  ARG A 224       2.157   4.280 -10.119
+ATOM    225  CA  GLU A 225       3.103   4.015 -10.068
+ATOM    226  CA  GLU A 226       4.007   3.962  -9.938
+ATOM    227  CA  GLU A 227       4.207   3.854  -9.005
+ATOM    228  CA  GLU A 228       3.395   4.087  -8.668
+ATOM    229  CA  GLU A 229       3.035   4.850  -9.125
+ATOM    230  CA  GLU A 230       2.207   5.253  -9.247
+ATOM    231  CA  GLU A 231       1.544   5.517  -8.538
+ATOM    232  CA  GLU A 232       0.922   5.494  -7.781
+ATOM    233  CA  GLU A 233       0.777   5.157  -6.874
+ATOM    234  CA  GLU A 234       1.681   4.802  -6.548
+ATOM    235  CA  GLU A 235       2.142   5.474  -7.011
+ATOM    236  CA  GLU A 236       2.606   5.641  -7.815
+ATOM    237  CA  GLU A 237       3.241   4.984  -7.494
+ATOM    238  CA  GLU A 238       3.812   5.532  -7.027
+ATOM    239  CA  GLU A 239       4.363   6.123  -6.592
+ATOM    240  CA  GLU A 240       4.550   7.071  -6.723
+ATOM    241  CA  ASP A 241       4.782   7.981  -7.023
+ATOM    242  CA  ASP A 242       4.476   8.713  -7.508
+ATOM    243  CA  ASP A 243       3.622   8.162  -7.450
+ATOM    244  CA  ASP A 244       2.849   7.848  -6.959
+ATOM    245  CA  ASP A 245       2.514   6.961  -7.189
+ATOM    246  CA  ASP A 246       1.590   6.784  -7.544
+ATOM    247  CA  ASP A 247       1.467   7.528  -7.048
+ATOM    248  CA  ASP A 248       1.187   8.119  -6.370
+ATOM    249  CA  ASP A 249       1.473   8.022  -5.501
+ATOM    250  CA  ASP A 250       2.292   7.516  -5.137
+ATOM    251  CA  GLU A 251       2.795   7.799  -5.942
+ATOM    252  CA  GLU A 252       3.732   7.842  -5.813
+ATOM    253  CA  GLU A 253       4.560   8.197  -5.467
+ATOM    254  CA  GLU A 254       4.796   9.064  -5.877
+ATOM    255  CA  GLU A 255       4.676   9.424  -6.718
+ATOM    256  CA  GLU A 256       4.872   9.690  -7.711
+ATOM    257  CA  LYS A 257       5.542   9.006  -7.426
+ATOM    258  CA  LYS A 258       6.159   8.929  -6.658
+ATOM    259  CA  LYS A 259       5.840   9.322  -5.897
+ATOM    260  CA  LYS A 260       5.809   9.765  -4.916
+ATOM    261  CA  LYS A 261       6.023  10.689  -4.810
+ATOM    262  CA  LYS A 262       5.159  10.844  -5.230
+ATOM    263  CA  GLU A 263       4.889  11.607  -4.792
+ATOM    264  CA  GLU A 264       4.520  11.142  -3.999
+ATOM    265  CA  GLU A 265       4.856  10.264  -3.848
+ATOM    266  CA  GLU A 266       4.918   9.324  -4.272
+ATOM    267  CA  GLU A 267       4.652   9.697  -5.140
+ATOM    268  CA  GLU A 268       4.136  10.456  -5.171
+ATOM    269  CA  LYS A 269       3.447  10.318  -4.522
+ATOM    270  CA  LYS A 270       3.587   9.517  -3.963
+ATOM    271  CA  LYS A 271       3.965   8.656  -3.878
+ATOM    272  CA  LYS A 272       3.333   7.905  -3.675
+ATOM    273  CA  GLU A 273       3.118   7.604  -4.592
+ATOM    274  CA  GLU A 274       3.220   8.546  -4.923
+ATOM    275  CA  GLU A 275       3.734   9.024  -5.541
+ATOM    276  CA  GLU A 276       3.326   8.655  -6.366
+ATOM    277  CA  GLU A 277       2.853   8.933  -7.318
+ATOM    278  CA  GLU A 278       2.046   8.732  -7.783
+ATOM    279  CA  GLU A 279       1.665   8.968  -6.910
+ATOM    280  CA  GLU A 280       1.934   8.765  -6.007
+ATOM    281  CA  GLU A 281       2.172   8.875  -5.057
+ATOM    282  CA  GLU A 282       1.729   8.849  -4.184
+ATOM    283  CA  LYS A 283       1.762   8.216  -3.529
+ATOM    284  CA  LYS A 284       2.446   7.475  -3.387
+ATOM    285  CA  LYS A 285       3.328   7.797  -3.179
+ATOM    286  CA  LYS A 286       4.088   8.249  -2.950
+ATOM    287  CA  LYS A 287       4.557   7.800  -3.641
+ATOM    288  CA  LYS A 288       3.999   7.187  -4.077
+ATOM    289  CA  LYS A 289       3.275   6.629  -3.830
+ATOM    290  CA  LYS A 290       2.539   5.935  -3.720
+ATOM    291  CA  GLU A 291       2.052   5.132  -3.607
+ATOM    292  CA  GLU A 292       1.801   4.159  -3.422
+ATOM    293  CA  GLU A 293       1.893   3.633  -4.162
+ATOM    294  CA  GLU A 294       1.337   4.082  -4.872
+ATOM    295  CA  GLU A 295       1.774   4.610  -5.510
+ATOM    296  CA  GLU A 296       2.124   5.499  -5.699
+ATOM    297  CA  GLU A 297       1.172   5.538  -5.639
+ATOM    298  CA  GLU A 298       0.396   5.892  -5.242
+ATOM    299  CA  GLU A 299       0.252   6.278  -4.354
+ATOM    300  CA  GLU A 300       1.038   5.783  -4.395
+ATOM    301  CA  GLU A 301       0.885   4.858  -4.240
+ATOM    302  CA  GLU A 302       0.334   4.067  -4.247
+ATOM    303  CA  GLU A 303       0.918   3.614  -3.638
+ATOM    304  CA  GLU A 304       0.645   2.806  -3.235
+ATOM    305  CA  GLU A 305       0.714   3.613  -2.561
+ATOM    306  CA  GLU A 306       0.625   4.550  -2.369
+ATOM    307  CA  ARG A 307       0.295   5.136  -3.071
+ATOM    308  CA  ARG A 308       0.824   5.929  -3.222
+ATOM    309  CA  ARG A 309       0.765   6.624  -2.509
+ATOM    310  CA  ARG A 310       0.956   7.391  -3.008
+ATOM    311  CA  ARG A 311       1.668   6.730  -3.054
+ATOM    312  CA  ARG A 312       2.085   6.010  -2.602
+ATOM    313  CA  ARG A 313       2.346   5.195  -2.209
+ATOM    314  CA  ARG A 314       1.521   4.849  -2.638
+ATOM    315  CA  ARG A 315       1.310   5.463  -1.942
+ATOM    316  CA  ARG A 316       1.286   6.327  -1.524
+ATOM    317  CA  ARG A 317       1.427   7.113  -1.978
+ATOM    318  CA  ARG A 318       2.011   7.805  -2.434
+ATOM    319  CA  ARG A 319       1.429   8.562  -2.181
+ATOM    320  CA  ARG A 320       1.669   8.505  -1.237
+ATOM    321  CA  ARG A 321       1.642   7.652  -0.761
+ATOM    322  CA  ARG A 322       1.670   6.696  -0.570
+ATOM    323  CA  ARG A 323       1.666   5.874  -0.116
+ATOM    324  CA  ARG A 324       2.384   5.380  -0.541
+ATOM    325  CA  ARG A 325       2.826   6.046  -1.038
+ATOM    326  CA  ARG A 326       3.149   6.901  -0.868
+ATOM    327  CA  ARG A 327       3.310   7.476  -1.611
+ATOM    328  CA  ARG A 328       3.063   8.155  -2.208
+ATOM    329  CA  ARG A 329       3.184   8.822  -2.907
+ATOM    330  CA  ARG A 330       2.680   9.111  -2.143
+ATOM    331  CA  ARG A 331       2.860   8.734  -1.299
+ATOM    332  CA  ARG A 332       2.673   7.925  -0.825
+ATOM    333  CA  ARG A 333       3.052   8.012   0.011
+ATOM    334  CA  ARG A 334       3.241   8.878   0.294
+ATOM    335  CA  ARG A 335       3.550   9.708  -0.087
+ATOM    336  CA  ARG A 336       4.254  10.334   0.148
+ATOM    337  CA  ARG A 337       5.197  10.277   0.018
+ATOM    338  CA  ARG A 338       4.969   9.559  -0.607
+ATOM    339  CA  ARG A 339       4.339   8.863  -0.804
+ATOM    340  CA  ARG A 340       3.680   8.163  -0.836
+ATOM    341  CA  ARG A 341       4.117   7.626  -0.145
+ATOM    342  CA  ARG A 342       4.249   6.795   0.252
+ATOM    343  CA  ARG A 343       3.770   5.935   0.348
+ATOM    344  CA  ARG A 344       3.002   5.452   0.428
+ATOM    345  CA  ARG A 345       2.087   5.449   0.870
+ATOM    346  CA  ARG A 346       2.079   6.487   0.827
+ATOM    347  CA  ARG A 347       2.057   7.395   0.409
+ATOM    348  CA  ARG A 348       2.909   6.936   0.381
+ATOM    349  CA  ARG A 349       3.330   6.989   1.236
+ATOM    350  CA  ARG A 350       3.748   7.783   1.625
+ATOM    351  CA  ARG A 351       2.937   8.065   2.020
+ATOM    352  CA  ARG A 352       2.610   7.851   2.900
+ATOM    353  CA  GLU A 353       2.304   7.269   2.252
+ATOM    354  CA  GLU A 354       2.054   7.719   1.383
+ATOM    355  CA  GLU A 355       2.491   8.386   0.917
+ATOM    356  CA  GLU A 356       2.133   9.080   0.430
+ATOM    357  CA  GLY A 357       2.070   9.469   1.312
+ATOM    358  CA  GLY A 358       2.167   9.085   2.181
+ATOM    359  CA  GLY A 359       1.386   8.689   1.757
+ATOM    360  CA  GLY A 360       1.132   8.520   0.852
+ATOM    361  CA  GLY A 361       0.259   8.875   0.575
+ATOM    362  CA  GLY A 362      -0.726   8.572   0.554
+ATOM    363  CA  GLY A 363      -0.519   8.574   1.488
+ATOM    364  CA  GLY A 364       0.269   8.852   1.960
+ATOM    365  CA  ARG A 365       0.675   9.588   1.502
+ATOM    366  CA  ARG A 366       1.040   9.739   0.620
+ATOM    367  CA  ARG A 367       0.162   9.414   0.422
+ATOM    368  CA  ARG A 368       0.052   9.620  -0.501
+ATOM    369  CA  ARG A 369       1.047   9.681  -0.786
+ATOM    370  CA  ARG A 370       1.762   9.661  -1.367
+ATOM    371  CA  ARG A 371       2.185  10.630  -1.535
+ATOM    372  CA  ARG A 372       3.049  10.972  -1.659
+ATOM    373  CA  GLU A 373       3.567  11.154  -0.885
+ATOM    374  CA  GLU A 374       2.963  10.419  -0.685
+ATOM    375  CA  GLU A 375       2.178  10.404  -0.162
+ATOM    376  CA  GLU A 376       1.461  10.943  -0.530
+ATOM    377  CA  ARG A 377       0.924  11.552  -0.964
+ATOM    378  CA  ARG A 378       0.929  11.955  -1.798
+ATOM    379  CA  ARG A 379       0.593  12.470  -2.575
+ATOM    380  CA  ARG A 380       1.066  12.185  -3.430
+ATOM    381  CA  ARG A 381       1.619  12.466  -2.675
+ATOM    382  CA  ARG A 382       1.959  12.395  -1.808
+ATOM    383  CA  ARG A 383       2.820  12.813  -1.862
+ATOM    384  CA  ARG A 384       3.256  12.125  -1.414
+ATOM    385  CA  ARG A 385       3.319  11.811  -2.286
+ATOM    386  CA  ARG A 386       2.486  11.877  -2.818
+ATOM    387  CA  ARG A 387       2.639  12.601  -3.317
+ATOM    388  CA  ARG A 388       3.365  13.113  -3.660
+ATOM    389  CA  ARG A 389       4.159  12.854  -3.157
+ATOM    390  CA  ARG A 390       4.069  11.883  -3.071
+ATOM    391  CA  ARG A 391       3.908  11.045  -2.661
+ATOM    392  CA  ARG A 392       3.266  10.592  -3.177
+ATOM    393  CA  ARG A 393       3.314  11.364  -3.815
+ATOM    394  CA  ARG A 394       2.354  11.653  -3.812
+ATOM    395  CA  ARG A 395       1.658  11.317  -3.257
+ATOM    396  CA  ARG A 396       2.054  10.803  -2.504
+ATOM    397  CA  ARG A 397       2.043  10.135  -3.245
+ATOM    398  CA  ARG A 398       2.118   9.172  -3.046
+ATOM    399  CA  ARG A 399       2.989   9.506  -3.060
+ATOM    400  CA  ARG A 400       3.535   9.971  -2.336
+ATOM    401  CA  ARG A 401       4.052  10.311  -1.618
+ATOM    402  CA  ARG A 402       4.758  10.958  -1.466
+ATOM    403  CA  ARG A 403       5.272  11.711  -1.893
+ATOM    404  CA  ARG A 404       5.336  11.400  -2.786
+ATOM    405  CA  ARG A 405       5.044  10.501  -2.788
+ATOM    406  CA  ARG A 406       4.440   9.721  -2.983
+ATOM    407  CA  ARG A 407       4.904   9.176  -2.351
+ATOM    408  CA  ARG A 408       5.720   9.129  -1.840
+ATOM    409  CA  ARG A 409       6.568   8.707  -2.061
+ATOM    410  CA  ARG A 410       6.221   9.085  -2.902
+ATOM    411  CA  ARG A 411       5.362   9.169  -3.314
+ATOM    412  CA  ARG A 412       5.554   8.245  -3.687
+ATOM    413  CA  ARG A 413       5.175   7.843  -2.762
+ATOM    414  CA  ARG A 414       4.728   8.081  -1.892
+ATOM    415  CA  ARG A 415       4.791   7.337  -1.303
+ATOM    416  CA  ARG A 416       5.704   7.509  -1.497
+ATOM    417  CA  ARG A 417       6.517   7.947  -1.273
+ATOM    418  CA  ARG A 418       7.399   7.815  -1.033
+ATOM    419  CA  ARG A 419       8.053   7.052  -1.004
+ATOM    420  CA  ARG A 420       7.324   6.601  -0.633
+ATOM    421  CA  ARG A 421       6.531   6.928  -0.223
+ATOM    422  CA  ARG A 422       6.230   7.796  -0.345
+ATOM    423  CA  ARG A 423       6.291   6.789  -0.498
+ATOM    424  CA  ARG A 424       6.067   6.139   0.285
+ATOM    425  CA  ARG A 425       6.178   5.883   1.221
+ATOM    426  CA  ARG A 426       6.691   6.630   1.434
+ATOM    427  CA  ARG A 427       7.303   7.333   1.807
+ATOM    428  CA  ARG A 428       7.286   7.097   0.884
+ATOM    429  CA  ARG A 429       7.141   6.252   0.503
+ATOM    430  CA  ARG A 430       7.243   5.587  -0.134
+ATOM    431  CA  ARG A 431       7.289   5.464  -1.035
+ATOM    432  CA  ARG A 432       7.169   6.211  -1.609
+ATOM    433  CA  ARG A 433       8.003   6.510  -1.858
+ATOM    434  CA  ARG A 434       8.814   6.740  -1.456
+ATOM    435  CA  ARG A 435       9.272   6.220  -0.763
+ATOM    436  CA  ARG A 436       9.386   6.301   0.213
+ATOM    437  CA  GLU A 437       9.365   6.849   1.013
+ATOM    438  CA  GLU A 438       8.480   6.975   1.168
+ATOM    439  CA  GLU A 439       8.099   7.391   0.365
+ATOM    440  CA  GLU A 440       7.459   8.002   0.111
+ATOM    441  CA  GLU A 441       6.914   8.704  -0.346
+ATOM    442  CA  GLU A 442       6.289   8.646  -1.047
+ATOM    443  CA  GLU A 443       5.397   8.483  -0.675
+ATOM    444  CA  GLU A 444       4.676   8.043  -0.247
+ATOM    445  CA  GLU A 445       5.052   8.593   0.460
+ATOM    446  CA  GLU A 446       4.868   7.803   1.087
+ATOM    447  CA  ARG A 447       5.417   7.154   0.564
+ATOM    448  CA  ARG A 448       6.088   7.800   0.734
+ATOM    449  CA  ARG A 449       5.912   8.605   1.127
+ATOM    450  CA  ARG A 450       5.563   8.917   1.945
+ATOM    451  CA  GLU A 451       5.206   8.030   2.007
+ATOM    452  CA  GLU A 452       5.846   7.283   2.216
+ATOM    453  CA  GLU A 453       5.710   6.579   2.802
+ATOM    454  CA  GLU A 454       5.697   6.465   3.778
+ATOM    455  CA  GLU A 455       5.999   6.630   4.677
+ATOM    456  CA  GLU A 456       5.357   5.919   4.540
+ATOM    457  CA  GLU A 457       5.624   5.347   3.843
+ATOM    458  CA  GLU A 458       5.875   5.191   2.857
+ATOM    459  CA  GLU A 459       5.543   5.592   2.011
+ATOM    460  CA  GLU A 460       5.146   6.058   1.241
+ATOM    461  CA  GLU A 461       4.189   6.042   1.263
+ATOM    462  CA  GLU A 462       3.620   5.293   1.264
+ATOM    463  CA  ARG A 463       2.975   5.775   1.768
+ATOM    464  CA  ARG A 464       2.800   6.238   2.569
+ATOM    465  CA  ARG A 465       3.673   6.564   2.300
+ATOM    466  CA  ARG A 466       4.576   6.254   2.352
+ATOM    467  CA  ARG A 467       4.710   5.406   2.775
+ATOM    468  CA  ARG A 468       4.414   5.687   3.669
+ATOM    469  CA  ARG A 469       4.259   5.944   4.633
+ATOM    470  CA  ARG A 470       4.461   6.853   4.445
+ATOM    471  CA  ARG A 471       3.614   7.016   4.063
+ATOM    472  CA  ARG A 472       3.529   6.272   3.385
+ATOM    473  CA  ARG A 473       3.399   5.374   3.098
+ATOM    474  CA  ARG A 474       3.047   4.561   3.416
+ATOM    475  CA  ARG A 475       2.515   4.818   2.632
+ATOM    476  CA  ARG A 476       2.611   4.502   1.728
+ATOM    477  CA  ARG A 477       3.504   4.543   1.927
+ATOM    478  CA  ARG A 478       3.802   4.138   2.752
+ATOM    479  CA  ARG A 479       3.080   3.632   2.409
+ATOM    480  CA  ARG A 480       3.054   3.565   1.455
+ATOM    481  CA  ARG A 481       3.517   2.955   0.951
+ATOM    482  CA  ARG A 482       4.174   2.566   0.435
+ATOM    483  CA  ARG A 483       3.481   2.654  -0.259
+ATOM    484  CA  ARG A 484       3.218   2.501  -1.213
+ATOM    485  CA  ARG A 485       3.041   2.460  -2.158
+ATOM    486  CA  ARG A 486       2.544   2.701  -2.893
+ATOM    487  CA  ARG A 487       2.407   1.887  -3.369
+ATOM    488  CA  ARG A 488       2.003   1.728  -4.244
+ATOM    489  CA  ARG A 489       1.389   2.147  -3.666
+ATOM    490  CA  ARG A 490       1.571   2.001  -2.719
+ATOM    491  CA  ARG A 491       2.351   1.735  -2.264
+ATOM    492  CA  ARG A 492       1.775   1.233  -2.902
+ATOM    493  CA  ARG A 493       0.927   1.221  -3.350
+ATOM    494  CA  ARG A 494       0.247   1.663  -3.891
+ATOM    495  CA  ARG A 495      -0.263   2.145  -4.622
+ATOM    496  CA  ARG A 496      -1.031   2.252  -5.235
+ATOM    497  CA  ARG A 497      -1.747   1.665  -5.448
+ATOM    498  CA  ARG A 498      -2.355   0.902  -5.470
+ATOM    499  CA  GLU A 499      -2.805   0.103  -5.923
+ATOM    500  CA  GLU A 500      -2.816  -0.906  -6.111
+ATOM    501  CA  GLU A 501      -3.807  -0.893  -6.520
+ATOM    502  CA  GLU A 502      -4.333  -0.382  -5.915
+ATOM    503  CA  GLU A 503      -4.134  -0.063  -5.034
+ATOM    504  CA  GLU A 504      -4.080  -0.758  -4.281
+ATOM    505  CA  GLU A 505      -4.009  -1.245  -5.117
+ATOM    506  CA  GLU A 506      -3.179  -0.786  -4.994
+ATOM    507  CA  ARG A 507      -2.501  -1.212  -4.378
+ATOM    508  CA  ARG A 508      -1.725  -1.548  -3.954
+ATOM    509  CA  ARG A 509      -0.906  -1.766  -4.343
+ATOM    510  CA  ARG A 510      -1.370  -1.928  -5.230
+ATOM    511  CA  ARG A 511      -2.306  -2.013  -5.400
+ATOM    512  CA  ARG A 512      -1.954  -2.317  -4.583
+ATOM    513  CA  ARG A 513      -1.451  -2.520  -3.752
+ATOM    514  CA  ARG A 514      -2.258  -2.207  -3.396
+ATOM    515  CA  ARG A 515      -1.729  -2.295  -2.577
+ATOM    516  CA  ARG A 516      -2.551  -2.847  -2.489
+ATOM    517  CA  ARG A 517      -2.718  -2.325  -3.307
+ATOM    518  CA  ARG A 518      -2.618  -1.361  -3.227
+ATOM    519  CA  ARG A 519      -2.724  -1.777  -2.402
+ATOM    520  CA  ARG A 520      -2.194  -1.873  -1.550
+ATOM    521  CA  ARG A 521      -1.804  -2.761  -1.567
+ATOM    522  CA  ARG A 522      -2.236  -3.237  -2.306
+ATOM    523  CA  ARG A 523      -2.074  -3.357  -3.232
+ATOM    524  CA  ARG A 524      -1.304  -3.664  -3.701
+ATOM    525  CA  ARG A 525      -0.524  -3.219  -4.145
+ATOM    526  CA  ARG A 526      -0.794  -2.783  -4.982
+ATOM    527  CA  ARG A 527      -1.071  -2.763  -5.871
+ATOM    528  CA  ARG A 528      -0.654  -3.554  -6.209
+ATOM    529  CA  ARG A 529      -0.972  -3.761  -7.096
+ATOM    530  CA  ARG A 530      -1.572  -3.034  -7.198
+ATOM    531  CA  ARG A 531      -1.818  -2.280  -6.680
+ATOM    532  CA  ARG A 532      -2.139  -2.824  -5.948
+ATOM    533  CA  GLU A 533      -2.974  -3.198  -5.636
+ATOM    534  CA  GLU A 534      -2.221  -3.738  -5.525
+ATOM    535  CA  GLU A 535      -1.490  -3.724  -4.876
+ATOM    536  CA  GLU A 536      -1.560  -4.128  -3.980
+ATOM    537  CA  GLU A 537      -1.089  -4.659  -3.307
+ATOM    538  CA  GLU A 538      -1.715  -4.869  -2.621
+ATOM    539  CA  GLU A 539      -2.213  -5.040  -3.455
+ATOM    540  CA  GLU A 540      -2.171  -5.923  -2.968
+ATOM    541  CA  GLU A 541      -2.389  -6.441  -2.175
+ATOM    542  CA  GLU A 542      -2.792  -6.324  -1.335
+ATOM    543  CA  GLU A 543      -3.208  -6.043  -0.513
+ATOM    544  CA  GLU A 544      -4.007  -6.286  -0.953
+ATOM    545  CA  GLU A 545      -3.893  -6.337  -1.879
+ATOM    546  CA  GLU A 546      -4.003  -5.421  -1.775
+ATOM    547  CA  GLU A 547      -4.111  -4.461  -1.877
+ATOM    548  CA  GLU A 548      -4.799  -3.753  -1.713
+ATOM    549  CA  GLU A 549      -5.200  -2.974  -2.032
+ATOM    550  CA  GLU A 550      -5.815  -2.306  -1.941
+ATOM    551  CA  GLU A 551      -6.028  -1.357  -1.893
+ATOM    552  CA  GLU A 552      -5.806  -0.964  -2.766
+ATOM    553  CA  ARG A 553      -5.490  -1.432  -3.497
+ATOM    554  CA  ARG A 554      -5.564  -2.373  -3.440
+ATOM    555  CA  ARG A 555      -4.621  -2.448  -3.139
+ATOM    556  CA  ARG A 556      -3.833  -2.178  -3.691
+ATOM    557  CA  ARG A 557      -3.590  -1.297  -3.532
+ATOM    558  CA  ARG A 558      -4.359  -1.419  -2.971
+ATOM    559  CA  ARG A 559      -4.695  -1.885  -2.148
+ATOM    560  CA  ARG A 560      -3.960  -2.474  -2.341
+ATOM    561  CA  ARG A 561      -3.616  -3.230  -2.845
+ATOM    562  CA  ARG A 562      -3.235  -3.621  -3.612
+ATOM    563  CA  ARG A 563      -3.894  -4.237  -3.393
+ATOM    564  CA  ARG A 564      -4.614  -4.858  -3.458
+ATOM    565  CA  ARG A 565      -4.743  -5.343  -4.301
+ATOM    566  CA  ARG A 566      -4.689  -4.413  -4.391
+ATOM    567  CA  ARG A 567      -4.288  -3.585  -4.152
+ATOM    568  CA  ARG A 568      -3.515  -3.273  -4.666
+ATOM    569  CA  ARG A 569      -3.468  -2.289  -4.929
+ATOM    570  CA  ARG A 570      -4.281  -2.516  -5.372
+ATOM    571  CA  ARG A 571      -4.783  -2.775  -4.546
+ATOM    572  CA  ARG A 572      -5.121  -3.547  -5.041
+ATOM    573  CA  ARG A 573      -4.220  -3.580  -5.324
+ATOM    574  CA  ARG A 574      -3.426  -4.135  -5.417
+ATOM    575  CA  ARG A 575      -3.369  -4.673  -4.563
+ATOM    576  CA  ARG A 576      -2.368  -4.881  -4.415
+ATOM    577  CA  GLU A 577      -1.450  -5.203  -4.340
+ATOM    578  CA  GLU A 578      -0.735  -4.955  -4.888
+ATOM    579  CA  ARG A 579      -0.574  -4.018  -5.139
+ATOM    580  CA  ARG A 580       0.049  -4.203  -5.844
+ATOM    581  CA  ARG A 581      -0.083  -5.158  -5.728
+ATOM    582  CA  ARG A 582       0.625  -5.764  -5.982
+ATOM    583  CA  ARG A 583       0.581  -5.325  -6.847
+ATOM    584  CA  ARG A 584       0.388  -4.442  -6.780
+ATOM    585  CA  ARG A 585       0.122  -3.598  -7.172
+ATOM    586  CA  ARG A 586       0.162  -2.873  -7.756
+ATOM    587  CA  ARG A 587       0.774  -2.472  -7.092
+ATOM    588  CA  ARG A 588      -0.152  -2.504  -6.766
+ATOM    589  CA  ARG A 589      -0.097  -2.599  -5.775
+ATOM    590  CA  ARG A 590       0.010  -1.901  -5.199
+ATOM    591  CA  ARG A 591       0.785  -1.459  -4.775
+ATOM    592  CA  ARG A 592       0.805  -0.578  -5.240
+ATOM    593  CA  ARG A 593      -0.157  -0.364  -5.029
+ATOM    594  CA  ARG A 594      -0.908  -0.977  -5.179
+ATOM    595  CA  ARG A 595      -1.772  -0.595  -5.131
+ATOM    596  CA  ARG A 596      -1.773   0.075  -4.442
+ATOM    597  CA  ARG A 597      -1.166   0.502  -5.005
+ATOM    598  CA  ARG A 598      -0.371   0.781  -5.462
+ATOM    599  CA  LYS A 599       0.200   1.248  -6.166
+ATOM    600  CA  LYS A 600       0.396   2.122  -6.296
+ATOM    601  CA  ARG A 601       0.211   2.002  -7.214
+ATOM    602  CA  ARG A 602       1.020   1.893  -7.832
+ATOM    603  CA  ARG A 603       0.919   1.169  -7.256
+ATOM    604  CA  ARG A 604       1.715   1.216  -6.758
+ATOM    605  CA  LYS A 605       2.101   1.620  -5.983
+ATOM    606  CA  LYS A 606       2.900   2.171  -5.799
+ATOM    607  CA  LYS A 607       2.179   2.311  -5.139
+ATOM    608  CA  LYS A 608       1.531   2.955  -5.067
+ATOM    609  CA  LYS A 609       1.251   2.606  -5.915
+ATOM    610  CA  LYS A 610       1.838   2.591  -6.698
+ATOM    611  CA  LYS A 611       2.451   3.275  -6.958
+ATOM    612  CA  LYS A 612       2.687   4.069  -6.477
+ATOM    613  CA  GLU A 613       2.114   3.489  -5.930
+ATOM    614  CA  GLU A 614       1.169   3.708  -5.930
+ATOM    615  CA  ASP A 615       0.450   3.941  -6.618
+ATOM    616  CA  ASP A 616       1.125   3.941  -7.234
+ATOM    617  CA  GLU A 617       1.828   4.451  -7.651
+ATOM    618  CA  GLU A 618       2.214   3.911  -8.366
+ATOM    619  CA  GLU A 619       2.589   3.100  -7.991
+ATOM    620  CA  GLU A 620       1.829   2.493  -7.855
+ATOM    621  CA  GLU A 621       1.321   3.250  -8.006
+ATOM    622  CA  GLU A 622       0.930   4.097  -8.271
+ATOM    623  CA  GLU A 623       0.827   4.551  -9.098
+ATOM    624  CA  GLU A 624       1.072   4.680 -10.002
+ATOM    625  CA  GLU A 625       0.391   5.120 -10.529
+ATOM    626  CA  GLU A 626      -0.555   5.232 -10.458
+ATOM    627  CA  GLU A 627      -0.936   4.372 -10.470
+ATOM    628  CA  GLU A 628      -1.021   3.366 -10.562
+ATOM    629  CA  GLU A 629      -0.832   2.927  -9.758
+ATOM    630  CA  GLU A 630      -0.555   2.286  -9.144
+ATOM    631  CA  GLU A 631      -0.640   1.361  -8.839
+ATOM    632  CA  GLU A 632       0.218   1.470  -9.375
+ATOM    633  CA  GLU A 633       0.688   2.140  -9.875
+ATOM    634  CA  GLU A 634       0.843   3.061 -10.103
+ATOM    635  CA  GLU A 635       1.149   2.370 -10.698
+ATOM    636  CA  GLU A 636       1.881   2.561 -10.114
+ATOM    637  CA  GLU A 637       2.285   2.102  -9.427
+ATOM    638  CA  GLU A 638       1.457   2.443  -9.088
+ATOM    639  CA  GLU A 639       0.756   3.003  -8.977
+ATOM    640  CA  GLU A 640       0.001   3.510  -8.654
+ATOM    641  CA  GLU A 641      -0.353   3.483  -7.737
+ATOM    642  CA  GLU A 642      -0.709   4.045  -7.086
+ATOM    643  CA  GLU A 643      -1.189   3.721  -7.857
+ATOM    644  CA  GLU A 644      -1.526   3.894  -8.813
+ATOM    645  CA  GLU A 645      -2.237   3.395  -9.188
+ATOM    646  CA  GLU A 646      -2.876   3.513  -8.502
+ATOM    647  CA  GLU A 647      -2.512   4.287  -8.029
+ATOM    648  CA  GLU A 648      -2.938   4.501  -8.908
+ATOM    649  CA  GLU A 649      -3.231   4.202  -9.782
+ATOM    650  CA  GLU A 650      -2.214   4.293  -9.750
+ATOM    651  CA  GLU A 651      -1.336   4.384  -9.348
+ATOM    652  CA  GLU A 652      -1.400   5.117  -8.746
+ATOM    653  CA  GLU A 653      -0.652   5.696  -8.894
+ATOM    654  CA  GLU A 654      -0.005   5.225  -9.547
+ATOM    655  CA  ARG A 655      -0.012   4.263  -9.650
+ATOM    656  CA  ARG A 656      -0.501   3.922  -8.906
+ATOM    657  CA  ARG A 657      -0.423   4.561  -8.186
+ATOM    658  CA  ARG A 658      -0.145   5.254  -7.639
+ATOM    659  CA  ARG A 659      -0.792   5.311  -6.922
+ATOM    660  CA  ARG A 660      -1.221   4.751  -6.304
+ATOM    661  CA  ARG A 661      -1.844   4.530  -7.024
+ATOM    662  CA  ARG A 662      -1.883   5.139  -7.825
+ATOM    663  CA  ARG A 663      -1.687   6.038  -7.845
+ATOM    664  CA  ARG A 664      -2.578   5.982  -7.778
+ATOM    665  CA  ARG A 665      -2.626   5.289  -7.102
+ATOM    666  CA  ARG A 666      -2.705   6.165  -6.764
+ATOM    667  CA  ARG A 667      -2.248   7.018  -6.665
+ATOM    668  CA  ARG A 668      -3.025   6.901  -6.061
+ATOM    669  CA  ARG A 669      -2.560   6.105  -5.568
+ATOM    670  CA  ARG A 670      -1.749   6.100  -6.087
+ATOM    671  CA  ARG A 671      -1.903   5.217  -5.720
+ATOM    672  CA  ARG A 672      -2.672   4.724  -5.916
+ATOM    673  CA  ARG A 673      -3.526   4.442  -5.811
+ATOM    674  CA  ARG A 674      -3.207   3.759  -5.224
+ATOM    675  CA  ARG A 675      -2.583   4.414  -4.789
+ATOM    676  CA  ARG A 676      -1.656   4.689  -4.770
+ATOM    677  CA  ARG A 677      -1.099   4.533  -3.996
+ATOM    678  CA  ARG A 678      -1.838   5.171  -4.174
+ATOM    679  CA  ARG A 679      -2.247   5.988  -4.149
+ATOM    680  CA  ARG A 680      -2.868   6.484  -3.665
+ATOM    681  CA  ARG A 681      -3.091   5.616  -3.879
+ATOM    682  CA  ARG A 682      -3.546   4.727  -3.908
+ATOM    683  CA  ARG A 683      -3.980   4.342  -4.758
+ATOM    684  CA  ARG A 684      -3.695   4.887  -5.518
+ATOM    685  CA  ARG A 685      -3.320   5.602  -5.131
+ATOM    686  CA  ARG A 686      -3.671   6.168  -4.491
+ATOM    687  CA  ARG A 687      -4.592   6.703  -4.190
+ATOM    688  CA  ARG A 688      -4.531   7.221  -3.327
+ATOM    689  CA  ARG A 689      -3.658   7.405  -3.035
+ATOM    690  CA  ARG A 690      -2.706   7.611  -3.145
+ATOM    691  CA  ARG A 691      -1.988   6.898  -3.026
+ATOM    692  CA  ARG A 692      -2.312   7.272  -2.213
+ATOM    693  CA  ARG A 693      -2.425   8.278  -2.273
+ATOM    694  CA  ARG A 694      -1.591   8.063  -2.776
+ATOM    695  CA  ARG A 695      -0.893   7.650  -3.242
+ATOM    696  CA  ARG A 696      -0.769   6.813  -3.752
+ATOM    697  CA  GLU A 697      -0.685   6.384  -4.655
+ATOM    698  CA  GLU A 698      -1.365   6.757  -5.219
+ATOM    699  CA  GLU A 699      -1.273   7.260  -6.083
+ATOM    700  CA  GLU A 700      -0.598   7.617  -5.512
+ATOM    701  CA  GLU A 701      -0.056   7.522  -4.738
+ATOM    702  CA  GLU A 702       0.551   7.401  -5.468
+ATOM    703  CA  GLU A 703       0.805   7.195  -6.330
+ATOM    704  CA  GLU A 704       1.340   6.643  -5.695
+ATOM    705  CA  LYS A 705       2.112   6.530  -5.044
+ATOM    706  CA  LYS A 706       1.673   6.458  -4.114
+ATOM    707  CA  GLU A 707       0.913   6.935  -3.858
+ATOM    708  CA  GLU A 708       0.994   7.704  -4.407
+ATOM    709  CA  GLU A 709       0.663   8.380  -4.979
+ATOM    710  CA  GLU A 710      -0.102   8.573  -5.467
+ATOM    711  CA  GLU A 711      -0.836   8.421  -4.845
+ATOM    712  CA  GLU A 712      -1.604   7.911  -4.979
+ATOM    713  CA  GLU A 713      -1.888   7.142  -4.402
+ATOM    714  CA  GLU A 714      -2.730   6.759  -4.779
+ATOM    715  CA  GLU A 715      -3.467   7.294  -4.294
+ATOM    716  CA  GLU A 716      -4.189   7.883  -4.065
+ATOM    717  CA  ARG A 717      -4.520   8.369  -4.852
+ATOM    718  CA  ARG A 718      -3.530   8.330  -4.756
+ATOM    719  CA  ARG A 719      -2.600   8.416  -4.888
+ATOM    720  CA  ARG A 720      -2.005   8.363  -4.086
+ATOM    721  CA  ARG A 721      -1.311   9.006  -4.086
+ATOM    722  CA  ARG A 722      -0.696   8.864  -3.405
+ATOM    723  CA  ARG A 723      -0.966   7.921  -3.798
+ATOM    724  CA  ARG A 724      -0.017   8.171  -3.714
+ATOM    725  CA  ARG A 725       0.778   8.137  -3.155
+ATOM    726  CA  ARG A 726       0.339   8.519  -2.392
+ATOM    727  CA  ARG A 727       0.562   7.816  -1.792
+ATOM    728  CA  ARG A 728       0.611   7.070  -1.230
+ATOM    729  CA  ARG A 729      -0.245   6.929  -0.889
+ATOM    730  CA  ARG A 730      -0.469   7.847  -0.553
+ATOM    731  CA  ARG A 731       0.476   7.638  -0.329
+ATOM    732  CA  ARG A 732       1.236   7.530   0.239
+ATOM    733  CA  ARG A 733       1.094   8.501  -0.104
+ATOM    734  CA  ARG A 734       0.338   8.647  -0.682
+ATOM    735  CA  ARG A 735      -0.270   8.778  -1.425
+ATOM    736  CA  ARG A 736      -0.683   8.320  -2.229
+ATOM    737  CA  ARG A 737      -0.386   9.064  -1.779
+ATOM    738  CA  ARG A 738      -0.719   9.981  -1.992
+ATOM    739  CA  ARG A 739      -1.174  10.708  -2.461
+ATOM    740  CA  ARG A 740      -1.316  11.667  -2.433
+ATOM    741  CA  ARG A 741      -1.810  11.095  -1.802
+ATOM    742  CA  ARG A 742      -1.287  11.380  -0.996
+ATOM    743  CA  ARG A 743      -0.671  11.883  -1.590
+ATOM    744  CA  ARG A 744      -0.296  11.314  -2.211
+ATOM    745  CA  ARG A 745      -0.548  10.849  -3.094
+ATOM    746  CA  ARG A 746      -0.505   9.874  -3.356
+ATOM    747  CA  ARG A 747       0.240   9.303  -3.578
+ATOM    748  CA  ARG A 748       1.049   9.217  -3.040
+ATOM    749  CA  ARG A 749       1.020   9.592  -2.194
+ATOM    750  CA  ARG A 750       0.382  10.231  -2.469
+ATOM    751  CA  ARG A 751       0.453  10.406  -1.516
+ATOM    752  CA  ARG A 752       0.131  10.862  -0.795
+ATOM    753  CA  ARG A 753      -0.476  11.112  -0.168
+ATOM    754  CA  ARG A 754      -0.970  10.351  -0.409
+ATOM    755  CA  ARG A 755      -1.448   9.890  -1.154
+ATOM    756  CA  ARG A 756      -1.615   9.203  -1.735
+ATOM    757  CA  ARG A 757      -1.426   9.472  -2.674
+ATOM    758  CA  ARG A 758      -2.186   9.864  -3.112
+ATOM    759  CA  ARG A 759      -2.646   9.172  -3.533
+ATOM    760  CA  ARG A 760      -2.437   8.774  -2.664
+ATOM    761  CA  ARG A 761      -2.726   9.592  -2.227
+ATOM    762  CA  ARG A 762      -2.789  10.430  -1.797
+ATOM    763  CA  ARG A 763      -2.995   9.758  -1.149
+ATOM    764  CA  ARG A 764      -2.833   8.687  -0.976
+ATOM    765  CA  ARG A 765      -2.484   7.880  -0.524
+ATOM    766  CA  ARG A 766      -1.615   8.199  -0.257
+ATOM    767  CA  ARG A 767      -2.288   8.362   0.466
+ATOM    768  CA  ARG A 768      -3.159   8.060   0.882
+ATOM    769  CA  ARG A 769      -3.441   8.759   1.424
+ATOM    770  CA  ARG A 770      -3.033   8.974   2.303
+ATOM    771  CA  ARG A 771      -2.387   8.824   1.640
+ATOM    772  CA  ARG A 772      -1.733   9.346   1.172
+ATOM    773  CA  ARG A 773      -1.560   9.533   0.303
+ATOM    774  CA  ARG A 774      -1.997   9.435  -0.541
+ATOM    775  CA  GLY A 775      -2.401  10.219  -0.233
+ATOM    776  CA  GLY A 776      -2.146  11.107  -0.512
+ATOM    777  CA  GLY A 777      -1.490  11.417   0.146
+ATOM    778  CA  GLY A 778      -1.661  10.785   0.852
+ATOM    779  CA  GLY A 779      -2.135  10.315   1.486
+ATOM    780  CA  GLY A 780      -2.279   9.827   2.283
+ATOM    781  CA  GLY A 781      -2.444   9.525   3.163
+ATOM    782  CA  GLY A 782      -1.554   9.490   3.548
+ATOM    783  CA  GLY A 783      -0.746   9.164   3.940
+ATOM    784  CA  GLY A 784      -0.614   9.361   3.037
+ATOM    785  CA  GLY A 785      -1.250   8.873   2.470
+ATOM    786  CA  GLY A 786      -0.767   8.094   2.778
+ATOM    787  CA  GLY A 787      -0.717   7.348   3.481
+ATOM    788  CA  GLY A 788      -1.252   7.333   4.254
+ATOM    789  CA  GLY A 789      -1.334   8.271   4.226
+ATOM    790  CA  GLY A 790      -1.733   8.457   3.348
+ATOM    791  CA  GLY A 791      -2.172   8.142   2.547
+ATOM    792  CA  GLY A 792      -2.193   7.492   3.286
+ATOM    793  CA  GLY A 793      -2.640   7.443   4.149
+ATOM    794  CA  GLY A 794      -2.651   8.371   3.982
+ATOM    795  CA  GLY A 795      -3.395   8.714   4.561
+ATOM    796  CA  GLY A 796      -2.688   8.316   5.076
+ATOM    797  CA  GLY A 797      -2.314   7.679   5.709
+ATOM    798  CA  GLY A 798      -2.252   6.919   6.238
+ATOM    799  CA  GLY A 799      -2.453   5.985   6.190
+ATOM    800  CA  GLY A 800      -2.015   5.713   5.419
+ATOM    801  CA  GLY A 801      -1.257   5.247   5.054
+ATOM    802  CA  GLY A 802      -0.454   5.757   5.347
+ATOM    803  CA  GLY A 803       0.080   6.622   5.446
+ATOM    804  CA  GLY A 804       0.576   7.108   4.658
+ATOM    805  CA  GLY A 805       0.476   6.757   3.792
+ATOM    806  CA  GLY A 806       1.013   6.714   3.009
+ATOM    807  CA  GLY A 807       1.783   6.168   2.907
+ATOM    808  CA  GLY A 808       1.881   6.882   3.547
+ATOM    809  CA  GLY A 809       1.732   7.510   4.277
+ATOM    810  CA  GLY A 810       1.158   8.223   4.292
+ATOM    811  CA  GLY A 811       0.185   8.381   4.392
+ATOM    812  CA  GLY A 812       0.420   8.685   3.489
+ATOM    813  CA  GLY A 813       1.263   8.517   3.195
+ATOM    814  CA  GLY A 814       1.382   7.650   2.839
+ATOM    815  CA  GLY A 815       0.987   7.410   2.051
+ATOM    816  CA  GLY A 816       0.856   6.932   1.216
+ATOM    817  CA  GLY A 817       0.596   6.622   0.333
+ATOM    818  CA  GLY A 818       0.410   6.071  -0.414
+ATOM    819  CA  GLY A 819       0.194   5.525  -1.214
+ATOM    820  CA  GLY A 820      -0.465   6.072  -1.604
+ATOM    821  CA  GLY A 821      -0.560   6.657  -2.331
+ATOM    822  CA  GLY A 822      -1.187   6.045  -2.733
+ATOM    823  CA  GLY A 823      -1.584   5.303  -3.198
+ATOM    824  CA  GLY A 824      -1.559   4.839  -2.357
+ATOM    825  CA  GLY A 825      -0.735   4.614  -1.896
+ATOM    826  CA  GLY A 826      -1.151   4.855  -1.136
+ATOM    827  CA  GLY A 827      -1.656   4.822  -0.289
+ATOM    828  CA  GLY A 828      -1.647   4.334   0.526
+ATOM    829  CA  GLY A 829      -1.783   3.570   0.041
+ATOM    830  CA  GLY A 830      -1.643   2.604   0.056
+ATOM    831  CA  GLY A 831      -0.891   2.932   0.470
+ATOM    832  CA  GLY A 832      -1.074   3.597   1.194
+ATOM    833  CA  GLY A 833      -2.014   3.217   0.979
+ATOM    834  CA  GLY A 834      -2.468   3.581   0.211
+ATOM    835  CA  GLY A 835      -2.480   3.439  -0.692
+ATOM    836  CA  GLY A 836      -1.557   3.423  -0.956
+ATOM    837  CA  GLY A 837      -0.922   2.756  -0.769
+ATOM    838  CA  GLY A 838      -0.805   1.826  -1.051
+ATOM    839  CA  GLY A 839      -0.397   1.676  -0.198
+ATOM    840  CA  GLY A 840      -0.950   0.869   0.100
+ATOM    841  CA  GLY A 841      -1.316   0.097   0.522
+ATOM    842  CA  GLY A 842      -1.923  -0.626   0.447
+ATOM    843  CA  GLY A 843      -2.223  -1.581   0.550
+ATOM    844  CA  GLY A 844      -3.025  -1.988   0.888
+ATOM    845  CA  GLY A 845      -3.795  -2.070   0.315
+ATOM    846  CA  GLY A 846      -4.740  -1.914   0.293
+ATOM    847  CA  ARG A 847      -5.586  -2.360   0.537
+ATOM    848  CA  ARG A 848      -5.564  -3.220   0.117
+ATOM    849  CA  GLY A 849      -5.094  -3.923  -0.381
+ATOM    850  CA  GLY A 850      -4.176  -3.504  -0.347
+ATOM    851  CA  GLY A 851      -4.857  -2.818  -0.621
+ATOM    852  CA  GLY A 852      -5.144  -1.914  -0.873
+ATOM    853  CA  GLY A 853      -4.545  -1.112  -0.679
+ATOM    854  CA  GLY A 854      -4.487  -0.398  -1.263
+ATOM    855  CA  GLY A 855      -4.743   0.444  -0.752
+ATOM    856  CA  GLY A 856      -5.467   0.962  -0.375
+ATOM    857  CA  ARG A 857      -6.076   0.573   0.150
+ATOM    858  CA  ARG A 858      -6.869   0.260  -0.189
+ATOM    859  CA  ARG A 859      -7.308   0.685  -0.890
+ATOM    860  CA  ARG A 860      -6.458   0.896  -1.287
+ATOM    861  CA  ARG A 861      -5.535   0.693  -1.337
+ATOM    862  CA  ARG A 862      -4.628   0.957  -1.650
+ATOM    863  CA  ARG A 863      -5.182   0.701  -2.397
+ATOM    864  CA  ARG A 864      -6.029   0.251  -2.473
+ATOM    865  CA  ARG A 865      -6.588  -0.207  -1.839
+ATOM    866  CA  ARG A 866      -7.023  -0.669  -1.081
+ATOM    867  CA  ARG A 867      -6.377  -0.734  -0.327
+ATOM    868  CA  ARG A 868      -5.728  -0.481  -1.069
+ATOM    869  CA  ARG A 869      -5.335  -0.455  -1.879
+ATOM    870  CA  ARG A 870      -4.568  -0.347  -2.384
+ATOM    871  CA  ARG A 871      -3.902   0.316  -2.546
+ATOM    872  CA  ARG A 872      -3.968  -0.242  -3.277
+ATOM    873  CA  LYS A 873      -4.821  -0.474  -3.564
+ATOM    874  CA  LYS A 874      -5.051  -1.027  -4.307
+ATOM    875  CA  LYS A 875      -5.823  -0.489  -3.994
+ATOM    876  CA  LYS A 876      -6.334   0.061  -4.584
+ATOM    877  CA  LYS A 877      -5.982  -0.424  -5.372
+ATOM    878  CA  LYS A 878      -5.321   0.181  -4.996
+ATOM    879  CA  GLU A 879      -5.340   0.574  -4.067
+ATOM    880  CA  GLU A 880      -4.985   1.237  -3.405
+ATOM    881  CA  ARG A 881      -4.845   1.787  -2.609
+ATOM    882  CA  ARG A 882      -4.902   2.445  -1.956
+ATOM    883  CA  ARG A 883      -5.370   3.297  -2.147
+ATOM    884  CA  ARG A 884      -6.168   3.677  -2.422
+ATOM    885  CA  ARG A 885      -5.800   3.043  -3.147
+ATOM    886  CA  ARG A 886      -5.095   2.387  -3.486
+ATOM    887  CA  ARG A 887      -5.056   1.978  -4.378
+ATOM    888  CA  ARG A 888      -4.680   1.347  -5.058
+ATOM    889  CA  LYS A 889      -4.152   1.077  -5.777
+ATOM    890  CA  LYS A 890      -3.354   0.926  -6.443
+ATOM    891  CA  ARG A 891      -3.173   0.026  -6.958
+ATOM    892  CA  ARG A 892      -2.570  -0.459  -7.632
+ATOM    893  CA  ARG A 893      -1.673  -0.863  -7.924
+ATOM    894  CA  ARG A 894      -1.147  -0.238  -8.580
+ATOM    895  CA  LYS A 895      -1.367   0.663  -8.390
+ATOM    896  CA  LYS A 896      -0.958   1.257  -7.713
+ATOM    897  CA  ARG A 897      -0.401   0.677  -7.196
+ATOM    898  CA  ARG A 898      -0.878  -0.150  -6.981
+ATOM    899  CA  ARG A 899      -1.348  -0.933  -6.737
+ATOM    900  CA  ARG A 900      -0.732  -1.643  -6.419
+ATOM    901  CA  ARG A 901      -1.144  -0.838  -6.220
+ATOM    902  CA  ARG A 902      -1.303   0.162  -6.074
+ATOM    903  CA  ARG A 903      -1.949   0.241  -6.743
+ATOM    904  CA  ARG A 904      -1.986   0.938  -7.432
+ATOM    905  CA  ARG A 905      -2.500   1.204  -8.200
+ATOM    906  CA  ARG A 906      -3.371   1.636  -8.199
+ATOM    907  CA  LYS A 907      -4.320   1.615  -8.409
+ATOM    908  CA  LYS A 908      -4.310   2.287  -7.761
+ATOM    909  CA  GLU A 909      -3.530   2.802  -7.981
+ATOM    910  CA  GLU A 910      -4.132   3.407  -7.603
+ATOM    911  CA  LYS A 911      -3.662   2.847  -6.935
+ATOM    912  CA  LYS A 912      -3.086   2.728  -6.180
+ATOM    913  CA  LYS A 913      -2.101   2.808  -6.355
+ATOM    914  CA  LYS A 914      -1.584   2.702  -7.180
+ATOM    915  CA  LYS A 915      -2.479   2.508  -7.402
+ATOM    916  CA  LYS A 916      -3.139   1.843  -7.083
+ATOM    917  CA  GLU A 917      -2.712   1.927  -6.217
+ATOM    918  CA  GLU A 918      -1.824   1.600  -6.621
+ATOM    919  CA  GLU A 919      -0.844   1.730  -6.752
+ATOM    920  CA  GLU A 920      -0.606   2.500  -6.294
+ATOM    921  CA  GLU A 921      -0.876   3.424  -6.309
+ATOM    922  CA  GLU A 922      -1.759   3.788  -6.205
+ATOM    923  CA  GLU A 923      -2.433   3.634  -6.887
+ATOM    924  CA  GLU A 924      -3.273   4.079  -7.056
+ATOM    925  CA  GLY A 925      -3.814   4.768  -7.490
+ATOM    926  CA  GLY A 926      -4.153   5.467  -6.920
+ATOM    927  CA  GLY A 927      -3.588   5.720  -6.211
+ATOM    928  CA  GLY A 928      -4.078   6.495  -6.455
+ATOM    929  CA  GLY A 929      -4.440   7.169  -5.856
+ATOM    930  CA  GLY A 930      -5.369   7.046  -5.692
+ATOM    931  CA  GLY A 931      -6.001   6.360  -5.662
+ATOM    932  CA  GLY A 932      -5.856   5.424  -5.667
+ATOM    933  CA  GLY A 933      -5.576   5.331  -6.530
+ATOM    934  CA  GLY A 934      -5.381   4.745  -7.279
+ATOM    935  CA  GLY A 935      -5.563   3.848  -7.367
+ATOM    936  CA  GLY A 936      -5.853   3.835  -6.505
+ATOM    937  CA  GLY A 937      -5.411   4.445  -5.917
+ATOM    938  CA  GLY A 938      -5.132   4.394  -4.975
+ATOM    939  CA  LYS A 939      -5.560   4.470  -4.096
+ATOM    940  CA  LYS A 940      -6.200   4.007  -3.652
+ATOM    941  CA  LYS A 941      -5.394   4.074  -3.148
+ATOM    942  CA  LYS A 942      -4.577   4.302  -3.675
+ATOM    943  CA  LYS A 943      -4.782   3.523  -4.214
+ATOM    944  CA  LYS A 944      -5.597   2.976  -4.253
+ATOM    945  CA  GLY A 945      -6.404   3.475  -4.453
+ATOM    946  CA  GLY A 946      -6.946   4.216  -4.349
+ATOM    947  CA  GLY A 947      -7.165   4.440  -3.424
+ATOM    948  CA  GLY A 948      -6.951   5.371  -3.184
+ATOM    949  CA  GLY A 949      -6.109   4.893  -2.975
+ATOM    950  CA  GLY A 950      -5.191   5.032  -3.250
+ATOM    951  CA  LYS A 951      -4.672   5.483  -3.931
+ATOM    952  CA  LYS A 952      -4.588   5.208  -4.825
+ATOM    953  CA  LYS A 953      -4.517   5.782  -5.580
+ATOM    954  CA  LYS A 954      -5.214   6.078  -4.977
+ATOM    955  CA  GLY A 955      -5.946   5.673  -4.354
+ATOM    956  CA  GLY A 956      -6.372   5.797  -3.499
+ATOM    957  CA  GLY A 957      -6.192   6.724  -3.540
+ATOM    958  CA  GLY A 958      -5.577   6.533  -2.798
+ATOM    959  CA  GLY A 959      -5.397   6.302  -1.922
+ATOM    960  CA  GLY A 960      -4.780   6.511  -1.225
+ATOM    961  CA  GLY A 961      -4.376   7.105  -1.859
+ATOM    962  CA  GLY A 962      -5.169   7.428  -2.323
+ATOM    963  CA  GLY A 963      -6.061   7.294  -1.949
+ATOM    964  CA  GLY A 964      -6.586   7.394  -1.157
+ATOM    965  CA  GLY A 965      -7.444   6.949  -0.970
+ATOM    966  CA  GLY A 966      -6.987   6.244  -1.404
+ATOM    967  CA  LYS A 967      -6.282   5.873  -1.976
+ATOM    968  CA  LYS A 968      -5.574   5.198  -1.950
+ATOM    969  CA  LYS A 969      -5.312   4.604  -1.302
+ATOM    970  CA  LYS A 970      -5.786   3.748  -1.089
+ATOM    971  CA  LYS A 971      -6.538   3.237  -1.168
+ATOM    972  CA  LYS A 972      -6.767   4.077  -1.442
+ATOM    973  CA  LYS A 973      -6.354   4.805  -0.979
+ATOM    974  CA  LYS A 974      -6.131   5.643  -0.534
+ATOM    975  CA  GLY A 975      -6.177   6.437   0.015
+ATOM    976  CA  GLY A 976      -5.333   6.945   0.003
+ATOM    977  CA  GLY A 977      -4.822   7.708   0.162
+ATOM    978  CA  GLY A 978      -4.300   8.410   0.639
+ATOM    979  CA  GLY A 979      -4.547   8.283   1.553
+ATOM    980  CA  GLY A 980      -4.508   7.316   1.484
+ATOM    981  CA  GLY A 981      -4.866   6.584   0.853
+ATOM    982  CA  GLY A 982      -4.387   6.595  -0.011
+ATOM    983  CA  GLY A 983      -3.964   5.775  -0.220
+ATOM    984  CA  GLY A 984      -3.546   6.221   0.535
+ATOM    985  CA  GLY A 985      -3.791   7.112   0.788
+ATOM    986  CA  GLY A 986      -3.501   7.209  -0.092
+ATOM    987  CA  GLY A 987      -3.573   7.185  -1.018
+ATOM    988  CA  GLY A 988      -4.394   7.683  -0.807
+ATOM    989  CA  GLU A 989      -5.265   7.439  -0.952
+ATOM    990  CA  GLU A 990      -5.600   8.327  -1.136
+ATOM    991  CA  GLU A 991      -5.007   8.324  -1.941
+ATOM    992  CA  GLU A 992      -4.966   9.103  -2.503
+ATOM    993  CA  GLU A 993      -4.316   8.431  -2.745
+ATOM    994  CA  GLU A 994      -3.578   8.188  -2.231
+ATOM    995  CA  GLU A 995      -3.766   8.852  -1.476
+ATOM    996  CA  GLU A 996      -3.922   9.722  -1.677
+ATOM    997  CA  GLU A 997      -4.646   9.359  -1.200
+ATOM    998  CA  GLU A 998      -5.542   9.403  -0.688
+ATOM    999  CA  GLU A 999      -4.781   9.250  -0.119
+ATOM   1000  CA  GLU A1000      -3.902   9.082   0.298
+ATOM   1001  CA  GLU A1001      -3.069   9.572   0.576
+ATOM   1002  CA  GLU A1002      -3.509  10.033   1.331
+ATOM   1003  CA  GLU A1003      -4.219   9.732   1.796
+ATOM   1004  CA  GLU A1004      -4.828   9.788   2.559
+ATOM   1005  CA  GLU A1005      -4.685   8.847   2.628
+ATOM   1006  CA  GLU A1006      -5.439   8.570   3.208
+ATOM   1007  CA  GLU A1007      -6.052   7.827   3.610
+ATOM   1008  CA  GLU A1008      -6.117   6.864   3.880
+ATOM   1009  CA  LYS A1009      -6.023   6.550   4.867
+ATOM   1010  CA  LYS A1010      -5.213   6.438   5.292
+ATOM   1011  CA  LYS A1011      -5.052   7.087   6.019
+ATOM   1012  CA  LYS A1012      -4.089   7.021   5.844
+ATOM   1013  CA  GLU A1013      -3.828   6.487   5.096
+ATOM   1014  CA  GLU A1014      -3.920   5.607   5.495
+ATOM   1015  CA  GLU A1015      -3.546   4.899   6.103
+ATOM   1016  CA  GLU A1016      -2.970   4.830   6.850
+ATOM   1017  CA  LYS A1017      -2.452   4.563   7.594
+ATOM   1018  CA  LYS A1018      -1.683   4.511   8.215
+ATOM   1019  CA  LYS A1019      -1.546   4.411   7.259
+ATOM   1020  CA  LYS A1020      -2.065   3.783   6.649
+ATOM   1021  CA  GLU A1021      -2.109   4.737   6.329
+ATOM   1022  CA  GLU A1022      -2.335   4.306   5.538
+ATOM   1023  CA  GLY A1023      -1.833   3.823   4.850
+ATOM   1024  CA  GLY A1024      -1.479   3.348   4.062
+ATOM   1025  CA  GLY A1025      -0.694   3.612   3.687
+ATOM   1026  CA  GLY A1026      -0.741   4.441   4.123
+ATOM   1027  CA  GLY A1027      -0.058   4.211   4.768
+ATOM   1028  CA  GLY A1028       0.834   4.251   4.992
+ATOM   1029  CA  GLY A1029       1.753   4.504   5.244
+ATOM   1030  CA  GLY A1030       1.899   4.568   4.270
+ATOM   1031  CA  GLU A1031       2.712   3.961   4.338
+ATOM   1032  CA  GLU A1032       3.394   3.503   3.895
+ATOM   1033  CA  GLY A1033       4.365   3.692   3.943
+ATOM   1034  CA  GLY A1034       4.122   4.355   4.561
+ATOM   1035  CA  GLU A1035       3.310   4.803   4.901
+ATOM   1036  CA  GLU A1036       2.527   5.326   4.908
+ATOM   1037  CA  GLY A1037       2.271   5.483   5.833
+ATOM   1038  CA  GLY A1038       2.663   5.713   6.688
+ATOM   1039  CA  GLY A1039       3.347   5.023   6.847
+ATOM   1040  CA  GLY A1040       2.912   4.600   6.122
+ATOM   1041  CA  GLU A1041       2.276   4.032   6.613
+ATOM   1042  CA  GLU A1042       2.472   3.147   7.024
+ATOM   1043  CA  GLU A1043       2.975   2.800   7.837
+ATOM   1044  CA  GLU A1044       3.726   2.376   7.522
+ATOM   1045  CA  GLU A1045       3.003   2.227   6.884
+ATOM   1046  CA  GLU A1046       2.176   2.055   6.504
+ATOM   1047  CA  GLU A1047       1.662   1.675   5.775
+ATOM   1048  CA  GLU A1048       2.012   1.351   4.903
+ATOM   1049  CA  GLU A1049       2.661   1.364   5.558
+ATOM   1050  CA  GLU A1050       3.490   1.394   5.947
+ATOM   1051  CA  HIS A1051       4.239   1.882   5.625
+ATOM   1052  CA  HIS A1052       4.639   2.824   5.577
+ATOM   1053  CA  ARG A1053       4.309   3.536   6.114
+ATOM   1054  CA  ARG A1054       3.425   3.397   6.370
+ATOM   1055  CA  HIS A1055       2.852   2.894   5.785
+ATOM   1056  CA  HIS A1056       3.543   2.675   5.060
+ATOM   1057  CA  ARG A1057       3.597   3.601   5.020
+ATOM   1058  CA  ARG A1058       2.772   3.978   5.370
+ATOM   1059  CA  HIS A1059       1.957   3.569   5.752
+ATOM   1060  CA  HIS A1060       1.875   3.553   4.746
+ATOM   1061  CA  ARG A1061       2.589   2.873   4.442
+ATOM   1062  CA  ARG A1062       2.442   2.230   3.768
+ATOM   1063  CA  HIS A1063       1.874   2.228   2.907
+ATOM   1064  CA  HIS A1064       1.686   3.113   3.145
+ATOM   1065  CA  HIS A1065       1.216   3.889   3.552
+ATOM   1066  CA  HIS A1066       0.607   4.613   3.863
+ATOM   1067  CA  HIS A1067       1.036   5.335   4.406
+ATOM   1068  CA  HIS A1068       1.453   6.148   4.717
+ATOM   1069  CA  HIS A1069       2.393   6.327   4.590
+ATOM   1070  CA  HIS A1070       2.124   5.567   4.023
+ATOM   1071  CA  HIS A1071       2.168   5.168   3.108
+ATOM   1072  CA  HIS A1072       1.280   5.248   3.401
+ATOM   1073  CA  HIS A1073       0.562   5.819   3.641
+ATOM   1074  CA  HIS A1074      -0.257   5.403   3.386
+ATOM   1075  CA  HIS A1075      -0.878   5.599   2.702
+ATOM   1076  CA  HIS A1076      -0.741   5.757   1.748
+ATOM   1077  CA  HIS A1077      -0.284   5.553   0.903
+ATOM   1078  CA  HIS A1078      -0.433   4.714   0.403
+ATOM   1079  CA  HIS A1079      -0.719   3.915  -0.043
+ATOM   1080  CA  HIS A1080      -0.215   3.828  -0.858
+ATOM   1081  CA  HIS A1081       0.690   4.051  -1.004
+ATOM   1082  CA  HIS A1082       0.843   4.921  -0.573
+ATOM   1083  CA  HIS A1083       0.676   5.707  -0.025
+ATOM   1084  CA  HIS A1084       0.726   5.630   0.910
+ATOM   1085  CA  ARG A1085       0.326   5.451   1.770
+ATOM   1086  CA  ARG A1086       0.738   6.238   1.998
+ATOM   1087  CA  HIS A1087       1.693   6.088   1.818
+ATOM   1088  CA  HIS A1088       1.682   5.085   1.816
+ATOM   1089  CA  HIS A1089       1.154   4.601   1.216
+ATOM   1090  CA  HIS A1090       0.707   4.251   0.490
+ATOM   1091  CA  HIS A1091       0.081   4.467   1.227
+ATOM   1092  CA  HIS A1092      -0.605   4.532   1.941
+ATOM   1093  CA  HIS A1093      -1.194   5.017   1.343
+ATOM   1094  CA  HIS A1094      -1.423   5.873   0.963
+ATOM   1095  CA  HIS A1095      -0.748   6.554   0.993
+ATOM   1096  CA  HIS A1096      -0.518   7.399   0.637
+ATOM   1097  CA  HIS A1097      -1.207   7.031   0.069
+ATOM   1098  CA  HIS A1098      -1.003   6.315  -0.558
+ATOM   1099  CA  HIS A1099      -0.770   5.550  -0.073
+ATOM   1100  CA  HIS A1100      -1.597   5.665   0.389
+ATOM   1101  CA  HIS A1101      -2.184   6.453   0.429
+ATOM   1102  CA  HIS A1102      -1.984   7.322   0.727
+ATOM   1103  CA  HIS A1103      -2.378   7.710   1.479
+ATOM   1104  CA  HIS A1104      -2.925   6.884   1.281
+ATOM   1105  CA  HIS A1105      -2.931   6.000   1.732
+ATOM   1106  CA  HIS A1106      -2.330   5.263   1.856
+ATOM   1107  CA  HIS A1107      -1.671   5.922   2.164
+ATOM   1108  CA  HIS A1108      -1.542   6.768   1.735
+ATOM   1109  CA  HIS A1109      -1.093   7.537   1.557
+ATOM   1110  CA  HIS A1110      -0.190   7.198   1.775
+ATOM   1111  CA  HIS A1111      -0.149   6.484   2.466
+ATOM   1112  CA  HIS A1112      -1.083   6.744   2.640
+ATOM   1113  CA  HIS A1113      -1.798   6.449   3.269
+ATOM   1114  CA  HIS A1114      -1.697   5.469   3.339
+ATOM   1115  CA  HIS A1115      -1.406   4.694   2.889
+ATOM   1116  CA  HIS A1116      -1.934   3.857   2.633
+ATOM   1117  CA  HIS A1117      -2.520   3.749   1.904
+ATOM   1118  CA  HIS A1118      -2.807   4.121   1.147
+ATOM   1119  CA  HIS A1119      -2.409   4.774   1.685
+ATOM   1120  CA  HIS A1120      -3.018   5.159   1.083
+ATOM   1121  CA  HIS A1121      -2.952   4.773   0.221
+ATOM   1122  CA  HIS A1122      -2.554   5.534  -0.135
+ATOM   1123  CA  HIS A1123      -2.792   6.182  -0.892
+ATOM   1124  CA  HIS A1124      -3.267   5.431  -1.159
+ATOM   1125  CA  HIS A1125      -3.625   5.752  -1.945
+ATOM   1126  CA  HIS A1126      -3.448   5.307  -2.753
+ATOM   1127  CA  HIS A1127      -4.241   4.852  -2.528
+ATOM   1128  CA  HIS A1128      -4.686   5.720  -2.410
+ATOM   1129  CA  HIS A1129      -4.177   6.372  -2.945
+ATOM   1130  CA  HIS A1130      -3.375   6.354  -2.428
+ATOM   1131  CA  HIS A1131      -2.514   5.939  -2.647
+ATOM   1132  CA  HIS A1132      -2.361   5.303  -1.879
+ATOM   1133  CA  HIS A1133      -2.542   4.502  -1.330
+ATOM   1134  CA  HIS A1134      -2.814   5.108  -1.991
+ATOM   1135  CA  HIS A1135      -3.174   5.056  -2.908
+ATOM   1136  CA  HIS A1136      -2.417   4.718  -3.517
+ATOM   1137  CA  HIS A1137      -3.178   4.363  -3.018
+ATOM   1138  CA  HIS A1138      -3.553   4.003  -2.196
+ATOM   1139  CA  HIS A1139      -4.461   3.759  -2.641
+ATOM   1140  CA  HIS A1140      -4.061   3.096  -3.230
+ATOM   1141  CA  HIS A1141      -4.015   2.123  -3.250
+ATOM   1142  CA  HIS A1142      -3.822   1.302  -3.577
+ATOM   1143  CA  HIS A1143      -3.637   0.754  -4.413
+ATOM   1144  CA  HIS A1144      -3.024   0.820  -5.117
+ATOM   1145  CA  HIS A1145      -3.130   1.702  -4.808
+ATOM   1146  CA  HIS A1146      -2.870   2.576  -4.553
+ATOM   1147  CA  HIS A1147      -2.473   2.931  -5.352
+ATOM   1148  CA  HIS A1148      -2.050   3.496  -4.768
+ATOM   1149  CA  HIS A1149      -1.820   3.817  -3.814
+ATOM   1150  CA  HIS A1150      -1.926   3.923  -2.866
+ATOM   1151  CA  HIS A1151      -2.151   3.383  -2.081
+ATOM   1152  CA  HIS A1152      -2.840   3.299  -2.835
+ATOM   1153  CA  HIS A1153      -2.818   3.423  -3.774
+ATOM   1154  CA  HIS A1154      -1.983   3.034  -3.770
+ATOM   1155  CA  HIS A1155      -1.717   2.445  -4.457
+ATOM   1156  CA  HIS A1156      -1.756   1.579  -4.289
+ATOM   1157  CA  HIS A1157      -2.575   1.124  -3.833
+ATOM   1158  CA  HIS A1158      -3.116   0.392  -3.757
+ATOM   1159  CA  HIS A1159      -2.788  -0.519  -3.922
+ATOM   1160  CA  HIS A1160      -2.095  -0.463  -3.256
+ATOM   1161  CA  HIS A1161      -2.114   0.244  -2.652
+ATOM   1162  CA  HIS A1162      -2.233   1.211  -2.459
+ATOM   1163  CA  HIS A1163      -1.684   1.063  -3.256
+ATOM   1164  CA  HIS A1164      -1.177   1.848  -3.363
+ATOM   1165  CA  HIS A1165      -0.337   2.266  -3.244
+ATOM   1166  CA  HIS A1166      -0.809   2.406  -2.457
+ATOM   1167  CA  HIS A1167      -1.418   2.462  -1.712
+ATOM   1168  CA  HIS A1168      -1.959   2.395  -2.488
+ATOM   1169  CA  HIS A1169      -2.672   1.982  -3.001
+ATOM   1170  CA  HIS A1170      -3.029   2.272  -3.879
+ATOM   1171  CA  HIS A1171      -3.890   2.486  -4.179
+ATOM   1172  CA  HIS A1172      -4.193   2.542  -5.089
+ATOM   1173  CA  HIS A1173      -4.639   3.228  -5.557
+ATOM   1174  CA  HIS A1174      -5.489   3.044  -5.782
+ATOM   1175  CA  HIS A1175      -5.850   2.251  -5.356
+ATOM   1176  CA  HIS A1176      -6.119   2.113  -4.397
+ATOM   1177  CA  HIS A1177      -6.201   2.063  -3.432
+ATOM   1178  CA  HIS A1178      -6.378   1.580  -2.584
+ATOM   1179  CA  HIS A1179      -6.368   2.053  -1.666
+ATOM   1180  CA  HIS A1180      -6.126   2.290  -0.794
+ATOM   1181  CA  HIS A1181      -5.228   2.089  -0.508
+ATOM   1182  CA  HIS A1182      -4.597   2.701   0.027
+ATOM   1183  CA  HIS A1183      -3.684   3.019   0.268
+ATOM   1184  CA  HIS A1184      -3.664   3.955  -0.002
+ATOM   1185  CA  HIS A1185      -3.681   4.659  -0.531
+ATOM   1186  CA  HIS A1186      -4.123   4.845  -1.328
+ATOM   1187  CA  HIS A1187      -4.562   4.110  -0.764
+ATOM   1188  CA  HIS A1188      -3.834   3.687  -1.118
+ATOM   1189  CA  HIS A1189      -4.071   3.166  -1.867
+ATOM   1190  CA  HIS A1190      -3.572   2.520  -2.335
+ATOM   1191  CA  HIS A1191      -3.456   1.593  -2.351
+ATOM   1192  CA  HIS A1192      -3.078   1.369  -1.446
+ATOM   1193  CA  HIS A1193      -2.454   2.136  -1.449
+ATOM   1194  CA  HIS A1194      -2.982   2.920  -1.413
+ATOM   1195  CA  HIS A1195      -3.559   2.528  -0.764
+ATOM   1196  CA  HIS A1196      -3.980   1.740  -1.060
+ATOM   1197  CA  HIS A1197      -3.998   1.063  -0.319
+ATOM   1198  CA  HIS A1198      -4.485   0.911   0.525
+ATOM   1199  CA  HIS A1199      -5.376   1.195   0.583
+ATOM   1200  CA  HIS A1200      -5.446   1.996  -0.061
+ATOM   1201  CA  GLU A1201      -5.024   1.882  -0.882
+ATOM   1202  CA  GLU A1202      -4.813   2.915  -0.940
+ATOM   1203  CA  HIS A1203      -5.513   3.100  -0.287
+ATOM   1204  CA  HIS A1204      -5.621   3.431   0.597
+ATOM   1205  CA  HIS A1205      -4.950   3.138   1.181
+ATOM   1206  CA  HIS A1206      -4.113   2.821   1.493
+ATOM   1207  CA  HIS A1207      -3.845   2.469   2.396
+ATOM   1208  CA  HIS A1208      -3.603   1.683   2.925
+ATOM   1209  CA  HIS A1209      -2.947   1.168   2.424
+ATOM   1210  CA  HIS A1210      -2.630   1.929   2.976
+ATOM   1211  CA  HIS A1211      -2.771   2.079   3.942
+ATOM   1212  CA  HIS A1212      -3.729   1.932   3.854
+ATOM   1213  CA  HIS A1213      -3.726   2.897   3.663
+ATOM   1214  CA  HIS A1214      -3.595   3.428   2.872
+ATOM   1215  CA  GLU A1215      -3.644   3.698   1.994
+ATOM   1216  CA  GLU A1216      -3.942   3.944   1.167
+ATOM   1217  CA  GLU A1217      -4.607   3.833   0.408
+ATOM   1218  CA  GLU A1218      -5.332   4.442   0.370
+ATOM   1219  CA  HIS A1219      -6.210   4.355   0.023
+ATOM   1220  CA  HIS A1220      -7.048   4.278  -0.360
+ATOM   1221  CA  HIS A1221      -7.195   4.909   0.306
+ATOM   1222  CA  HIS A1222      -6.916   4.435   1.107
+ATOM   1223  CA  HIS A1223      -6.583   3.533   1.069
+ATOM   1224  CA  HIS A1224      -6.778   2.837   0.330
+ATOM   1225  CA  HIS A1225      -6.031   2.424   0.856
+ATOM   1226  CA  HIS A1226      -6.270   1.891   1.637
+ATOM   1227  CA  HIS A1227      -5.659   2.196   2.301
+ATOM   1228  CA  HIS A1228      -5.944   3.022   1.993
+ATOM   1229  CA  HIS A1229      -5.602   3.903   1.647
+ATOM   1230  CA  HIS A1230      -5.400   4.841   1.386
+ATOM   1231  CA  HIS A1231      -5.603   5.538   0.646
+ATOM   1232  CA  HIS A1232      -6.526   5.494   0.901
+ATOM   1233  CA  GLU A1233      -6.324   5.274   1.857
+ATOM   1234  CA  GLU A1234      -5.793   4.895   2.521
+ATOM   1235  CA  HIS A1235      -5.009   5.267   2.688
+ATOM   1236  CA  HIS A1236      -4.557   5.839   2.069
+ATOM   1237  CA  HIS A1237      -4.724   6.255   1.241
+ATOM   1238  CA  HIS A1238      -5.494   6.299   1.830
+ATOM   1239  CA  HIS A1239      -6.383   6.512   1.444
+ATOM   1240  CA  HIS A1240      -7.071   5.984   1.924
+ATOM   1241  CA  HIS A1241      -6.797   6.539   2.629
+ATOM   1242  CA  HIS A1242      -5.930   6.207   2.895
+ATOM   1243  CA  HIS A1243      -5.458   7.061   2.870
+ATOM   1244  CA  HIS A1244      -4.508   7.271   2.740
+ATOM   1245  CA  HIS A1245      -3.576   7.373   2.540
+ATOM   1246  CA  HIS A1246      -2.718   7.077   2.311
+ATOM   1247  CA  HIS A1247      -2.775   6.745   3.183
+ATOM   1248  CA  HIS A1248      -3.621   6.246   2.950
+ATOM   1249  CA  HIS A1249      -4.559   6.199   3.170
+ATOM   1250  CA  HIS A1250      -5.264   6.030   3.913
+ATOM   1251  CA  HIS A1251      -4.869   6.910   4.157
+ATOM   1252  CA  HIS A1252      -4.783   7.828   4.473
+ATOM   1253  CA  HIS A1253      -5.042   8.156   5.330
+ATOM   1254  CA  HIS A1254      -5.546   8.731   5.887
+ATOM   1255  CA  HIS A1255      -4.946   8.910   6.656
+ATOM   1256  CA  HIS A1256      -4.107   8.604   7.056
+ATOM   1257  CA  HIS A1257      -3.536   8.510   6.293
+ATOM   1258  CA  HIS A1258      -3.219   9.015   5.523
+ATOM   1259  CA  HIS A1259      -2.748   9.526   4.885
+ATOM   1260  CA  HIS A1260      -1.888   9.750   4.642
+ATOM   1261  CA  HIS A1261      -1.762  10.680   4.336
+ATOM   1262  CA  HIS A1262      -2.500  11.105   3.900
+ATOM   1263  CA  HIS A1263      -3.017  10.574   4.539
+ATOM   1264  CA  HIS A1264      -3.676  10.246   5.203
+ATOM   1265  CA  HIS A1265      -3.707   9.708   4.360
+ATOM   1266  CA  HIS A1266      -3.643   9.272   3.494
+ATOM   1267  CA  HIS A1267      -3.698   8.264   3.457
+ATOM   1268  CA  HIS A1268      -3.530   7.330   3.559
+ATOM   1269  CA  HIS A1269      -3.848   6.622   3.999
+ATOM   1270  CA  HIS A1270      -3.154   6.066   4.300
+ATOM   1271  CA  HIS A1271      -2.224   5.992   4.320
+ATOM   1272  CA  HIS A1272      -2.641   5.461   3.654
+ATOM   1273  CA  GLU A1273      -2.444   4.889   2.934
+ATOM   1274  CA  GLU A1274      -3.298   4.557   3.064
+ATOM   1275  CA  GLU A1275      -4.016   5.028   3.535
+ATOM   1276  CA  GLU A1276      -3.864   4.918   4.491
+ATOM   1277  CA  GLU A1277      -4.709   5.339   4.577
+ATOM   1278  CA  GLU A1278      -5.215   4.565   4.882
+ATOM   1279  CA  GLU A1279      -4.291   4.586   5.287
+ATOM   1280  CA  GLU A1280      -3.445   4.190   5.119
+ATOM   1281  CA  HIS A1281      -2.764   4.356   4.503
+ATOM   1282  CA  HIS A1282      -2.260   3.909   3.740
+ATOM   1283  CA  HIS A1283      -2.752   3.159   4.165
+ATOM   1284  CA  HIS A1284      -3.547   3.162   4.703
+ATOM   1285  CA  GLU A1285      -4.283   3.602   4.991
+ATOM   1286  CA  GLU A1286      -5.173   3.296   5.246
+ATOM   1287  CA  GLU A1287      -5.734   3.755   5.874
+ATOM   1288  CA  GLU A1288      -5.559   4.621   6.208
+ATOM   1289  CA  GLU A1289      -4.894   4.142   6.700
+ATOM   1290  CA  GLU A1290      -4.249   3.647   6.143
+ATOM   1291  CA  GLU A1291      -3.473   3.156   5.829
+ATOM   1292  CA  GLU A1292      -2.665   2.755   6.110
+ATOM   1293  CA  GLU A1293      -2.034   2.000   6.020
+ATOM   1294  CA  GLU A1294      -1.779   1.133   6.368
+ATOM   1295  CA  GLU A1295      -1.414   0.984   7.261
+ATOM   1296  CA  GLU A1296      -1.638   1.078   8.156
+ATOM   1297  CA  GLU A1297      -2.357   1.599   8.511
+ATOM   1298  CA  GLU A1298      -2.921   2.217   8.014
+ATOM   1299  CA  GLU A1299      -2.466   2.691   7.397
+ATOM   1300  CA  GLU A1300      -1.767   2.110   7.127
+ATOM   1301  CA  GLU A1301      -1.136   2.500   6.544
+ATOM   1302  CA  GLU A1302      -0.793   1.715   6.065
+ATOM   1303  CA  GLU A1303      -0.101   2.373   5.641
+ATOM   1304  CA  GLU A1304      -0.205   3.300   5.816
+ATOM   1305  CA  GLU A1305      -0.999   3.802   5.975
+ATOM   1306  CA  GLU A1306      -1.752   3.269   5.734
+ATOM   1307  CA  GLU A1307      -2.286   2.807   5.112
+ATOM   1308  CA  GLU A1308      -2.299   1.846   4.889
+ATOM   1309  CA  GLU A1309      -1.696   1.400   4.331
+ATOM   1310  CA  GLU A1310      -0.985   1.680   4.944
+ATOM   1311  CA  HIS A1311      -0.037   1.904   5.007
+ATOM   1312  CA  HIS A1312       0.648   1.643   5.663
+ATOM   1313  CA  HIS A1313       0.763   2.103   6.530
+ATOM   1314  CA  HIS A1314       0.964   2.730   5.854
+ATOM   1315  CA  HIS A1315       1.474   2.648   5.069
+ATOM   1316  CA  HIS A1316       1.352   2.561   4.058
+ATOM   1317  CA  HIS A1317       0.581   3.063   3.784
+ATOM   1318  CA  HIS A1318       0.407   2.479   4.550
+ATOM   1319  CA  HIS A1319      -0.378   2.960   4.588
+ATOM   1320  CA  HIS A1320      -0.648   2.596   3.746
+ATOM   1321  CA  HIS A1321      -1.080   1.826   3.386
+ATOM   1322  CA  HIS A1322      -1.573   1.719   2.633
+ATOM   1323  CA  HIS A1323      -1.479   2.375   1.901
+ATOM   1324  CA  HIS A1324      -2.412   2.629   1.991
+ATOM   1325  CA  HIS A1325      -2.559   2.979   2.850
+ATOM   1326  CA  HIS A1326      -1.961   2.613   3.472
+ATOM   1327  CA  HIS A1327      -1.260   2.876   2.866
+ATOM   1328  CA  HIS A1328      -0.837   3.654   2.615
+ATOM   1329  CA  HIS A1329      -0.139   3.373   1.955
+ATOM   1330  CA  HIS A1330       0.417   3.284   1.173
+ATOM   1331  CA  HIS A1331       0.647   3.228   0.214
+ATOM   1332  CA  HIS A1332       0.538   2.248   0.336
+ATOM   1333  CA  HIS A1333       0.401   1.544   1.045
+ATOM   1334  CA  HIS A1334      -0.038   2.416   1.455
+ATOM   1335  CA  HIS A1335      -0.731   1.971   0.948
+ATOM   1336  CA  HIS A1336      -1.460   1.374   0.914
+ATOM   1337  CA  HIS A1337      -2.053   1.239   1.643
+ATOM   1338  CA  HIS A1338      -2.553   1.948   1.242
+ATOM   1339  CA  HIS A1339      -3.343   2.407   0.986
+ATOM   1340  CA  HIS A1340      -3.517   1.894   0.249
+ATOM   1341  CA  HIS A1341      -4.307   2.009   0.689
+ATOM   1342  CA  HIS A1342      -4.689   1.452   1.366
+ATOM   1343  CA  HIS A1343      -3.946   0.878   1.586
+ATOM   1344  CA  HIS A1344      -3.049   0.440   1.626
+ATOM   1345  CA  HIS A1345      -2.327   0.223   1.135
+ATOM   1346  CA  HIS A1346      -2.690   0.860   0.496
+ATOM   1347  CA  HIS A1347      -3.388   0.247   0.215
+ATOM   1348  CA  HIS A1348      -4.211  -0.198   0.016
+ATOM   1349  CA  HIS A1349      -5.140  -0.453  -0.051
+ATOM   1350  CA  HIS A1350      -4.254  -0.599   0.247
+ATOM   1351  CA  HIS A1351      -3.944  -0.203   1.065
+ATOM   1352  CA  HIS A1352      -3.579  -1.040   1.266
+ATOM   1353  CA  HIS A1353      -4.112  -0.231   1.344
+ATOM   1354  CA  HIS A1354      -5.018   0.137   1.261
+ATOM   1355  CA  HIS A1355      -5.396  -0.756   0.954
+ATOM   1356  CA  HIS A1356      -4.784  -1.354   1.342
+ATOM   1357  CA  HIS A1357      -4.126  -2.052   1.423
+ATOM   1358  CA  HIS A1358      -4.137  -2.884   1.791
+ATOM   1359  CA  HIS A1359      -4.309  -2.631   2.697
+ATOM   1360  CA  HIS A1360      -3.938  -3.068   3.431
+ATOM   1361  CA  HIS A1361      -4.305  -3.839   2.941
+ATOM   1362  CA  HIS A1362      -4.830  -4.374   2.448
+ATOM   1363  CA  ARG A1363      -4.168  -4.955   2.915
+ATOM   1364  CA  ARG A1364      -3.329  -4.946   3.318
+ATOM   1365  CA  HIS A1365      -2.691  -4.325   3.599
+ATOM   1366  CA  HIS A1366      -1.780  -4.065   3.568
+ATOM   1367  CA  HIS A1367      -1.770  -3.217   3.138
+ATOM   1368  CA  HIS A1368      -2.605  -2.848   3.164
+ATOM   1369  CA  HIS A1369      -3.199  -3.206   2.483
+ATOM   1370  CA  HIS A1370      -3.072  -4.145   2.389
+ATOM   1371  CA  HIS A1371      -3.461  -3.951   1.514
+ATOM   1372  CA  HIS A1372      -3.707  -4.865   1.873
+ATOM   1373  CA  HIS A1373      -3.052  -5.585   2.253
+ATOM   1374  CA  HIS A1374      -3.291  -5.906   1.396
+ATOM   1375  CA  HIS A1375      -3.617  -5.217   0.755
+ATOM   1376  CA  HIS A1376      -3.426  -4.313   0.396
+ATOM   1377  CA  HIS A1377      -2.874  -3.582   0.307
+ATOM   1378  CA  HIS A1378      -1.996  -3.749   0.436
+ATOM   1379  CA  HIS A1379      -2.050  -2.852   0.644
+ATOM   1380  CA  HIS A1380      -2.648  -2.884   1.360
+ATOM   1381  CA  HIS A1381      -2.935  -2.179   2.027
+ATOM   1382  CA  HIS A1382      -3.754  -1.794   2.353
+ATOM   1383  CA  HIS A1383      -4.053  -0.875   2.388
+ATOM   1384  CA  HIS A1384      -4.186  -0.042   2.838
+ATOM   1385  CA  HIS A1385      -3.657   0.567   3.296
+ATOM   1386  CA  HIS A1386      -2.813   0.770   3.663
+ATOM   1387  CA  HIS A1387      -2.075   0.626   3.007
+ATOM   1388  CA  HIS A1388      -2.647  -0.149   3.245
+ATOM   1389  CA  HIS A1389      -3.090  -1.040   3.140
+ATOM   1390  CA  HIS A1390      -3.200  -2.000   3.239
+ATOM   1391  CA  GLU A1391      -4.023  -1.601   3.701
+ATOM   1392  CA  GLU A1392      -3.873  -0.800   4.199
+ATOM   1393  CA  GLU A1393      -3.386   0.044   4.374
+ATOM   1394  CA  GLU A1394      -2.472   0.316   4.596
+ATOM   1395  CA  GLU A1395      -1.598  -0.109   5.034
+ATOM   1396  CA  GLU A1396      -0.852  -0.540   5.413
+ATOM   1397  CA  GLU A1397      -0.642  -1.420   5.852
+ATOM   1398  CA  GLU A1398      -1.154  -2.260   6.042
+ATOM   1399  CA  GLU A1399      -2.043  -1.937   5.868
+ATOM   1400  CA  GLU A1400      -2.055  -1.008   5.810
+ATOM   1401  CA  GLU A1401      -2.651  -0.495   5.341
+ATOM   1402  CA  GLU A1402      -3.140   0.264   5.686
+ATOM   1403  CA  GLU A1403      -3.475   1.173   5.812
+ATOM   1404  CA  GLU A1404      -3.638   2.073   5.448
+ATOM   1405  CA  GLU A1405      -4.392   2.584   5.178
+ATOM   1406  CA  GLU A1406      -4.573   2.398   4.176
+ATOM   1407  CA  GLU A1407      -5.407   2.381   3.752
+ATOM   1408  CA  GLU A1408      -5.614   3.122   4.270
+ATOM   1409  CA  GLU A1409      -4.811   3.553   4.168
+ATOM   1410  CA  GLU A1410      -5.302   4.003   3.482
+ATOM   1411  CA  GLU A1411      -6.146   4.057   3.017
+ATOM   1412  CA  GLU A1412      -6.775   4.359   2.360
+ATOM   1413  CA  ASP A1413      -7.584   4.305   1.893
+ATOM   1414  CA  ASP A1414      -8.539   4.041   1.957
+ATOM   1415  CA  ASP A1415      -8.067   3.242   2.192
+ATOM   1416  CA  ASP A1416      -7.297   2.769   2.362
+ATOM   1417  CA  ASP A1417      -6.550   2.347   2.763
+ATOM   1418  CA  ASP A1418      -6.700   3.183   3.240
+ATOM   1419  CA  ASP A1419      -7.287   3.233   4.065
+ATOM   1420  CA  ASP A1420      -7.715   2.669   4.666
+ATOM   1421  CA  ASP A1421      -7.131   2.676   5.472
+ATOM   1422  CA  ASP A1422      -6.531   2.537   6.215
+ATOM   1423  CA  ASP A1423      -5.947   1.883   6.557
+ATOM   1424  CA  ASP A1424      -6.044   2.002   5.624
+ATOM   1425  CA  ASP A1425      -5.215   2.469   5.875
+ATOM   1426  CA  ASP A1426      -4.394   2.547   6.343
+ATOM   1427  CA  LYS A1427      -3.901   1.832   6.874
+ATOM   1428  CA  LYS A1428      -4.563   1.242   6.345
+ATOM   1429  CA  LYS A1429      -5.201   0.988   5.729
+ATOM   1430  CA  LYS A1430      -5.813   0.521   5.173
+ATOM   1431  CA  LYS A1431      -6.194  -0.314   4.882
+ATOM   1432  CA  LYS A1432      -7.007  -0.772   4.863
+ATOM   1433  CA  LYS A1433      -7.027  -1.150   3.969
+ATOM   1434  CA  LYS A1434      -6.347  -0.503   3.833
+ATOM   1435  CA  LYS A1435      -6.441   0.389   3.497
+ATOM   1436  CA  LYS A1436      -6.167   1.270   3.779
+ATOM   1437  CA  ASP A1437      -6.364   2.110   4.114
+ATOM   1438  CA  ASP A1438      -7.260   1.726   4.067
+ATOM   1439  CA  ASP A1439      -8.140   1.310   4.032
+ATOM   1440  CA  ASP A1440      -8.570   0.574   4.424
+ATOM   1441  CA  ASP A1441      -7.794   0.732   4.925
+ATOM   1442  CA  ASP A1442      -7.441   0.186   4.212
+ATOM   1443  CA  ASP A1443      -7.641   0.060   3.294
+ATOM   1444  CA  ASP A1444      -8.513   0.529   3.196
+ATOM   1445  CA  ASP A1445      -9.114   1.279   3.220
+ATOM   1446  CA  ASP A1446      -9.750   1.325   3.904
+ATOM   1447  CA  ASP A1447      -9.229   1.831   4.515
+ATOM   1448  CA  ASP A1448      -8.534   2.454   4.138
+ATOM   1449  CA  ASP A1449      -9.018   2.359   3.259
+ATOM   1450  CA  ASP A1450      -9.159   1.902   2.447
+ATOM   1451  CA  ASP A1451      -9.110   1.322   1.650
+ATOM   1452  CA  ASP A1452      -9.602   1.189   0.806
+ATOM   1453  CA  ASP A1453      -9.895   1.183  -0.107
+ATOM   1454  CA  ASP A1454      -8.936   0.944  -0.061
+ATOM   1455  CA  LYS A1455      -8.106   1.375   0.252
+ATOM   1456  CA  LYS A1456      -7.820   2.294   0.217
+ATOM   1457  CA  LYS A1457      -8.821   2.273   0.128
+ATOM   1458  CA  LYS A1458      -9.735   2.167   0.330
+ATOM   1459  CA  LYS A1459      -9.112   2.568   0.876
+ATOM   1460  CA  LYS A1460      -8.417   3.113   0.578
+ATOM   1461  CA  ASP A1461      -8.007   3.486  -0.200
+ATOM   1462  CA  ASP A1462      -8.201   4.122  -0.889
+ATOM   1463  CA  ASP A1463      -7.635   4.708  -1.432
+ATOM   1464  CA  ASP A1464      -8.024   4.196  -2.194
+ATOM   1465  CA  ASP A1465      -8.827   3.908  -2.536
+ATOM   1466  CA  ASP A1466      -8.976   3.100  -3.073
+ATOM   1467  CA  ASP A1467      -8.839   2.126  -2.958
+ATOM   1468  CA  ASP A1468      -8.957   1.187  -2.713
+ATOM   1469  CA  ASP A1469      -8.627   0.567  -3.346
+ATOM   1470  CA  ASP A1470      -7.709   0.480  -3.581
+ATOM   1471  CA  ASP A1471      -7.264   1.212  -3.298
+ATOM   1472  CA  ASP A1472      -7.524   0.805  -2.497
+ATOM   1473  CA  ASP A1473      -7.894   1.739  -2.316
+ATOM   1474  CA  ASP A1474      -7.444   2.281  -2.914
+ATOM   1475  CA  ASP A1475      -7.362   3.188  -2.526
+ATOM   1476  CA  ASP A1476      -7.643   2.724  -1.685
+ATOM   1477  CA  ASP A1477      -8.537   3.053  -1.727
+ATOM   1478  CA  ASP A1478      -9.456   2.808  -1.521
+ATOM   1479  CA  ASP A1479      -9.801   2.420  -2.313
+ATOM   1480  CA  ASP A1480      -9.170   1.771  -1.791
+ATOM   1481  CA  ASP A1481      -8.441   1.445  -1.212
+ATOM   1482  CA  ASP A1482      -7.562   1.710  -1.009
+ATOM   1483  CA  ASP A1483      -6.949   1.539  -0.256
+ATOM   1484  CA  ASP A1484      -6.915   1.848   0.651
+ATOM   1485  CA  ASP A1485      -7.685   1.751   1.268
+ATOM   1486  CA  ASP A1486      -7.964   1.480   2.253
+ATOM   1487  CA  ASP A1487      -7.665   1.089   3.028
+ATOM   1488  CA  ASP A1488      -6.835   1.053   2.537
+ATOM   1489  CA  ASP A1489      -6.919   0.653   1.700
+ATOM   1490  CA  ASP A1490      -7.254   0.632   0.768
+ATOM   1491  CA  ASP A1491      -7.881   0.635   1.540
+ATOM   1492  CA  ASP A1492      -7.525  -0.179   1.819
+ATOM   1493  CA  ASP A1493      -6.713  -0.548   2.123
+ATOM   1494  CA  ASP A1494      -6.394  -0.121   1.276
+ATOM   1495  CA  ASP A1495      -5.938   0.667   1.264
+ATOM   1496  CA  ASP A1496      -5.592   1.107   1.986
+ATOM   1497  CA  ASP A1497      -5.559   0.430   2.683
+ATOM   1498  CA  ASP A1498      -5.231   0.843   3.480
+ATOM   1499  CA  ASP A1499      -4.701   0.465   4.149
+ATOM   1500  CA  ASP A1500      -4.594  -0.219   4.869
+ATOM   1501  CA  ASP A1501      -5.134  -0.885   4.332
+ATOM   1502  CA  ASP A1502      -5.019  -1.072   3.381
+ATOM   1503  CA  ASP A1503      -5.412  -1.043   2.467
+ATOM   1504  CA  ASP A1504      -5.181  -1.987   2.702
+ATOM   1505  CA  ASP A1505      -5.167  -2.717   2.021
+ATOM   1506  CA  ASP A1506      -5.262  -2.951   3.009
+ATOM   1507  CA  ASP A1507      -4.733  -2.347   3.532
+ATOM   1508  CA  ASP A1508      -3.838  -2.746   3.585
+ATOM   1509  CA  ASP A1509      -3.042  -3.042   4.081
+ATOM   1510  CA  ASP A1510      -2.369  -3.683   4.386
+ATOM   1511  CA  ASP A1511      -1.515  -3.537   4.566
+ATOM   1512  CA  ASP A1512      -1.665  -2.637   4.814
+ATOM   1513  CA  ASP A1513      -1.351  -1.781   4.456
+ATOM   1514  CA  ASP A1514      -1.576  -1.384   3.608
+ATOM   1515  CA  ASP A1515      -2.395  -0.958   3.781
+ATOM   1516  CA  ASP A1516      -2.987  -1.180   4.529
+ATOM   1517  CA  ASP A1517      -2.988  -1.935   5.183
+ATOM   1518  CA  ASP A1518      -2.704  -2.763   5.515
+ATOM   1519  CA  ASP A1519      -3.058  -3.653   5.541
+ATOM   1520  CA  ASP A1520      -2.654  -4.500   5.631
+ATOM   1521  CA  GLU A1521      -2.368  -5.416   5.404
+ATOM   1522  CA  GLU A1522      -2.193  -6.230   4.979
+ATOM   1523  CA  GLU A1523      -2.907  -6.240   4.288
+ATOM   1524  CA  GLU A1524      -3.634  -6.068   3.654
+ATOM   1525  CA  GLU A1525      -4.245  -5.553   4.288
+ATOM   1526  CA  GLU A1526      -4.789  -4.716   4.177
+ATOM   1527  CA  GLU A1527      -4.704  -3.752   4.167
+ATOM   1528  CA  GLU A1528      -4.063  -3.317   4.798
+ATOM   1529  CA  GLU A1529      -3.895  -4.257   4.596
+ATOM   1530  CA  GLU A1530      -3.287  -4.924   4.723
+ATOM   1531  CA  GLU A1531      -3.802  -4.886   5.584
+ATOM   1532  CA  GLU A1532      -4.554  -4.309   5.994
+ATOM   1533  CA  ASP A1533      -3.894  -3.679   6.237
+ATOM   1534  CA  ASP A1534      -3.106  -4.132   6.515
+ATOM   1535  CA  ASP A1535      -2.208  -4.282   6.812
+ATOM   1536  CA  ASP A1536      -1.639  -4.375   6.084
+ATOM   1537  CA  GLU A1537      -1.075  -4.700   5.369
+ATOM   1538  CA  GLU A1538      -0.680  -5.520   5.079
+ATOM   1539  CA  ASP A1539       0.085  -5.986   5.453
+ATOM   1540  CA  ASP A1540       0.982  -6.288   5.132
+ATOM   1541  CA  LYS A1541       1.870  -6.111   4.692
+ATOM   1542  CA  LYS A1542       1.144  -5.635   4.301
+ATOM   1543  CA  LYS A1543       0.544  -5.301   3.647
+ATOM   1544  CA  LYS A1544      -0.062  -4.950   4.273
+ATOM   1545  CA  LYS A1545       0.515  -5.045   5.024
+ATOM   1546  CA  LYS A1546       1.307  -4.554   4.744
+ATOM   1547  CA  GLU A1547       1.864  -3.977   4.094
+ATOM   1548  CA  GLU A1548       2.816  -3.701   4.103
+ATOM   1549  CA  LYS A1549       2.740  -4.244   3.291
+ATOM   1550  CA  LYS A1550       2.837  -4.928   2.662
+ATOM   1551  CA  LYS A1551       2.271  -4.311   2.228
+ATOM   1552  CA  LYS A1552       1.440  -4.748   2.490
+ATOM   1553  CA  LYS A1553       0.544  -4.845   2.753
+ATOM   1554  CA  LYS A1554      -0.217  -5.344   2.490
+ATOM   1555  CA  ARG A1555      -0.374  -4.518   2.016
+ATOM   1556  CA  ARG A1556      -0.902  -3.828   1.644
+ATOM   1557  CA  ARG A1557      -1.639  -3.256   1.504
+ATOM   1558  CA  ARG A1558      -1.194  -3.032   2.316
+ATOM   1559  CA  ARG A1559      -0.588  -2.874   3.065
+ATOM   1560  CA  ARG A1560      -0.319  -2.075   3.599
+ATOM   1561  CA  ARG A1561       0.214  -1.899   4.387
+ATOM   1562  CA  ARG A1562       0.801  -1.827   5.204
+ATOM   1563  CA  ARG A1563       0.935  -2.642   4.719
+ATOM   1564  CA  ARG A1564       0.720  -2.975   3.813
+ATOM   1565  CA  ARG A1565       0.443  -3.864   3.913
+ATOM   1566  CA  ARG A1566      -0.500  -3.834   3.629
+ATOM   1567  CA  ARG A1567      -0.233  -3.802   2.719
+ATOM   1568  CA  ARG A1568       0.276  -2.999   2.576
+ATOM   1569  CA  ARG A1569       1.140  -2.624   2.658
+ATOM   1570  CA  ARG A1570       2.057  -2.901   2.725
+ATOM   1571  CA  ARG A1571       1.434  -3.593   3.067
+ATOM   1572  CA  ARG A1572       1.108  -3.766   2.185
+ATOM   1573  CA  ARG A1573       0.874  -4.493   1.619
+ATOM   1574  CA  ARG A1574       0.902  -5.311   1.144
+ATOM   1575  CA  LYS A1575       0.542  -5.654   0.342
+ATOM   1576  CA  LYS A1576       0.577  -6.368   0.972
+ATOM   1577  CA  LYS A1577       0.860  -6.116   1.869
+ATOM   1578  CA  LYS A1578       0.613  -6.153   2.806
+ATOM   1579  CA  GLU A1579       0.103  -6.929   2.726
+ATOM   1580  CA  GLU A1580      -0.560  -7.335   2.178
+ATOM   1581  CA  LYS A1581      -0.530  -7.676   1.268
+ATOM   1582  CA  LYS A1582       0.393  -7.440   1.410
+ATOM   1583  CA  GLU A1583       0.934  -7.413   2.221
+ATOM   1584  CA  GLU A1584       1.675  -7.301   2.855
+ATOM   1585  CA  GLU A1585       1.181  -7.020   3.675
+ATOM   1586  CA  GLU A1586       0.427  -6.447   3.785
+ATOM   1587  CA  GLU A1587      -0.526  -6.326   3.806
+ATOM   1588  CA  GLU A1588      -0.784  -5.407   3.731
+ATOM   1589  CA  GLU A1589      -1.433  -4.868   4.116
+ATOM   1590  CA  GLU A1590      -2.276  -4.693   4.489
+ATOM   1591  CA  GLU A1591      -2.145  -5.585   4.026
+ATOM   1592  CA  GLU A1592      -1.837  -6.508   3.875
+ATOM   1593  CA  GLU A1593      -2.625  -7.005   3.604
+ATOM   1594  CA  GLU A1594      -2.496  -6.608   2.719
+ATOM   1595  CA  GLU A1595      -2.150  -5.706   2.884
+ATOM   1596  CA  GLU A1596      -2.367  -4.727   2.678
+ATOM   1597  CA  LYS A1597      -1.908  -5.449   3.004
+ATOM   1598  CA  LYS A1598      -1.239  -6.113   2.814
+ATOM   1599  CA  LYS A1599      -1.194  -5.511   2.080
+ATOM   1600  CA  LYS A1600      -1.597  -4.675   1.938
+ATOM   1601  CA  LYS A1601      -2.209  -4.091   1.455
+ATOM   1602  CA  LYS A1602      -2.556  -4.998   1.372
+ATOM   1603  CA  LYS A1603      -1.861  -5.629   1.159
+ATOM   1604  CA  LYS A1604      -1.556  -4.838   0.830
+ATOM   1605  CA  LYS A1605      -0.807  -4.301   0.473
+ATOM   1606  CA  LYS A1606      -0.113  -4.694  -0.049
+ATOM   1607  CA  LYS A1607       0.204  -4.216   0.742
+ATOM   1608  CA  LYS A1608       0.112  -3.674   1.473
+ATOM   1609  CA  LYS A1609      -0.140  -4.604   1.687
+ATOM   1610  CA  LYS A1610      -0.139  -5.416   1.221
+ATOM   1611  CA  LYS A1611      -0.863  -5.933   0.902
+ATOM   1612  CA  LYS A1612      -1.184  -6.845   0.666
+ATOM   1613  CA  LYS A1613      -1.254  -7.813   0.223
+ATOM   1614  CA  LYS A1614      -1.206  -7.490  -0.677
+ATOM   1615  CA  LYS A1615      -0.745  -6.631  -0.633
+ATOM   1616  CA  LYS A1616      -0.236  -6.074  -0.142
+ATOM   1617  CA  GLU A1617      -0.813  -5.356   0.096
+ATOM   1618  CA  GLU A1618      -1.392  -5.205  -0.643
+ATOM   1619  CA  GLU A1619      -1.787  -6.024  -1.093
+ATOM   1620  CA  GLU A1620      -1.741  -6.685  -0.379
+ATOM   1621  CA  GLU A1621      -1.796  -5.924   0.151
+ATOM   1622  CA  GLU A1622      -2.589  -5.422   0.327
+ATOM   1623  CA  GLU A1623      -2.579  -5.183  -0.597
+ATOM   1624  CA  GLU A1624      -2.502  -5.189  -1.581
+ATOM   1625  CA  GLU A1625      -3.018  -5.397  -2.371
+ATOM   1626  CA  GLU A1626      -2.856  -4.457  -2.533
+ATOM   1627  CA  HIS A1627      -3.473  -4.024  -1.960
+ATOM   1628  CA  HIS A1628      -3.567  -4.195  -0.998
+ATOM   1629  CA  GLY A1629      -2.608  -4.145  -0.811
+ATOM   1630  CA  GLY A1630      -1.678  -4.107  -0.722
+ATOM   1631  CA  GLY A1631      -0.739  -4.213  -0.893
+ATOM   1632  CA  GLY A1632       0.192  -4.311  -1.112
+ATOM   1633  CA  GLU A1633       0.701  -5.141  -0.989
+ATOM   1634  CA  GLU A1634       1.223  -5.881  -1.319
+ATOM   1635  CA  LYS A1635       1.468  -5.971  -0.382
+ATOM   1636  CA  LYS A1636       2.302  -6.358  -0.690
+ATOM   1637  CA  GLU A1637       2.932  -6.314  -1.465
+ATOM   1638  CA  GLU A1638       2.588  -5.407  -1.545
+ATOM   1639  CA  GLU A1639       1.733  -5.378  -2.030
+ATOM   1640  CA  GLU A1640       0.848  -5.295  -2.389
+ATOM   1641  CA  HIS A1641       0.117  -5.905  -2.413
+ATOM   1642  CA  HIS A1642      -0.671  -6.336  -2.154
+ATOM   1643  CA  GLU A1643      -1.363  -7.007  -1.971
+ATOM   1644  CA  GLU A1644      -0.715  -7.728  -2.043
+ATOM   1645  CA  GLU A1645      -0.036  -8.396  -1.783
+ATOM   1646  CA  GLU A1646       0.512  -8.328  -1.006
+ATOM   1647  CA  HIS A1647       0.073  -7.629  -0.514
+ATOM   1648  CA  HIS A1648       0.319  -7.326   0.333
+ATOM   1649  CA  HIS A1649       0.712  -6.724  -0.415
+ATOM   1650  CA  HIS A1650       1.374  -6.917  -1.077
+ATOM   1651  CA  HIS A1651       1.696  -6.793  -1.951
+ATOM   1652  CA  HIS A1652       1.107  -6.344  -2.558
+ATOM   1653  CA  HIS A1653       0.492  -6.970  -2.937
+ATOM   1654  CA  HIS A1654       0.851  -7.551  -2.265
+ATOM   1655  CA  HIS A1655       0.329  -7.037  -1.619
+ATOM   1656  CA  HIS A1656       0.046  -6.236  -1.224
+ATOM   1657  CA  HIS A1657      -0.481  -5.446  -1.273
+ATOM   1658  CA  HIS A1658      -0.776  -5.229  -2.212
+ATOM   1659  CA  HIS A1659      -0.670  -4.290  -2.294
+ATOM   1660  CA  HIS A1660      -1.076  -3.582  -1.744
+ATOM   1661  CA  HIS A1661      -1.040  -3.043  -0.922
+ATOM   1662  CA  HIS A1662      -1.200  -3.099   0.018
+ATOM   1663  CA  ARG A1663      -1.752  -2.498  -0.344
+ATOM   1664  CA  ARG A1664      -2.680  -2.535  -0.494
+ATOM   1665  CA  ARG A1665      -3.338  -2.190  -1.163
+ATOM   1666  CA  ARG A1666      -3.747  -1.619  -1.740
+ATOM   1667  CA  ARG A1667      -3.424  -0.884  -2.298
+ATOM   1668  CA  ARG A1668      -2.778  -0.246  -1.976
+ATOM   1669  CA  ARG A1669      -2.890  -0.960  -1.340
+ATOM   1670  CA  ARG A1670      -2.816  -1.257  -0.442
+ATOM   1671  CA  ARG A1671      -3.439  -0.586  -0.668
+ATOM   1672  CA  ARG A1672      -3.730   0.287  -0.934
+ATOM   1673  CA  HIS A1673      -2.825   0.368  -1.203
+ATOM   1674  CA  HIS A1674      -1.928   0.369  -1.662
+ATOM   1675  CA  HIS A1675      -1.574  -0.050  -0.900
+ATOM   1676  CA  HIS A1676      -1.643  -0.886  -0.480
+ATOM   1677  CA  HIS A1677      -1.471  -1.195  -1.306
+ATOM   1678  CA  HIS A1678      -1.591  -0.931  -2.228
+ATOM   1679  CA  HIS A1679      -1.155  -0.420  -2.935
+ATOM   1680  CA  HIS A1680      -0.950   0.440  -3.298
+ATOM   1681  CA  HIS A1681      -0.220   0.557  -3.913
+ATOM   1682  CA  HIS A1682      -0.678  -0.275  -3.985
+ATOM   1683  CA  HIS A1683      -1.011  -0.966  -3.372
+ATOM   1684  CA  HIS A1684      -0.982  -1.808  -2.851
+ATOM   1685  CA  HIS A1685      -1.010  -1.819  -1.944
+ATOM   1686  CA  HIS A1686      -0.755  -1.852  -1.038
+ATOM   1687  CA  HIS A1687      -1.245  -1.607  -0.264
+ATOM   1688  CA  HIS A1688      -1.184  -2.098   0.499
+ATOM   1689  CA  HIS A1689      -0.328  -2.492   0.564
+ATOM   1690  CA  HIS A1690       0.217  -1.707   0.288
+ATOM   1691  CA  HIS A1691       0.108  -1.340  -0.616
+ATOM   1692  CA  HIS A1692      -0.248  -1.167  -1.501
+ATOM   1693  CA  HIS A1693      -0.548  -0.467  -2.103
+ATOM   1694  CA  HIS A1694      -1.143   0.259  -1.960
+ATOM   1695  CA  HIS A1695      -0.793   1.098  -2.255
+ATOM   1696  CA  HIS A1696       0.018   1.074  -2.819
+ATOM   1697  CA  HIS A1697       0.761   1.019  -2.217
+ATOM   1698  CA  HIS A1698       0.728   0.366  -1.548
+ATOM   1699  CA  HIS A1699       0.858  -0.551  -1.293
+ATOM   1700  CA  HIS A1700       0.509   0.407  -1.381
+ATOM   1701  CA  HIS A1701      -0.291   0.809  -0.879
+ATOM   1702  CA  HIS A1702      -0.227  -0.115  -0.839
+ATOM   1703  CA  HIS A1703       0.620   0.090  -0.388
+ATOM   1704  CA  HIS A1704       1.482  -0.278  -0.318
+ATOM   1705  CA  HIS A1705       1.542   0.608  -0.613
+ATOM   1706  CA  HIS A1706       1.158   1.366  -0.318
+ATOM   1707  CA  HIS A1707       0.417   0.890   0.200
+ATOM   1708  CA  HIS A1708      -0.262   0.285   0.515
+ATOM   1709  CA  HIS A1709      -0.686  -0.593   0.343
+ATOM   1710  CA  HIS A1710      -0.633  -0.574   1.337
+ATOM   1711  CA  HIS A1711      -0.479   0.349   1.669
+ATOM   1712  CA  HIS A1712       0.217   1.041   1.889
+ATOM   1713  CA  HIS A1713       0.205   0.406   2.609
+ATOM   1714  CA  HIS A1714       0.057   1.302   2.879
+ATOM   1715  CA  HIS A1715      -0.807   1.207   2.534
+ATOM   1716  CA  HIS A1716      -1.240   0.347   2.373
+ATOM   1717  CA  HIS A1717      -2.046  -0.022   2.107
+ATOM   1718  CA  HIS A1718      -1.860  -0.954   2.267
+ATOM   1719  CA  GLU A1719      -2.136  -1.868   2.480
+ATOM   1720  CA  GLU A1720      -1.183  -1.842   2.753
+ATOM   1721  CA  GLU A1721      -0.837  -1.333   2.003
+ATOM   1722  CA  GLU A1722      -1.391  -1.247   1.256
+ATOM   1723  CA  GLU A1723      -1.617  -2.123   1.613
+ATOM   1724  CA  GLU A1724      -0.769  -2.503   1.880
+ATOM   1725  CA  HIS A1725       0.090  -2.251   1.659
+ATOM   1726  CA  HIS A1726       0.175  -1.440   1.173
+ATOM   1727  CA  HIS A1727       0.860  -0.886   0.791
+ATOM   1728  CA  HIS A1728       1.194  -0.122   1.283
+ATOM   1729  CA  HIS A1729       1.225   0.538   2.066
+ATOM   1730  CA  HIS A1730       1.079   0.544   3.072
+ATOM   1731  CA  HIS A1731       0.947   1.469   3.267
+ATOM   1732  CA  HIS A1732       0.430   2.057   3.859
+ATOM   1733  CA  HIS A1733       1.091   1.577   4.366
+ATOM   1734  CA  HIS A1734       1.861   1.410   3.775
+ATOM   1735  CA  HIS A1735       2.445   0.688   3.453
+ATOM   1736  CA  HIS A1736       2.487   1.381   2.718
+ATOM   1737  CA  HIS A1737       1.705   1.526   2.189
+ATOM   1738  CA  HIS A1738       0.830   1.822   2.321
+ATOM   1739  CA  HIS A1739      -0.019   1.803   2.782
+ATOM   1740  CA  HIS A1740      -0.482   2.605   2.710
+ATOM   1741  CA  HIS A1741       0.358   3.070   2.822
+ATOM   1742  CA  HIS A1742       0.572   4.028   2.783
+ATOM   1743  CA  HIS A1743       1.433   4.389   2.631
+ATOM   1744  CA  HIS A1744       1.564   3.674   1.930
+ATOM   1745  CA  HIS A1745       2.025   2.871   1.876
+ATOM   1746  CA  HIS A1746       2.626   2.188   2.183
+ATOM   1747  CA  HIS A1747       2.473   2.186   1.190
+ATOM   1748  CA  HIS A1748       2.155   1.490   0.659
+ATOM   1749  CA  HIS A1749       2.278   0.738   0.141
+ATOM   1750  CA  HIS A1750       2.722  -0.097  -0.127
+ATOM   1751  CA  HIS A1751       2.276  -0.537   0.628
+ATOM   1752  CA  HIS A1752       3.033  -0.469   1.145
+ATOM   1753  CA  HIS A1753       2.880  -0.688   2.039
+ATOM   1754  CA  HIS A1754       2.862  -0.233   2.854
+ATOM   1755  CA  HIS A1755       2.304  -0.279   3.683
+ATOM   1756  CA  HIS A1756       1.404  -0.431   3.364
+ATOM   1757  CA  HIS A1757       0.945  -0.361   2.536
+ATOM   1758  CA  HIS A1758       0.049  -0.605   2.363
+ATOM   1759  CA  HIS A1759      -0.754  -0.200   2.738
+ATOM   1760  CA  HIS A1760      -1.012   0.331   3.447
+ATOM   1761  CA  HIS A1761      -0.201   0.582   3.879
+ATOM   1762  CA  HIS A1762       0.313  -0.120   3.543
+ATOM   1763  CA  GLU A1763      -0.458  -0.691   3.633
+ATOM   1764  CA  GLU A1764      -0.027  -0.786   4.490
+ATOM   1765  CA  GLU A1765       0.370  -0.681   5.334
+ATOM   1766  CA  GLU A1766       0.274   0.020   5.934
+ATOM   1767  CA  GLU A1767      -0.054   0.164   5.013
+ATOM   1768  CA  GLU A1768       0.794   0.184   4.653
+ATOM   1769  CA  GLU A1769       1.664   0.306   4.185
+ATOM   1770  CA  GLU A1770       2.239  -0.462   4.384
+ATOM   1771  CA  GLU A1771       1.781  -1.192   4.029
+ATOM   1772  CA  GLU A1772       1.452  -1.041   4.908
+ATOM   1773  CA  GLU A1773       1.517  -0.230   5.489
+ATOM   1774  CA  GLU A1774       1.466   0.544   5.994
+ATOM   1775  CA  GLU A1775       1.867   1.055   6.686
+ATOM   1776  CA  GLU A1776       1.832   1.191   7.653
+ATOM   1777  CA  GLU A1777       0.978   1.117   7.204
+ATOM   1778  CA  GLU A1778       0.317   0.908   6.545
+ATOM   1779  CA  GLU A1779       0.215  -0.058   6.247
+ATOM   1780  CA  GLU A1780       0.880  -0.654   6.628
+ATOM   1781  CA  GLY A1781       1.411   0.106   7.016
+ATOM   1782  CA  GLY A1782       0.916   0.010   7.855
+ATOM   1783  CA  GLY A1783       0.093  -0.442   8.021
+ATOM   1784  CA  GLY A1784       0.779  -1.045   7.709
+ATOM   1785  CA  GLU A1785       1.718  -0.730   7.771
+ATOM   1786  CA  GLU A1786       2.549  -0.236   7.627
+ATOM   1787  CA  GLU A1787       3.215   0.476   7.903
+ATOM   1788  CA  GLU A1788       3.330   1.373   7.920
+ATOM   1789  CA  GLU A1789       3.195   1.024   7.079
+ATOM   1790  CA  GLU A1790       4.063   0.702   6.949
+ATOM   1791  CA  GLU A1791       4.972   0.577   6.890
+ATOM   1792  CA  GLU A1792       5.689   0.399   7.484
+ATOM   1793  CA  GLU A1793       5.610  -0.033   8.330
+ATOM   1794  CA  GLU A1794       4.863   0.532   8.541
+ATOM   1795  CA  GLU A1795       4.466   1.209   8.026
+ATOM   1796  CA  GLU A1796       5.049   1.660   7.456
+ATOM   1797  CA  GLU A1797       4.976   2.055   6.565
+ATOM   1798  CA  GLU A1798       5.588   1.478   6.107
+ATOM   1799  CA  GLU A1799       5.980   1.102   5.347
+ATOM   1800  CA  GLU A1800       5.901   0.981   4.367
+ATOM   1801  CA  GLU A1801       6.593   1.512   3.992
+ATOM   1802  CA  GLU A1802       7.393   1.590   3.475
+ATOM   1803  CA  GLU A1803       7.784   0.705   3.401
+ATOM   1804  CA  GLU A1804       6.962   0.248   3.283
+ATOM   1805  CA  GLU A1805       6.311  -0.081   2.692
+ATOM   1806  CA  GLU A1806       5.875  -0.338   3.506
+ATOM   1807  CA  GLU A1807       5.132   0.026   3.931
+ATOM   1808  CA  GLU A1808       5.503  -0.191   4.858
+ATOM   1809  CA  GLU A1809       5.366  -0.573   5.741
+ATOM   1810  CA  GLU A1810       5.875  -0.597   6.642
+ATOM   1811  CA  GLU A1811       4.996  -0.619   6.900
+ATOM   1812  CA  GLU A1812       4.624  -0.074   6.149
+ATOM   1813  CA  GLU A1813       4.434   0.526   5.407
+ATOM   1814  CA  GLU A1814       3.641   0.031   5.423
+ATOM   1815  CA  GLU A1815       2.756   0.364   5.136
+ATOM   1816  CA  GLU A1816       3.264   0.628   4.372
+ATOM   1817  CA  GLU A1817       4.205   0.335   4.197
+ATOM   1818  CA  GLU A1818       4.603   0.905   3.569
+ATOM   1819  CA  GLU A1819       5.088   1.754   3.369
+ATOM   1820  CA  GLU A1820       5.084   1.735   4.349
+ATOM   1821  CA  GLU A1821       4.183   1.869   4.143
+ATOM   1822  CA  GLU A1822       3.452   2.098   3.561
+ATOM   1823  CA  GLU A1823       3.639   1.915   2.648
+ATOM   1824  CA  GLU A1824       4.468   1.747   2.098
+ATOM   1825  CA  GLU A1825       3.909   1.460   1.357
+ATOM   1826  CA  GLU A1826       4.363   2.011   1.985
+ATOM   1827  CA  GLU A1827       3.876   2.842   2.047
+ATOM   1828  CA  GLU A1828       4.404   2.849   2.804
+ATOM   1829  CA  GLU A1829       5.318   2.720   2.864
+ATOM   1830  CA  GLU A1830       5.448   2.845   1.890
+ATOM   1831  CA  GLU A1831       4.739   3.015   1.231
+ATOM   1832  CA  GLU A1832       4.628   2.114   0.869
+ATOM   1833  CA  GLU A1833       5.472   1.672   1.063
+ATOM   1834  CA  GLU A1834       6.119   2.000   1.716
+ATOM   1835  CA  GLU A1835       6.171   1.934   2.698
+ATOM   1836  CA  GLU A1836       5.683   1.145   2.551
+ATOM   1837  CA  GLU A1837       5.340   0.421   2.016
+ATOM   1838  CA  GLU A1838       4.500   0.705   2.240
+ATOM   1839  CA  HIS A1839       3.543   0.673   2.495
+ATOM   1840  CA  HIS A1840       2.719   0.544   2.040
+ATOM   1841  CA  HIS A1841       2.048   0.699   1.273
+ATOM   1842  CA  HIS A1842       2.979   0.955   1.144
+ATOM   1843  CA  HIS A1843       3.518   0.258   0.665
+ATOM   1844  CA  HIS A1844       4.008  -0.086   1.377
+ATOM   1845  CA  HIS A1845       4.079  -0.480   2.303
+ATOM   1846  CA  HIS A1846       4.036  -0.733   3.200
+ATOM   1847  CA  HIS A1847       3.424  -1.073   3.832
+ATOM   1848  CA  HIS A1848       3.530  -1.947   4.155
+ATOM   1849  CA  HIS A1849       3.352  -2.067   5.085
+ATOM   1850  CA  HIS A1850       2.419  -1.894   5.361
+ATOM   1851  CA  GLU A1851       2.816  -1.191   4.930
+ATOM   1852  CA  GLU A1852       3.740  -0.943   5.032
+ATOM   1853  CA  GLU A1853       4.121  -1.015   5.924
+ATOM   1854  CA  GLU A1854       3.204  -1.155   6.139
+ATOM   1855  CA  GLU A1855       2.285  -0.810   6.202
+ATOM   1856  CA  GLU A1856       2.355   0.165   6.198
+ATOM   1857  CA  GLU A1857       3.191   0.059   6.528
+ATOM   1858  CA  GLU A1858       3.550  -0.412   7.283
+ATOM   1859  CA  GLU A1859       4.087  -1.214   7.091
+ATOM   1860  CA  GLU A1860       3.781  -1.904   6.578
+ATOM   1861  CA  GLU A1861       4.117  -2.788   6.619
+ATOM   1862  CA  GLU A1862       3.928  -3.569   6.055
+ATOM   1863  CA  GLU A1863       3.606  -3.531   5.174
+ATOM   1864  CA  GLU A1864       2.928  -3.081   5.680
+ATOM   1865  CA  LYS A1865       2.392  -2.917   6.499
+ATOM   1866  CA  LYS A1866       3.161  -2.820   7.139
+ATOM   1867  CA  LYS A1867       3.833  -2.449   7.725
+ATOM   1868  CA  LYS A1868       4.058  -3.324   7.925
+ATOM   1869  CA  GLU A1869       4.141  -4.231   7.764
+ATOM   1870  CA  GLU A1870       4.543  -5.115   7.905
+ATOM   1871  CA  GLU A1871       5.165  -4.352   7.945
+ATOM   1872  CA  GLU A1872       5.256  -3.424   8.008
+ATOM   1873  CA  GLU A1873       5.605  -2.591   7.784
+ATOM   1874  CA  GLU A1874       4.858  -2.691   7.286
+ATOM   1875  CA  GLU A1875       5.565  -2.807   6.641
+ATOM   1876  CA  GLU A1876       6.385  -2.549   6.233
+ATOM   1877  CA  GLU A1877       6.382  -1.824   5.641
+ATOM   1878  CA  GLU A1878       5.878  -1.307   4.951
+ATOM   1879  CA  GLU A1879       6.374  -1.463   4.122
+ATOM   1880  CA  GLU A1880       7.101  -1.289   3.573
+ATOM   1881  CA  GLU A1881       7.218  -0.489   4.115
+ATOM   1882  CA  GLU A1882       6.701  -0.388   4.945
+ATOM   1883  CA  GLU A1883       7.038  -0.736   5.760
+ATOM   1884  CA  GLU A1884       6.872  -1.504   5.207
+ATOM   1885  CA  GLU A1885       7.668  -1.589   4.694
+ATOM   1886  CA  GLU A1886       8.190  -2.403   4.784
+ATOM   1887  CA  ASP A1887       7.668  -2.929   5.402
+ATOM   1888  CA  ASP A1888       7.830  -3.863   5.311
+ATOM   1889  CA  GLU A1889       6.946  -3.816   5.014
+ATOM   1890  CA  GLU A1890       6.403  -3.225   4.552
+ATOM   1891  CA  GLU A1891       6.884  -2.401   4.364
+ATOM   1892  CA  GLU A1892       7.526  -2.387   3.683
+ATOM   1893  CA  GLU A1893       7.196  -3.201   3.297
+ATOM   1894  CA  GLU A1894       7.101  -4.089   3.642
+ATOM   1895  CA  GLU A1895       6.480  -4.351   4.318
+ATOM   1896  CA  GLU A1896       5.794  -4.340   5.027
+ATOM   1897  CA  GLU A1897       5.102  -3.645   5.180
+ATOM   1898  CA  GLU A1898       4.821  -2.851   5.616
+ATOM   1899  CA  LYS A1899       4.831  -1.932   5.916
+ATOM   1900  CA  LYS A1900       4.595  -1.786   5.030
+ATOM   1901  CA  GLU A1901       4.283  -2.641   4.667
+ATOM   1902  CA  GLU A1902       4.491  -3.460   4.140
+ATOM   1903  CA  GLU A1903       5.335  -3.141   4.276
+ATOM   1904  CA  GLU A1904       5.579  -2.491   5.019
+ATOM   1905  CA  GLU A1905       5.186  -2.026   4.238
+ATOM   1906  CA  GLU A1906       4.514  -1.807   3.626
+ATOM   1907  CA  LYS A1907       4.194  -2.294   2.871
+ATOM   1908  CA  LYS A1908       4.459  -3.193   2.680
+ATOM   1909  CA  GLU A1909       4.846  -4.080   2.861
+ATOM   1910  CA  GLU A1910       4.708  -4.910   3.421
+ATOM   1911  CA  LYS A1911       4.537  -5.813   3.685
+ATOM   1912  CA  LYS A1912       4.064  -5.443   4.480
+ATOM   1913  CA  LYS A1913       3.295  -5.014   5.016
+ATOM   1914  CA  LYS A1914       2.897  -4.295   5.465
+ATOM   1915  CA  LYS A1915       2.393  -4.704   4.684
+ATOM   1916  CA  LYS A1916       2.111  -5.129   3.850
+ATOM   1917  CA  LYS A1917       2.015  -5.954   3.429
+ATOM   1918  CA  LYS A1918       2.068  -5.679   2.476
+ATOM   1919  CA  LYS A1919       2.864  -6.213   2.316
+ATOM   1920  CA  LYS A1920       3.566  -5.563   2.538
+ATOM   1921  CA  GLU A1921       4.066  -4.694   2.532
+ATOM   1922  CA  GLU A1922       4.032  -4.545   1.636
+ATOM   1923  CA  GLU A1923       4.103  -5.493   1.511
+ATOM   1924  CA  GLU A1924       4.386  -6.457   1.584
+ATOM   1925  CA  GLU A1925       3.638  -7.032   1.453
+ATOM   1926  CA  GLU A1926       4.378  -7.323   0.897
+ATOM   1927  CA  GLU A1927       4.479  -6.524   0.350
+ATOM   1928  CA  GLU A1928       4.053  -5.653   0.452
+ATOM   1929  CA  LYS A1929       3.919  -4.747   0.563
+ATOM   1930  CA  LYS A1930       3.472  -3.981   0.863
+ATOM   1931  CA  ARG A1931       2.895  -4.538   1.431
+ATOM   1932  CA  ARG A1932       2.242  -4.936   0.798
+ATOM   1933  CA  ARG A1933       2.934  -5.112   1.502
+ATOM   1934  CA  ARG A1934       2.974  -6.031   1.279
+ATOM   1935  CA  ARG A1935       2.947  -6.749   0.558
+ATOM   1936  CA  ARG A1936       2.526  -7.104   1.272
+ATOM   1937  CA  LYS A1937       1.922  -6.556   1.818
+ATOM   1938  CA  LYS A1938       1.748  -6.284   0.953
+ATOM   1939  CA  GLU A1939       2.638  -6.082   0.853
+ATOM   1940  CA  GLU A1940       3.041  -5.768   0.107
+ATOM   1941  CA  GLU A1941       3.834  -5.956  -0.436
+ATOM   1942  CA  GLU A1942       3.340  -6.776  -0.596
+ATOM   1943  CA  GLU A1943       2.780  -7.528  -0.412
+ATOM   1944  CA  GLU A1944       2.514  -8.194   0.284
+ATOM   1945  CA  GLU A1945       1.813  -8.041   1.104
+ATOM   1946  CA  GLU A1946       2.157  -8.154   1.980
+ATOM   1947  CA  GLU A1947       3.139  -8.072   1.933
+ATOM   1948  CA  GLU A1948       3.145  -7.835   1.012
+ATOM   1949  CA  GLU A1949       3.943  -8.414   0.980
+ATOM   1950  CA  GLU A1950       4.850  -8.364   0.685
+ATOM   1951  CA  GLU A1951       4.756  -7.734   0.016
+ATOM   1952  CA  GLU A1952       4.990  -7.934  -0.901
+ATOM   1953  CA  GLU A1953       5.516  -7.977  -1.720
+ATOM   1954  CA  GLU A1954       5.495  -8.883  -1.955
+ATOM   1955  CA  GLU A1955       6.060  -8.446  -2.645
+ATOM   1956  CA  GLU A1956       6.810  -8.820  -3.130
+ATOM   1957  CA  GLU A1957       6.080  -8.139  -2.967
+ATOM   1958  CA  GLU A1958       5.959  -7.184  -2.586
+ATOM   1959  CA  GLU A1959       5.129  -7.666  -2.776
+ATOM   1960  CA  GLU A1960       4.855  -7.128  -2.036
+ATOM   1961  CA  GLU A1961       5.176  -6.269  -2.343
+ATOM   1962  CA  GLU A1962       4.563  -6.364  -3.105
+ATOM   1963  CA  GLU A1963       4.083  -7.178  -2.859
+ATOM   1964  CA  GLU A1964       3.920  -8.124  -2.860
+ATOM   1965  CA  GLU A1965       4.012  -8.591  -2.093
+ATOM   1966  CA  GLU A1966       4.410  -8.369  -1.236
+ATOM   1967  CA  ASP A1967       4.277  -8.853  -0.425
+ATOM   1968  CA  ASP A1968       3.425  -8.449  -0.707
+ATOM   1969  CA  ASP A1969       3.050  -8.623  -1.575
+ATOM   1970  CA  ASP A1970       3.062  -8.207  -2.391
+ATOM   1971  CA  ASP A1971       3.095  -7.330  -2.070
+ATOM   1972  CA  ASP A1972       2.840  -6.957  -2.907
+ATOM   1973  CA  ASP A1973       3.479  -6.556  -3.521
+ATOM   1974  CA  ASP A1974       4.343  -6.723  -3.987
+ATOM   1975  CA  ASP A1975       5.310  -6.840  -3.899
+ATOM   1976  CA  ASP A1976       6.220  -6.604  -3.938
+ATOM   1977  CA  ASP A1977       6.141  -6.125  -4.783
+ATOM   1978  CA  ASP A1978       6.869  -5.460  -4.798
+ATOM   1979  CA  ASP A1979       7.593  -5.371  -5.381
+ATOM   1980  CA  ASP A1980       7.720  -5.292  -6.312
+ATOM   1981  CA  ASP A1981       7.270  -4.416  -6.339
+ATOM   1982  CA  ASP A1982       8.085  -4.114  -5.883
+ATOM   1983  CA  ASP A1983       8.513  -4.622  -5.184
+ATOM   1984  CA  ASP A1984       8.685  -4.586  -4.281
+ATOM   1985  CA  ASP A1985       8.888  -4.348  -3.369
+ATOM   1986  CA  ASP A1986       8.660  -3.433  -3.018
+ATOM   1987  CA  ASP A1987       7.926  -2.750  -2.947
+ATOM   1988  CA  ASP A1988       7.146  -2.081  -2.777
+ATOM   1989  CA  ASP A1989       6.368  -1.641  -3.071
+ATOM   1990  CA  ASP A1990       6.004  -0.821  -3.499
+ATOM   1991  CA  LYS A1991       6.646  -0.816  -2.760
+ATOM   1992  CA  LYS A1992       6.279  -1.221  -1.953
+ATOM   1993  CA  LYS A1993       7.266  -1.288  -1.706
+ATOM   1994  CA  LYS A1994       7.721  -0.433  -1.535
+ATOM   1995  CA  LYS A1995       8.256   0.152  -2.085
+ATOM   1996  CA  LYS A1996       7.538   0.827  -2.060
+ATOM   1997  CA  LYS A1997       6.801   1.455  -2.258
+ATOM   1998  CA  LYS A1998       6.741   1.082  -3.131
+ATOM   1999  CA  GLU A1999       6.853   0.136  -2.952
+ATOM   2000  CA  GLU A2000       6.668  -0.044  -1.981
+ATOM   2001  CA  LYS A2001       5.861  -0.295  -1.472
+ATOM   2002  CA  LYS A2002       6.374  -0.448  -0.630
+ATOM   2003  CA  GLU A2003       6.935  -1.229  -0.489
+ATOM   2004  CA  GLU A2004       6.755  -2.120  -0.394
+ATOM   2005  CA  LYS A2005       5.833  -2.137  -0.246
+ATOM   2006  CA  LYS A2006       5.442  -1.225  -0.461
+ATOM   2007  CA  LYS A2007       5.100  -0.328  -0.555
+ATOM   2008  CA  LYS A2008       4.602  -0.991  -1.078
+ATOM   2009  CA  LYS A2009       4.799  -1.882  -1.374
+ATOM   2010  CA  LYS A2010       4.095  -2.112  -0.800
+ATOM   2011  CA  LYS A2011       4.330  -2.765  -0.114
+ATOM   2012  CA  LYS A2012       4.973  -2.513   0.569
+ATOM   2013  CA  LYS A2013       5.538  -1.729   0.927
+ATOM   2014  CA  LYS A2014       5.374  -0.770   1.149
+ATOM   2015  CA  LYS A2015       5.238  -1.070   2.078
+ATOM   2016  CA  LYS A2016       5.058  -0.648   2.934
+ATOM   2017  CA  LYS A2017       5.603  -1.368   3.201
+ATOM   2018  CA  LYS A2018       6.275  -1.099   2.555
+ATOM   2019  CA  LYS A2019       6.330  -1.059   1.642
+ATOM   2020  CA  LYS A2020       6.532  -0.626   0.853
+ATOM   2021  CA  LYS A2021       6.869  -1.380   0.462
+ATOM   2022  CA  LYS A2022       6.981  -2.296   0.580
+ATOM   2023  CA  LYS A2023       7.690  -2.816   0.260
+ATOM   2024  CA  LYS A2024       7.776  -3.720   0.381
+ATOM   2025  CA  LYS A2025       7.787  -4.387   1.017
+ATOM   2026  CA  LYS A2026       8.255  -4.879   1.680
+ATOM   2027  CA  GLU A2027       8.827  -5.687   1.487
+ATOM   2028  CA  GLU A2028       9.231  -6.152   0.785
+ATOM   2029  CA  ASP A2029       8.537  -6.071   0.125
+ATOM   2030  CA  ASP A2030       7.657  -6.015  -0.224
+ATOM   2031  CA  ASP A2031       7.541  -6.772   0.364
+ATOM   2032  CA  ASP A2032       6.842  -6.664   1.096
+ATOM   2033  CA  ASP A2033       6.086  -6.196   0.810
+ATOM   2034  CA  ASP A2034       6.254  -6.095  -0.178
+ATOM   2035  CA  ASP A2035       6.600  -6.443  -1.004
+ATOM   2036  CA  ASP A2036       6.774  -6.582  -1.877
+ATOM   2037  CA  ASP A2037       6.755  -7.509  -1.577
+ATOM   2038  CA  ASP A2038       6.590  -7.769  -0.635
+ATOM   2039  CA  ASP A2039       5.905  -7.360  -0.077
+ATOM   2040  CA  ASP A2040       5.553  -7.123   0.828
+ATOM   2041  CA  ASP A2041       5.486  -6.755   1.709
+ATOM   2042  CA  ASP A2042       4.882  -7.240   2.285
+ATOM   2043  CA  ASP A2043       5.636  -7.817   2.372
+ATOM   2044  CA  ASP A2044       6.489  -7.302   2.234
+ATOM   2045  CA  ASP A2045       6.339  -6.326   2.206
+ATOM   2046  CA  ASP A2046       6.215  -5.574   1.666
+ATOM   2047  CA  ASP A2047       7.078  -5.099   1.727
+ATOM   2048  CA  ASP A2048       6.541  -4.309   1.596
+ATOM   2049  CA  ASP A2049       6.833  -3.558   1.163
+ATOM   2050  CA  ASP A2050       7.216  -2.779   1.459
+ATOM   2051  CA  ASP A2051       6.440  -2.330   1.662
+ATOM   2052  CA  ASP A2052       5.953  -2.704   0.851
+ATOM   2053  CA  ASP A2053       5.921  -3.370   1.516
+ATOM   2054  CA  ASP A2054       6.485  -3.479   2.238
+ATOM   2055  CA  ASP A2055       7.291  -4.000   2.377
+ATOM   2056  CA  ASP A2056       7.914  -3.238   2.305
+ATOM   2057  CA  ASP A2057       7.454  -2.355   2.410
+ATOM   2058  CA  ASP A2058       6.651  -2.040   2.948
+ATOM   2059  CA  ASP A2059       6.076  -2.639   3.434
+ATOM   2060  CA  ASP A2060       5.646  -3.510   3.332
+ATOM   2061  CA  ASP A2061       5.506  -4.277   3.881
+ATOM   2062  CA  ASP A2062       5.049  -4.840   4.531
+ATOM   2063  CA  ASP A2063       4.579  -4.709   5.353
+ATOM   2064  CA  ASP A2064       4.013  -4.373   4.616
+ATOM   2065  CA  ASP A2065       3.421  -4.867   3.936
+ATOM   2066  CA  ASP A2066       3.262  -5.773   3.591
+ATOM   2067  CA  ASP A2067       3.834  -6.525   3.230
+ATOM   2068  CA  ASP A2068       4.467  -6.282   2.625
+ATOM   2069  CA  ASP A2069       5.012  -5.594   2.088
+ATOM   2070  CA  ASP A2070       5.279  -4.822   1.499
+ATOM   2071  CA  ASP A2071       5.864  -4.723   2.348
+ATOM   2072  CA  ASP A2072       6.719  -5.096   2.706
+ATOM   2073  CA  ASP A2073       7.413  -5.671   2.933
+ATOM   2074  CA  ASP A2074       6.968  -5.731   3.790
+ATOM   2075  CA  ASP A2075       7.301  -6.566   4.091
+ATOM   2076  CA  ASP A2076       7.552  -7.006   4.910
+ATOM   2077  CA  ASP A2077       6.640  -6.823   5.190
+ATOM   2078  CA  ASP A2078       5.776  -6.731   4.922
+ATOM   2079  CA  ASP A2079       6.031  -7.441   4.337
+ATOM   2080  CA  ASP A2080       6.127  -6.976   3.443
+ATOM   2081  CA  ASP A2081       5.316  -6.548   3.273
+ATOM   2082  CA  ASP A2082       5.830  -5.718   3.334
+ATOM   2083  CA  ASP A2083       5.874  -5.274   4.153
+ATOM   2084  CA  ASP A2084       5.340  -6.041   4.373
+ATOM   2085  CA  ASP A2085       4.517  -6.570   4.605
+ATOM   2086  CA  ASP A2086       3.540  -6.656   4.770
+ATOM   2087  CA  ASP A2087       2.746  -7.034   5.258
+ATOM   2088  CA  ASP A2088       1.912  -7.350   5.702
+ATOM   2089  CA  ASP A2089       1.351  -7.034   6.447
+ATOM   2090  CA  ASP A2090       1.406  -6.392   7.143
+ATOM   2091  CA  ASP A2091       0.987  -6.181   7.988
+ATOM   2092  CA  ASP A2092       0.104  -5.883   8.084
+ATOM   2093  CA  ASP A2093      -0.127  -5.164   7.502
+ATOM   2094  CA  ASP A2094       0.030  -4.372   6.993
+ATOM   2095  CA  ASP A2095      -0.288  -3.482   7.222
+ATOM   2096  CA  ASP A2096      -0.328  -2.567   6.984
+ATOM   2097  CA  ASP A2097      -0.052  -1.745   7.271
+ATOM   2098  CA  ASP A2098       0.359  -2.273   7.880
+ATOM   2099  CA  ASP A2099       0.338  -3.168   8.283
+ATOM   2100  CA  ASP A2100       0.299  -4.139   8.327
+ATOM   2101  CA  ASP A2101       0.735  -4.936   8.812
+ATOM   2102  CA  ASP A2102       1.598  -4.501   8.880
+ATOM   2103  CA  ASP A2103       2.154  -4.407   8.138
+ATOM   2104  CA  ASP A2104       2.762  -4.620   7.401
+ATOM   2105  CA  ASP A2105       3.144  -4.731   6.537
+ATOM   2106  CA  ASP A2106       2.921  -5.402   5.982
+ATOM   2107  CA  ASP A2107       1.986  -5.708   6.088
+ATOM   2108  CA  ASP A2108       1.967  -4.897   6.598
+ATOM   2109  CA  ASP A2109       1.593  -4.282   7.251
+ATOM   2110  CA  ASP A2110       1.344  -5.190   7.311
+ATOM   2111  CA  GLU A2111       0.869  -5.197   6.475
+ATOM   2112  CA  GLU A2112       0.934  -4.258   6.142
+ATOM   2113  CA  GLU A2113       1.193  -3.308   6.300
+ATOM   2114  CA  GLU A2114       1.308  -3.153   7.303
+ATOM   2115  CA  GLU A2115       1.585  -2.431   7.840
+ATOM   2116  CA  GLU A2116       1.725  -1.737   7.147
+ATOM   2117  CA  GLU A2117       1.371  -1.722   6.263
+ATOM   2118  CA  GLU A2118       0.465  -1.744   6.242
+ATOM   2119  CA  GLU A2119       0.187  -2.654   5.969
+ATOM   2120  CA  GLU A2120      -0.646  -3.005   5.704
+ATOM   2121  CA  GLU A2121      -0.346  -3.377   4.879
+ATOM   2122  CA  GLU A2122      -0.152  -4.264   5.322
+ATOM   2123  CA  GLU A2123       0.632  -3.774   5.102
+ATOM   2124  CA  GLU A2124       1.636  -3.480   5.370
+ATOM   2125  CA  HIS A2125       2.222  -3.097   4.726
+ATOM   2126  CA  HIS A2126       2.110  -2.917   3.773
+ATOM   2127  CA  HIS A2127       1.726  -2.071   3.526
+ATOM   2128  CA  HIS A2128       0.980  -1.597   3.289
+ATOM   2129  CA  HIS A2129       0.191  -1.098   2.884
+ATOM   2130  CA  HIS A2130       0.847  -1.466   2.258
+ATOM   2131  CA  HIS A2131       1.224  -1.793   1.443
+ATOM   2132  CA  HIS A2132       1.847  -1.112   1.570
+ATOM   2133  CA  HIS A2133       2.088  -1.075   2.486
+ATOM   2134  CA  HIS A2134       2.588  -1.532   3.139
+ATOM   2135  CA  HIS A2135       3.036  -2.339   3.240
+ATOM   2136  CA  HIS A2136       3.692  -2.827   3.710
+ATOM   2137  CA  HIS A2137       3.375  -3.414   2.952
+ATOM   2138  CA  HIS A2138       3.138  -2.895   2.163
+ATOM   2139  CA  HIS A2139       3.443  -2.603   1.237
+ATOM   2140  CA  HIS A2140       3.240  -2.503   0.359
+ATOM   2141  CA  HIS A2141       3.176  -3.167  -0.295
+ATOM   2142  CA  HIS A2142       3.716  -3.793  -0.747
+ATOM   2143  CA  HIS A2143       3.380  -4.727  -0.425
+ATOM   2144  CA  HIS A2144       2.684  -4.252  -0.020
+ATOM   2145  CA  HIS A2145       1.836  -3.928  -0.249
+ATOM   2146  CA  HIS A2146       1.182  -4.025  -0.940
+ATOM   2147  CA  HIS A2147       1.036  -4.369  -1.819
+ATOM   2148  CA  HIS A2148       2.038  -4.267  -1.868
+ATOM   2149  CA  HIS A2149       2.892  -4.184  -2.227
+ATOM   2150  CA  HIS A2150       2.752  -3.189  -1.967
+ATOM   2151  CA  HIS A2151       2.551  -3.617  -1.128
+ATOM   2152  CA  HIS A2152       1.785  -3.086  -1.137
+ATOM   2153  CA  HIS A2153       1.042  -3.066  -1.686
+ATOM   2154  CA  HIS A2154       0.273  -3.325  -2.216
+ATOM   2155  CA  HIS A2155      -0.388  -2.647  -2.407
+ATOM   2156  CA  HIS A2156       0.169  -2.236  -1.713
+ATOM   2157  CA  HIS A2157       0.350  -2.701  -0.952
+ATOM   2158  CA  HIS A2158       0.238  -3.488  -0.516
+ATOM   2159  CA  HIS A2159       0.550  -2.962   0.280
+ATOM   2160  CA  HIS A2160       1.020  -3.168   1.158
+ATOM   2161  CA  HIS A2161       1.625  -3.898   1.081
+ATOM   2162  CA  HIS A2162       2.481  -3.644   1.507
+ATOM   2163  CA  HIS A2163       2.293  -3.114   0.721
+ATOM   2164  CA  HIS A2164       2.174  -2.680  -0.096
+ATOM   2165  CA  HIS A2165       1.576  -2.007  -0.200
+ATOM   2166  CA  HIS A2166       1.818  -1.657   0.641
+ATOM   2167  CA  HIS A2167       2.586  -1.888   1.122
+ATOM   2168  CA  HIS A2168       3.287  -1.687   1.737
+ATOM   2169  CA  HIS A2169       4.154  -2.068   1.718
+ATOM   2170  CA  HIS A2170       4.299  -1.605   0.822
+ATOM   2171  CA  HIS A2171       3.855  -1.303  -0.033
+ATOM   2172  CA  HIS A2172       3.738  -0.499  -0.385
+ATOM   2173  CA  GLU A2173       3.460  -1.176  -1.043
+ATOM   2174  CA  GLU A2174       2.726  -1.263  -1.710
+ATOM   2175  CA  HIS A2175       1.841  -1.443  -1.256
+ATOM   2176  CA  HIS A2176       2.236  -1.033  -0.456
+ATOM   2177  CA  HIS A2177       2.833  -1.294   0.213
+ATOM   2178  CA  HIS A2178       3.258  -2.168   0.160
+ATOM   2179  CA  HIS A2179       3.047  -2.017  -0.711
+ATOM   2180  CA  HIS A2180       2.456  -2.238  -1.468
+ATOM   2181  CA  HIS A2181       1.957  -2.253  -2.251
+ATOM   2182  CA  HIS A2182       1.815  -1.447  -2.779
+ATOM   2183  CA  HIS A2183       1.620  -0.643  -2.307
+ATOM   2184  CA  HIS A2184       1.155   0.091  -2.703
+ATOM   2185  CA  HIS A2185       0.370  -0.468  -2.710
+ATOM   2186  CA  HIS A2186       0.460  -1.296  -3.154
+ATOM   2187  CA  HIS A2187       0.611  -2.006  -2.517
+ATOM   2188  CA  HIS A2188       0.935  -1.377  -1.904
+ATOM   2189  CA  HIS A2189       1.020  -0.593  -1.292
+ATOM   2190  CA  HIS A2190       1.791  -0.059  -1.521
+ATOM   2191  CA  HIS A2191       1.639   0.872  -1.747
+ATOM   2192  CA  HIS A2192       2.136   0.436  -2.414
+ATOM   2193  CA  HIS A2193       2.808  -0.137  -2.783
+ATOM   2194  CA  HIS A2194       3.631  -0.580  -2.936
+ATOM   2195  CA  HIS A2195       3.202  -1.339  -3.295
+ATOM   2196  CA  HIS A2196       2.872  -1.727  -2.427
+ATOM   2197  CA  HIS A2197       2.981  -0.929  -2.007
+ATOM   2198  CA  HIS A2198       2.816  -0.249  -1.262
+ATOM   2199  CA  HIS A2199       2.864   0.680  -1.619
+ATOM   2200  CA  HIS A2200       3.121   0.940  -2.565
+ATOM   2201  CA  HIS A2201       3.584   0.171  -2.147
+ATOM   2202  CA  HIS A2202       4.001  -0.581  -1.838
+ATOM   2203  CA  HIS A2203       4.912  -0.602  -2.040
+ATOM   2204  CA  HIS A2204       5.646  -0.305  -2.631
+ATOM   2205  CA  HIS A2205       4.951  -0.075  -3.209
+ATOM   2206  CA  HIS A2206       4.212   0.015  -3.787
+ATOM   2207  CA  HIS A2207       4.518  -0.028  -4.684
+ATOM   2208  CA  HIS A2208       4.735  -0.700  -5.250
+ATOM   2209  CA  HIS A2209       4.906  -0.150  -6.071
+ATOM   2210  CA  HIS A2210       4.508   0.572  -5.706
+ATOM   2211  CA  HIS A2211       3.749   0.389  -5.219
+ATOM   2212  CA  HIS A2212       3.137  -0.147  -4.659
+ATOM   2213  CA  HIS A2213       2.757   0.398  -4.025
+ATOM   2214  CA  HIS A2214       1.761   0.583  -3.857
+ATOM   2215  CA  HIS A2215       0.886   0.190  -3.814
+ATOM   2216  CA  HIS A2216       0.309  -0.528  -3.980
+ATOM   2217  CA  HIS A2217       0.545  -1.466  -4.275
+ATOM   2218  CA  HIS A2218       0.051  -2.039  -3.658
+ATOM   2219  CA  HIS A2219       0.203  -2.926  -3.223
+ATOM   2220  CA  HIS A2220       0.309  -3.863  -3.355
+ATOM   2221  CA  HIS A2221      -0.023  -4.668  -3.714
+ATOM   2222  CA  HIS A2222       0.240  -4.293  -4.547
+ATOM   2223  CA  HIS A2223       0.500  -3.365  -4.629
+ATOM   2224  CA  HIS A2224       1.050  -3.169  -3.821
+ATOM   2225  CA  HIS A2225       1.120  -2.250  -3.520
+ATOM   2226  CA  HIS A2226       2.061  -2.349  -3.435
+ATOM   2227  CA  HIS A2227       2.252  -3.203  -2.957
+ATOM   2228  CA  HIS A2228       1.496  -3.793  -2.663
+ATOM   2229  CA  HIS A2229       1.074  -4.563  -3.061
+ATOM   2230  CA  HIS A2230       1.271  -5.455  -3.429
+ATOM   2231  CA  HIS A2231       1.777  -5.451  -4.287
+ATOM   2232  CA  HIS A2232       1.347  -5.611  -5.069
+ATOM   2233  CA  GLU A2233       0.652  -5.732  -4.487
+ATOM   2234  CA  GLU A2234       0.369  -6.239  -3.761
+ATOM   2235  CA  GLU A2235       0.839  -6.949  -4.215
+ATOM   2236  CA  GLU A2236       1.381  -7.810  -4.404
+ATOM   2237  CA  GLU A2237       1.564  -8.205  -3.526
+ATOM   2238  CA  GLU A2238       1.570  -7.274  -3.508
+ATOM   2239  CA  GLU A2239       2.121  -6.605  -4.005
+ATOM   2240  CA  GLU A2240       2.027  -6.412  -4.963
+ATOM   2241  CA  GLU A2241       2.602  -6.011  -5.674
+ATOM   2242  CA  GLU A2242       2.916  -5.765  -6.575
+ATOM   2243  CA  GLU A2243       3.167  -6.369  -7.277
+ATOM   2244  CA  GLU A2244       2.218  -6.078  -7.329
+ATOM   2245  CA  GLU A2245       1.885  -5.284  -7.049
+ATOM   2246  CA  GLU A2246       2.084  -5.087  -6.142
+ATOM   2247  CA  GLU A2247       2.654  -5.566  -5.443
+ATOM   2248  CA  GLU A2248       3.575  -5.136  -5.258
+ATOM   2249  CA  GLU A2249       3.226  -4.912  -6.070
+ATOM   2250  CA  GLU A2250       2.916  -4.245  -6.666
+ATOM   2251  CA  GLU A2251       2.107  -3.742  -6.891
+ATOM   2252  CA  GLU A2252       1.642  -4.315  -7.426
+ATOM   2253  CA  GLU A2253       2.510  -4.683  -7.576
+ATOM   2254  CA  GLU A2254       3.439  -4.868  -7.321
+ATOM   2255  CA  GLU A2255       4.179  -4.511  -6.760
+ATOM   2256  CA  GLU A2256       5.077  -4.097  -7.067
+ATOM   2257  CA  HIS A2257       5.406  -3.288  -7.301
+ATOM   2258  CA  HIS A2258       4.994  -2.431  -7.410
+ATOM   2259  CA  HIS A2259       4.388  -3.092  -7.716
+ATOM   2260  CA  HIS A2260       4.102  -4.013  -7.609
+ATOM   2261  CA  HIS A2261       3.369  -3.434  -7.411
+ATOM   2262  CA  HIS A2262       3.655  -2.564  -7.163
+ATOM   2263  CA  HIS A2263       3.299  -1.798  -7.634
+ATOM   2264  CA  HIS A2264       4.058  -1.379  -7.109
+ATOM   2265  CA  HIS A2265       4.692  -0.660  -7.296
+ATOM   2266  CA  HIS A2266       3.868  -0.381  -7.836
+ATOM   2267  CA  HIS A2267       3.092  -0.916  -8.209
+ATOM   2268  CA  HIS A2268       2.121  -0.843  -8.191
+ATOM   2269  CA  HIS A2269       1.276  -1.292  -8.076
+ATOM   2270  CA  HIS A2270       0.715  -2.075  -8.253
+ATOM   2271  CA  HIS A2271       0.953  -2.957  -8.494
+ATOM   2272  CA  HIS A2272       1.691  -3.729  -8.514
+ATOM   2273  CA  HIS A2273       1.737  -3.157  -7.738
+ATOM   2274  CA  HIS A2274       2.574  -2.800  -7.383
+ATOM   2275  CA  HIS A2275       2.665  -1.950  -7.866
+ATOM   2276  CA  HIS A2276       3.031  -2.652  -8.424
+ATOM   2277  CA  HIS A2277       2.433  -3.009  -9.107
+ATOM   2278  CA  HIS A2278       1.915  -2.227  -9.386
+ATOM   2279  CA  HIS A2279       2.244  -1.455  -9.843
+ATOM   2280  CA  HIS A2280       3.170  -1.455  -9.683
+ATOM   2281  CA  HIS A2281       3.398  -1.774  -8.818
+ATOM   2282  CA  HIS A2282       4.143  -1.346  -8.507
+ATOM   2283  CA  GLU A2283       4.399  -2.293  -8.486
+ATOM   2284  CA  GLU A2284       4.188  -3.212  -8.728
+ATOM   2285  CA  GLU A2285       3.868  -4.065  -8.952
+ATOM   2286  CA  GLU A2286       3.674  -3.493  -9.687
+ATOM   2287  CA  HIS A2287       3.593  -2.590  -9.962
+ATOM   2288  CA  HIS A2288       4.213  -2.046  -9.495
+ATOM   2289  CA  HIS A2289       4.894  -2.063  -8.763
+ATOM   2290  CA  HIS A2290       5.214  -2.836  -8.369
+ATOM   2291  CA  HIS A2291       5.907  -2.403  -7.920
+ATOM   2292  CA  HIS A2292       5.942  -2.428  -6.952
+ATOM   2293  CA  HIS A2293       5.573  -1.811  -6.307
+ATOM   2294  CA  HIS A2294       5.617  -1.344  -7.126
+ATOM   2295  CA  HIS A2295       5.260  -1.402  -7.978
+ATOM   2296  CA  HIS A2296       5.921  -2.127  -8.199
+ATOM   2297  CA  HIS A2297       6.283  -3.042  -8.140
+ATOM   2298  CA  HIS A2298       6.935  -2.350  -8.308
+ATOM   2299  CA  HIS A2299       6.822  -1.824  -7.515
+ATOM   2300  CA  HIS A2300       7.205  -2.105  -8.361
+ATOM   2301  CA  HIS A2301       8.166  -1.974  -8.350
+ATOM   2302  CA  HIS A2302       8.955  -1.369  -8.323
+ATOM   2303  CA  HIS A2303       8.434  -0.634  -7.982
+ATOM   2304  CA  HIS A2304       8.941  -0.698  -7.170
+ATOM   2305  CA  HIS A2305       9.800  -1.104  -7.404
+ATOM   2306  CA  HIS A2306       9.526  -2.063  -7.288
+ATOM   2307  CA  HIS A2307       8.712  -2.533  -7.346
+ATOM   2308  CA  HIS A2308       8.045  -3.030  -6.940
+ATOM   2309  CA  GLU A2309       7.596  -3.053  -7.793
+ATOM   2310  CA  GLU A2310       6.974  -3.713  -7.454
+ATOM   2311  CA  GLU A2311       6.424  -4.450  -7.099
+ATOM   2312  CA  GLU A2312       6.671  -4.986  -6.322
+ATOM   2313  CA  GLU A2313       6.367  -4.546  -5.573
+ATOM   2314  CA  GLU A2314       6.106  -3.908  -4.935
+ATOM   2315  CA  GLU A2315       6.175  -3.093  -4.434
+ATOM   2316  CA  GLU A2316       6.945  -3.486  -4.220
+ATOM   2317  CA  GLU A2317       7.781  -3.481  -3.796
+ATOM   2318  CA  GLU A2318       7.657  -4.346  -3.399
+ATOM   2319  CA  GLU A2319       7.042  -5.152  -3.581
+ATOM   2320  CA  GLU A2320       6.216  -5.500  -3.209
+ATOM   2321  CA  GLU A2321       6.145  -4.535  -3.165
+ATOM   2322  CA  GLU A2322       6.831  -3.876  -2.961
+ATOM   2323  CA  GLU A2323       7.460  -3.479  -2.320
+ATOM   2324  CA  GLU A2324       7.827  -4.371  -2.335
+ATOM   2325  CA  GLU A2325       8.054  -5.310  -2.477
+ATOM   2326  CA  GLU A2326       7.139  -5.313  -2.247
+ATOM   2327  CA  HIS A2327       6.285  -5.298  -1.936
+ATOM   2328  CA  HIS A2328       6.289  -4.849  -1.042
+ATOM   2329  CA  HIS A2329       7.101  -4.329  -0.884
+ATOM   2330  CA  HIS A2330       7.959  -3.976  -1.082
+ATOM   2331  CA  GLU A2331       8.062  -3.082  -1.511
+ATOM   2332  CA  GLU A2332       8.961  -2.888  -1.437
+ATOM   2333  CA  GLU A2333       9.501  -2.749  -2.161
+ATOM   2334  CA  GLU A2334       9.423  -2.606  -3.154
+ATOM   2335  CA  HIS A2335       9.790  -1.758  -3.478
+ATOM   2336  CA  HIS A2336      10.394  -1.094  -3.841
+ATOM   2337  CA  HIS A2337      10.394  -0.204  -3.658
+ATOM   2338  CA  HIS A2338      10.253   0.371  -4.395
+ATOM   2339  CA  HIS A2339       9.395  -0.089  -4.510
+ATOM   2340  CA  HIS A2340       9.048  -0.958  -4.094
+ATOM   2341  CA  HIS A2341       8.576  -1.794  -3.881
+ATOM   2342  CA  HIS A2342       7.628  -1.858  -4.050
+ATOM   2343  CA  HIS A2343       6.750  -1.678  -4.374
+ATOM   2344  CA  HIS A2344       6.698  -1.493  -5.364
+ATOM   2345  CA  HIS A2345       7.511  -1.664  -5.800
+ATOM   2346  CA  HIS A2346       8.151  -1.175  -5.294
+ATOM   2347  CA  HIS A2347       8.438  -2.077  -5.419
+ATOM   2348  CA  HIS A2348       8.183  -2.825  -4.863
+ATOM   2349  CA  HIS A2349       7.330  -2.745  -5.221
+ATOM   2350  CA  HIS A2350       6.368  -2.538  -5.268
+ATOM   2351  CA  HIS A2351       5.667  -1.813  -5.206
+ATOM   2352  CA  HIS A2352       6.365  -1.268  -5.619
+ATOM   2353  CA  HIS A2353       6.670  -0.422  -5.293
+ATOM   2354  CA  HIS A2354       5.799  -0.605  -4.773
+ATOM   2355  CA  HIS A2355       5.537  -1.444  -4.291
+ATOM   2356  CA  HIS A2356       5.926  -2.166  -3.875
+ATOM   2357  CA  HIS A2357       5.141  -2.359  -4.336
+ATOM   2358  CA  HIS A2358       4.344  -1.852  -4.446
+ATOM   2359  CA  HIS A2359       4.442  -0.921  -4.177
+ATOM   2360  CA  HIS A2360       4.604  -1.140  -3.252
+ATOM   2361  CA  HIS A2361       5.386  -1.682  -3.060
+ATOM   2362  CA  HIS A2362       4.911  -2.436  -2.733
+ATOM   2363  CA  HIS A2363       5.170  -3.324  -2.930
+ATOM   2364  CA  HIS A2364       6.066  -2.861  -2.710
+ATOM   2365  CA  HIS A2365       6.765  -2.571  -1.964
+ATOM   2366  CA  HIS A2366       5.819  -2.218  -1.797
+ATOM   2367  CA  HIS A2367       5.051  -2.884  -1.714
+ATOM   2368  CA  HIS A2368       4.526  -3.640  -1.957
+ATOM   2369  CA  HIS A2369       5.339  -4.075  -2.207
+ATOM   2370  CA  HIS A2370       6.083  -3.720  -1.687
+ATOM   2371  CA  HIS A2371       6.505  -3.259  -1.009
+ATOM   2372  CA  HIS A2372       6.143  -3.557  -0.176
+ATOM   2373  CA  HIS A2373       6.760  -4.189   0.239
+ATOM   2374  CA  HIS A2374       7.158  -5.087   0.135
+ATOM   2375  CA  HIS A2375       6.187  -5.092   0.314
+ATOM   2376  CA  HIS A2376       5.255  -5.064   0.528
+ATOM   2377  CA  HIS A2377       5.326  -4.081   0.300
+ATOM   2378  CA  HIS A2378       5.539  -4.559  -0.500
+ATOM   2379  CA  HIS A2379       4.653  -4.783  -0.941
+ATOM   2380  CA  HIS A2380       4.102  -4.670  -1.773
+ATOM   2381  CA  GLU A2381       4.464  -4.562  -2.643
+ATOM   2382  CA  GLU A2382       5.117  -5.150  -2.408
+ATOM   2383  CA  GLU A2383       5.221  -5.572  -1.465
+ATOM   2384  CA  GLU A2384       5.017  -6.230  -0.786
+ATOM   2385  CA  HIS A2385       4.252  -6.705  -1.200
+ATOM   2386  CA  HIS A2386       3.863  -6.112  -1.899
+ATOM   2387  CA  GLU A2387       3.323  -5.694  -2.499
+ATOM   2388  CA  GLU A2388       2.756  -5.105  -2.977
+ATOM   2389  CA  GLU A2389       3.377  -4.455  -3.293
+ATOM   2390  CA  GLU A2390       3.871  -3.725  -2.844
+ATOM   2391  CA  HIS A2391       3.762  -2.863  -2.258
+ATOM   2392  CA  HIS A2392       3.894  -1.991  -1.977
+ATOM   2393  CA  HIS A2393       4.497  -2.050  -2.710
+ATOM   2394  CA  HIS A2394       4.052  -2.144  -3.548
+ATOM   2395  CA  HIS A2395       3.143  -2.504  -3.394
+ATOM   2396  CA  HIS A2396       2.922  -3.345  -3.756
+ATOM   2397  CA  HIS A2397       3.655  -3.870  -4.090
+ATOM   2398  CA  HIS A2398       4.449  -3.321  -4.167
+ATOM   2399  CA  HIS A2399       5.158  -3.341  -4.838
+ATOM   2400  CA  HIS A2400       5.056  -3.077  -5.753
+ATOM   2401  CA  HIS A2401       4.402  -3.527  -6.223
+ATOM   2402  CA  HIS A2402       3.996  -4.144  -5.566
+ATOM   2403  CA  LYS A2403       3.392  -3.366  -5.710
+ATOM   2404  CA  LYS A2404       2.906  -2.506  -5.859
+ATOM   2405  CA  LYS A2405       3.839  -2.348  -5.774
+ATOM   2406  CA  LYS A2406       3.986  -2.730  -4.852
+ATOM   2407  CA  LYS A2407       3.108  -2.517  -4.472
+ATOM   2408  CA  LYS A2408       2.887  -3.361  -4.796
+ATOM   2409  CA  GLU A2409       2.162  -2.764  -4.813
+ATOM   2410  CA  GLU A2410       1.914  -2.264  -5.734
+ATOM   2411  CA  GLU A2411       1.521  -2.902  -6.364
+ATOM   2412  CA  GLU A2412       1.023  -3.696  -6.365
+ATOM   2413  CA  LYS A2413       1.020  -4.248  -5.594
+ATOM   2414  CA  LYS A2414       1.827  -4.581  -5.167
+ATOM   2415  CA  GLU A2415       2.747  -4.359  -5.107
+ATOM   2416  CA  GLU A2416       2.396  -3.890  -5.858
+ATOM   2417  CA  ASP A2417       1.669  -3.474  -5.448
+ATOM   2418  CA  ASP A2418       0.966  -2.847  -5.442
+ATOM   2419  CA  GLU A2419       0.926  -2.458  -4.562
+ATOM   2420  CA  GLU A2420       1.839  -2.724  -4.504
+ATOM   2421  CA  GLU A2421       1.869  -3.451  -3.918
+ATOM   2422  CA  GLU A2422       1.727  -4.366  -4.117
+ATOM   2423  CA  GLU A2423       2.588  -4.779  -4.073
+ATOM   2424  CA  GLU A2424       3.529  -5.088  -4.143
+ATOM   2425  CA  GLU A2425       4.315  -5.462  -3.711
+ATOM   2426  CA  GLU A2426       5.305  -5.386  -3.674
+ATOM   2427  CA  GLU A2427       5.850  -4.802  -4.187
+ATOM   2428  CA  GLU A2428       5.295  -4.028  -4.004
+ATOM   2429  CA  GLU A2429       4.751  -4.354  -4.778
+ATOM   2430  CA  GLU A2430       4.853  -5.289  -4.909
+ATOM   2431  CA  GLU A2431       4.412  -6.217  -4.925
+ATOM   2432  CA  GLU A2432       4.806  -6.162  -5.766
+ATOM   2433  CA  GLU A2433       4.223  -6.089  -6.544
+ATOM   2434  CA  GLU A2434       4.569  -5.653  -7.363
+ATOM   2435  CA  LYS A2435       5.261  -5.700  -6.710
+ATOM   2436  CA  LYS A2436       5.874  -5.640  -5.963
+ATOM   2437  CA  LYS A2437       5.442  -4.836  -6.089
+ATOM   2438  CA  LYS A2438       5.654  -3.920  -6.147
+ATOM   2439  CA  LYS A2439       6.531  -3.554  -6.419
+ATOM   2440  CA  LYS A2440       6.861  -2.723  -6.744
+ATOM   2441  CA  LYS A2441       6.756  -1.794  -6.407
+ATOM   2442  CA  LYS A2442       6.442  -0.887  -6.708
+ATOM   2443  CA  LYS A2443       5.844  -0.393  -6.216
+ATOM   2444  CA  LYS A2444       5.718   0.217  -5.504
+ATOM   2445  CA  LYS A2445       5.485   0.881  -6.216
+ATOM   2446  CA  LYS A2446       6.281   0.919  -6.682
+ATOM   2447  CA  LYS A2447       6.873   0.226  -6.515
+ATOM   2448  CA  LYS A2448       7.784   0.049  -6.248
+ATOM   2449  CA  LYS A2449       7.644  -0.548  -6.965
+ATOM   2450  CA  LYS A2450       7.302  -0.819  -7.771
+ATOM   2451  CA  LYS A2451       6.595  -1.051  -8.294
+ATOM   2452  CA  LYS A2452       6.677  -1.525  -9.109
+ATOM   2453  CA  GLU A2453       7.652  -1.926  -9.259
+ATOM   2454  CA  GLU A2454       7.888  -1.160  -8.796
+ATOM   2455  CA  LYS A2455       7.620  -0.174  -8.817
+ATOM   2456  CA  LYS A2456       7.510  -0.632  -9.688
+ATOM   2457  CA  LYS A2457       6.719  -0.705 -10.254
+ATOM   2458  CA  LYS A2458       6.346  -0.672 -11.150
+ATOM   2459  CA  LYS A2459       6.854   0.167 -11.294
+ATOM   2460  CA  LYS A2460       6.826   0.462 -10.400
+ATOM   2461  CA  LYS A2461       7.143   1.082  -9.689
+ATOM   2462  CA  LYS A2462       8.174   1.112  -9.590
+ATOM   2463  CA  LYS A2463       8.215   1.620  -8.838
+ATOM   2464  CA  LYS A2464       7.925   0.765  -8.437
+ATOM   2465  CA  LYS A2465       7.441   0.288  -7.702
+ATOM   2466  CA  LYS A2466       7.976   0.801  -7.024
+ATOM   2467  CA  LYS A2467       7.145   1.308  -7.227
+ATOM   2468  CA  LYS A2468       7.382   2.084  -7.637
+ATOM   2469  CA  LYS A2469       6.776   2.788  -7.222
+ATOM   2470  CA  LYS A2470       6.351   3.019  -6.428
+ATOM   2471  CA  GLU A2471       5.458   3.282  -6.326
+ATOM   2472  CA  GLU A2472       4.611   3.503  -6.801
+ATOM   2473  CA  GLU A2473       4.433   2.642  -7.175
+ATOM   2474  CA  GLU A2474       4.358   2.593  -8.086
+ATOM   2475  CA  LYS A2475       4.696   2.197  -8.904
+ATOM   2476  CA  LYS A2476       4.947   2.601  -9.777
+ATOM   2477  CA  LYS A2477       5.196   3.372  -9.186
+ATOM   2478  CA  LYS A2478       5.103   3.535  -8.204
+ATOM   2479  CA  LYS A2479       5.908   3.395  -7.675
+ATOM   2480  CA  LYS A2480       5.634   2.492  -7.701
+ATOM   2481  CA  LYS A2481       5.600   2.265  -6.792
+ATOM   2482  CA  LYS A2482       4.908   1.796  -6.344
+ATOM   2483  CA  LYS A2483       5.094   2.466  -5.693
+ATOM   2484  CA  LYS A2484       4.766   1.984  -4.864
+ATOM   2485  CA  LYS A2485       5.626   2.238  -4.513
+ATOM   2486  CA  LYS A2486       6.204   1.527  -4.260
+ATOM   2487  CA  LYS A2487       6.774   0.743  -4.458
+ATOM   2488  CA  LYS A2488       6.711  -0.194  -4.116
+ATOM   2489  CA  LYS A2489       5.947   0.286  -3.685
+ATOM   2490  CA  LYS A2490       5.454   0.323  -4.497
+ATOM   2491  CA  LYS A2491       5.305   1.120  -4.973
+ATOM   2492  CA  LYS A2492       6.134   1.377  -5.401
+ATOM   2493  CA  GLU A2493       6.515   2.155  -5.787
+ATOM   2494  CA  GLU A2494       7.280   2.668  -6.006
+ATOM   2495  CA  GLU A2495       7.574   3.679  -6.109
+ATOM   2496  CA  GLU A2496       8.088   3.605  -5.374
+ATOM   2497  CA  LYS A2497       7.623   2.926  -4.755
+ATOM   2498  CA  LYS A2498       6.911   2.401  -4.351
+ATOM   2499  CA  GLU A2499       7.291   1.610  -4.099
+ATOM   2500  CA  GLU A2500       7.837   1.705  -4.853
+ATOM   2501  CA  GLU A2501       7.249   1.382  -5.534
+ATOM   2502  CA  GLU A2502       7.845   1.609  -6.264
+ATOM   2503  CA  GLU A2503       8.484   2.232  -6.667
+ATOM   2504  CA  GLU A2504       8.853   1.671  -7.365
+ATOM   2505  CA  GLU A2505       9.203   1.070  -6.726
+ATOM   2506  CA  GLU A2506       8.764   1.013  -5.846
+ATOM   2507  CA  LYS A2507       8.445   0.225  -5.432
+ATOM   2508  CA  LYS A2508       8.856  -0.193  -6.178
+ATOM   2509  CA  LYS A2509       9.817  -0.131  -6.136
+ATOM   2510  CA  LYS A2510       9.764   0.509  -5.404
+ATOM   2511  CA  LYS A2511       9.655   1.376  -5.069
+ATOM   2512  CA  LYS A2512       9.054   1.361  -4.298
+ATOM   2513  CA  LYS A2513       8.458   0.552  -4.294
+ATOM   2514  CA  LYS A2514       7.922  -0.172  -4.138
+ATOM   2515  CA  GLU A2515       7.551  -0.767  -3.438
+ATOM   2516  CA  GLU A2516       8.195  -1.059  -2.801
+ATOM   2517  CA  GLU A2517       8.650  -1.415  -2.064
+ATOM   2518  CA  GLU A2518       9.497  -1.728  -2.454
+ATOM   2519  CA  GLU A2519       9.450  -0.867  -2.961
+ATOM   2520  CA  GLU A2520       8.917  -0.057  -2.938
+ATOM   2521  CA  GLU A2521       8.181   0.572  -3.175
+ATOM   2522  CA  GLU A2522       8.045   1.428  -2.780
+ATOM   2523  CA  GLU A2523       8.296   2.354  -2.610
+ATOM   2524  CA  GLU A2524       8.599   3.198  -2.391
+ATOM   2525  CA  GLU A2525       8.918   2.710  -1.605
+ATOM   2526  CA  GLU A2526       8.651   1.695  -1.753
+ATOM   2527  CA  GLU A2527       9.077   1.144  -2.403
+ATOM   2528  CA  GLU A2528       9.144   1.046  -3.304
+ATOM   2529  CA  GLU A2529       9.886   1.627  -3.076
+ATOM   2530  CA  GLU A2530       9.780   2.415  -2.507
+ATOM   2531  CA  GLU A2531      10.560   1.902  -2.242
+ATOM   2532  CA  GLU A2532      10.259   1.555  -1.437
+ATOM   2533  CA  GLU A2533       9.518   2.178  -0.993
+ATOM   2534  CA  GLU A2534      10.112   2.964  -0.846
+ATOM   2535  CA  LYS A2535      10.790   3.498  -1.270
+ATOM   2536  CA  LYS A2536       9.822   3.453  -1.123
+ATOM   2537  CA  LYS A2537       8.900   3.428  -0.819
+ATOM   2538  CA  LYS A2538       8.341   4.051  -0.302
+ATOM   2539  CA  LYS A2539       7.684   3.649  -0.902
+ATOM   2540  CA  LYS A2540       7.909   2.718  -0.749
+ATOM   2541  CA  LYS A2541       8.243   2.294  -0.009
+ATOM   2542  CA  LYS A2542       8.974   2.884   0.086
+ATOM   2543  CA  LYS A2543       9.597   2.281   0.421
+ATOM   2544  CA  LYS A2544      10.390   2.023   0.038
+ATOM   2545  CA  LYS A2545      11.032   1.608  -0.559
+ATOM   2546  CA  LYS A2546      11.553   2.186  -1.111
+ATOM   2547  CA  LYS A2547      11.170   3.071  -1.240
+ATOM   2548  CA  LYS A2548      11.412   3.005  -0.311
+ATOM   2549  CA  GLU A2549      11.890   3.900  -0.203
+ATOM   2550  CA  GLU A2550      12.526   4.407  -0.688
+ATOM   2551  CA  GLU A2551      11.768   4.976  -0.393
+ATOM   2552  CA  GLU A2552      10.987   5.409  -0.619
+ATOM   2553  CA  ARG A2553      10.265   5.377  -1.306
+ATOM   2554  CA  ARG A2554      10.921   5.797  -1.791
+ATOM   2555  CA  ARG A2555      11.799   5.394  -1.909
+ATOM   2556  CA  ARG A2556      11.422   4.524  -1.516
+ATOM   2557  CA  ARG A2557      10.629   4.457  -0.992
+ATOM   2558  CA  ARG A2558       9.652   4.552  -0.866
+ATOM   2559  CA  ARG A2559       8.904   5.052  -1.150
+ATOM   2560  CA  ARG A2560       9.468   4.761  -1.944
+ATOM   2561  CA  ARG A2561       9.904   4.000  -2.351
+ATOM   2562  CA  ARG A2562      10.750   3.710  -2.618
+ATOM   2563  CA  ARG A2563      10.977   4.654  -2.869
+ATOM   2564  CA  ARG A2564      10.253   4.657  -3.598
+ATOM   2565  CA  ARG A2565       9.672   3.829  -3.548
+ATOM   2566  CA  ARG A2566       9.567   2.994  -4.058
+ATOM   2567  CA  ARG A2567       8.746   3.061  -4.533
+ATOM   2568  CA  ARG A2568       8.376   2.290  -4.125
+ATOM   2569  CA  ARG A2569       7.620   2.573  -3.454
+ATOM   2570  CA  ARG A2570       7.080   2.474  -2.629
+ATOM   2571  CA  ARG A2571       6.923   3.166  -1.925
+ATOM   2572  CA  ARG A2572       7.697   3.679  -2.228
+ATOM   2573  CA  GLY A2573       8.348   4.138  -2.634
+ATOM   2574  CA  GLY A2574       9.188   4.566  -3.024
+ATOM   2575  CA  ARG A2575       8.674   4.188  -3.688
+ATOM   2576  CA  ARG A2576       8.907   4.229  -4.608
+ATOM   2577  CA  ARG A2577       8.148   4.592  -4.158
+ATOM   2578  CA  ARG A2578       8.728   5.304  -3.876
+ATOM   2579  CA  ARG A2579       7.865   5.036  -3.717
+ATOM   2580  CA  ARG A2580       7.672   5.514  -4.511
+ATOM   2581  CA  ARG A2581       6.987   5.214  -5.136
+ATOM   2582  CA  ARG A2582       6.071   5.565  -5.268
+ATOM   2583  CA  ARG A2583       6.291   5.790  -4.397
+ATOM   2584  CA  ARG A2584       6.403   5.990  -3.464
+ATOM   2585  CA  ARG A2585       6.516   4.996  -3.300
+ATOM   2586  CA  ARG A2586       7.374   4.712  -2.826
+ATOM   2587  CA  ARG A2587       7.560   5.628  -2.807
+ATOM   2588  CA  ARG A2588       7.749   6.565  -3.040
+ATOM   2589  CA  ARG A2589       7.059   6.020  -2.699
+ATOM   2590  CA  ARG A2590       6.297   6.519  -2.440
+ATOM   2591  CA  ARG A2591       7.011   7.166  -2.166
+ATOM   2592  CA  ARG A2592       7.915   7.391  -2.488
+ATOM   2593  CA  ARG A2593       8.671   7.870  -2.902
+ATOM   2594  CA  ARG A2594       9.465   7.395  -2.736
+ATOM   2595  CA  ARG A2595       8.921   6.610  -2.813
+ATOM   2596  CA  ARG A2596       8.919   5.700  -2.467
+ATOM   2597  CA  GLU A2597       9.869   5.879  -2.374
+ATOM   2598  CA  GLU A2598       9.816   5.574  -3.250
+ATOM   2599  CA  GLU A2599       8.902   5.735  -3.534
+ATOM   2600  CA  GLU A2600       8.415   6.423  -3.879
+ATOM   2601  CA  ARG A2601       9.384   6.674  -3.735
+ATOM   2602  CA  ARG A2602      10.020   6.753  -4.449
+ATOM   2603  CA  ARG A2603       9.528   7.675  -4.567
+ATOM   2604  CA  ARG A2604       8.836   8.307  -4.536
+ATOM   2605  CA  ARG A2605       8.095   8.745  -4.101
+ATOM   2606  CA  ARG A2606       7.403   9.395  -4.135
+ATOM   2607  CA  ARG A2607       7.177   9.260  -3.160
+ATOM   2608  CA  ARG A2608       7.096   8.282  -2.976
+ATOM   2609  CA  ARG A2609       7.296   7.591  -3.610
+ATOM   2610  CA  ARG A2610       6.485   7.617  -3.100
+ATOM   2611  CA  ARG A2611       5.731   7.003  -3.178
+ATOM   2612  CA  ARG A2612       5.463   7.008  -4.112
+ATOM   2613  CA  ARG A2613       6.317   6.898  -4.453
+ATOM   2614  CA  ARG A2614       7.071   6.505  -4.057
+ATOM   2615  CA  ARG A2615       7.658   6.603  -4.882
+ATOM   2616  CA  ARG A2616       7.651   7.407  -5.320
+ATOM   2617  CA  ARG A2617       7.321   8.049  -4.778
+ATOM   2618  CA  ARG A2618       6.622   8.321  -4.194
+ATOM   2619  CA  ARG A2619       5.893   8.686  -4.717
+ATOM   2620  CA  ARG A2620       5.755   8.776  -5.634
+ATOM   2621  CA  ARG A2621       6.338   8.094  -6.019
+ATOM   2622  CA  ARG A2622       6.511   7.308  -5.484
+ATOM   2623  CA  ARG A2623       5.598   7.148  -5.254
+ATOM   2624  CA  ARG A2624       5.562   6.486  -6.007
+ATOM   2625  CA  ARG A2625       5.065   5.716  -5.635
+ATOM   2626  CA  ARG A2626       4.562   5.633  -4.857
+ATOM   2627  CA  ARG A2627       3.735   6.170  -4.785
+ATOM   2628  CA  ARG A2628       3.426   5.563  -5.432
+ATOM   2629  CA  ARG A2629       3.966   4.815  -5.185
+ATOM   2630  CA  ARG A2630       4.885   4.568  -5.087
+ATOM   2631  CA  ARG A2631       5.365   4.699  -5.908
+ATOM   2632  CA  ARG A2632       5.808   5.149  -6.627
+ATOM   2633  CA  ARG A2633       5.325   4.924  -7.410
+ATOM   2634  CA  ARG A2634       4.643   4.388  -7.712
+ATOM   2635  CA  ARG A2635       3.796   3.964  -7.512
+ATOM   2636  CA  ARG A2636       3.582   3.563  -6.628
+ATOM   2637  CA  ARG A2637       3.728   4.457  -6.352
+ATOM   2638  CA  ARG A2638       3.983   3.883  -5.641
+ATOM   2639  CA  GLU A2639       4.348   3.074  -5.268
+ATOM   2640  CA  GLU A2640       5.187   3.565  -5.395
+ATOM   2641  CA  ARG A2641       6.137   3.667  -5.109
+ATOM   2642  CA  ARG A2642       6.769   4.084  -4.546
+ATOM   2643  CA  ARG A2643       7.205   3.883  -3.719
+ATOM   2644  CA  ARG A2644       6.478   3.838  -3.117
+ATOM   2645  CA  ARG A2645       6.371   4.058  -2.207
+ATOM   2646  CA  ARG A2646       7.087   4.575  -2.546
+ATOM   2647  CA  ARG A2647       6.240   4.983  -2.721
+ATOM   2648  CA  ARG A2648       5.733   5.611  -2.169
+ATOM   2649  CA  ARG A2649       6.201   5.856  -1.402
+ATOM   2650  CA  ARG A2650       6.562   4.952  -1.526
+ATOM   2651  CA  ARG A2651       6.730   4.285  -0.792
+ATOM   2652  CA  ARG A2652       6.277   4.040   0.034
+ATOM   2653  CA  ARG A2653       6.123   4.930  -0.248
+ATOM   2654  CA  ARG A2654       5.499   5.142  -0.976
+ATOM   2655  CA  ARG A2655       4.534   5.360  -0.940
+ATOM   2656  CA  ARG A2656       4.544   4.692  -0.210
+ATOM   2657  CA  ARG A2657       5.178   4.516   0.548
+ATOM   2658  CA  ARG A2658       5.563   4.167   1.311
+ATOM   2659  CA  ARG A2659       6.173   3.406   1.118
+ATOM   2660  CA  ARG A2660       6.722   2.870   1.709
+ATOM   2661  CA  ARG A2661       7.517   2.619   1.106
+ATOM   2662  CA  ARG A2662       6.878   2.517   0.446
+ATOM   2663  CA  ARG A2663       5.928   2.755   0.165
+ATOM   2664  CA  ARG A2664       5.245   3.421  -0.091
+ATOM   2665  CA  ARG A2665       4.388   3.674  -0.470
+ATOM   2666  CA  ARG A2666       3.626   4.244  -0.191
+ATOM   2667  CA  ARG A2667       3.861   4.432   0.787
+ATOM   2668  CA  ARG A2668       4.349   4.060   1.438
+ATOM   2669  CA  ARG A2669       4.776   3.589   2.124
+ATOM   2670  CA  ARG A2670       5.136   4.002   3.058
+ATOM   2671  CA  ARG A2671       5.751   3.480   3.465
+ATOM   2672  CA  ARG A2672       6.260   2.880   3.962
+ATOM   2673  CA  ARG A2673       5.891   3.455   4.578
+ATOM   2674  CA  ARG A2674       5.335   4.143   4.901
+ATOM   2675  CA  LYS A2675       5.651   5.031   5.039
+ATOM   2676  CA  LYS A2676       6.262   5.550   5.607
+ATOM   2677  CA  LYS A2677       6.943   5.140   6.163
+ATOM   2678  CA  LYS A2678       6.780   4.275   5.788
+ATOM   2679  CA  LYS A2679       6.967   3.907   4.939
+ATOM   2680  CA  LYS A2680       7.292   4.675   4.521
+ATOM   2681  CA  LYS A2681       6.882   4.644   3.646
+ATOM   2682  CA  LYS A2682       7.286   4.361   2.847
+ATOM   2683  CA  LYS A2683       7.842   3.989   2.174
+ATOM   2684  CA  LYS A2684       7.790   4.834   1.636
+ATOM   2685  CA  LYS A2685       7.617   5.124   0.751
+ATOM   2686  CA  LYS A2686       7.321   4.499   0.026
+ATOM   2687  CA  LYS A2687       6.922   4.100   0.840
+ATOM   2688  CA  LYS A2688       6.633   4.943   1.184
+ATOM   2689  CA  LYS A2689       6.442   4.362   1.968
+ATOM   2690  CA  LYS A2690       6.443   3.538   2.471
+ATOM   2691  CA  LYS A2691       6.997   3.040   2.994
+ATOM   2692  CA  LYS A2692       7.198   3.590   3.776
+ATOM   2693  CA  LYS A2693       8.043   3.540   3.380
+ATOM   2694  CA  LYS A2694       8.750   3.991   2.906
+ATOM   2695  CA  LYS A2695       8.469   4.169   1.979
+ATOM   2696  CA  LYS A2696       8.773   3.835   1.157
+ATOM   2697  CA  LYS A2697       8.969   4.532   0.565
+ATOM   2698  CA  LYS A2698       8.859   5.269  -0.064
+ATOM   2699  CA  LYS A2699       8.506   5.656   0.729
+ATOM   2700  CA  LYS A2700       7.793   5.878   1.365
+ATOM   2701  CA  LYS A2701       7.041   5.911   2.060
+ATOM   2702  CA  LYS A2702       7.341   5.668   3.000
+ATOM   2703  CA  ASP A2703       7.189   5.806   3.997
+ATOM   2704  CA  ASP A2704       7.956   5.959   4.498
+ATOM   2705  CA  LYS A2705       8.270   5.054   4.320
+ATOM   2706  CA  LYS A2706       8.285   4.893   3.450
+ATOM   2707  CA  LYS A2707       8.695   5.409   2.707
+ATOM   2708  CA  LYS A2708       9.150   5.693   1.948
+ATOM   2709  CA  LYS A2709       8.694   6.511   2.188
+ATOM   2710  CA  LYS A2710       8.054   7.125   2.564
+ATOM   2711  CA  GLY A2711       7.393   7.203   3.265
+ATOM   2712  CA  GLY A2712       6.691   6.760   2.730
+END
